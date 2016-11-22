@@ -3,12 +3,12 @@
 Website: www.flexmonster.com
 
 ## Available localizations
-- English (default)
+- [English (default)](/en.json)
 - [Français](/fr.json)
-- Español
-- Português
-- 中国的
-- Українська
+- [Español](/es.json)
+- [Português](/pr.json)
+- [中国的](/ch.json)
+- [Українська](/ua.json)
 
 ## Usage
 ```javaScript
