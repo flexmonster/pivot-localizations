@@ -18,6 +18,4 @@ $("#pivot-container").flexmonster({
   }
 });
 ```
-Documentation - http://www.flexmonster.com/doc/localizing-component/
-
-Live demo - http://www.flexmonster.com/demos/localization/.
+[Documentation](http://www.flexmonster.com/doc/localizing-component/) | [Live demo](http://www.flexmonster.com/demos/localization/)
