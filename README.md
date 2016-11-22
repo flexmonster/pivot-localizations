@@ -18,4 +18,4 @@ $("#pivot-container").flexmonster({
   }
 });
 ```
-Live demo - (http://www.flexmonster.com/demos/localization/)[http://www.flexmonster.com/demos/localization/].
+Live demo - http://www.flexmonster.com/demos/localization/.
