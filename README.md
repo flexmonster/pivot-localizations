@@ -4,7 +4,7 @@ Website: www.flexmonster.com
 
 ## Available localizations
 - English (default)
-- Français
+- [Français](/fr.json)
 - Español
 - Português
 - 中国的
