@@ -19,3 +19,6 @@ $("#pivot-container").flexmonster({
 });
 ```
 [Documentation](http://www.flexmonster.com/doc/localizing-component/) | [Live demo](http://www.flexmonster.com/demos/localization/)
+
+## Contribution
+If you noticed a mistake or want to add new language you are free to contribute. Please create a pull request with your changes, we will review then and merge to our repository.
