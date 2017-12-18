@@ -201,7 +201,7 @@
     "inputReportName": "请输入报告名称",
     "invalidDataSource": "用户没有当前多维数据集权限，请联系管理员设定访问权限。",
     "dataStreamError": "加載時發生流錯誤 '{0}'",
-    "unableToOpenFile": "Unable to open file {0}.<br/><br/>It seems that this file doesn't exist or 'Access-Control-Allow-Origin' header is absent in the resource requested.",
+    "unableToOpenFile": "Unable to open file {0}.<br/><br/>It seems that this file doesn't exist or 'Access-Control-Allow-Origin' header is absent in the resource requested.<br/><br/><u><a href='https://www.flexmonster.com/doc/typical-errors/#unable-to-open-file' target='_blank'>Read more info about this error</a></u>",
     "unableTwoFileBrowsingSessions": "瀏覽文件對話框已打開.",
     "wrongFormulaFormat": "公式格式錯誤 請檢查",
     "inappropriateFileFormat": "數據文件格式不合適",

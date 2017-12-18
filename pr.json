@@ -199,7 +199,7 @@
     "loadReportFromFile": "Selecionar arquivo de relatório a ser carregado",
     "inputNewName": "Entrada de novo nome",
     "inputReportName": "Por favor, insira o nome do relatório.",
-    "invalidDataSource": "Invalid datasource or catalog. Please check.",
+    "invalidDataSource": "Invalid datasource or catalog. Please check. <br/><br/><u><a href='https://www.flexmonster.com/doc/typical-errors/#invalid-datasource' target='_blank'>Read more info about this error</a></u>",
     "dataStreamError": "Erro de transmissão. {0}",
     "unableToOpenFile": "Impossível abrir o ficheiro {0}.<br/><br/>Parece que este arquivo não existe ou'Access-Control-Allow-Origin'o cabeçalho está ausente no recurso solicitado.",
     "unableTwoFileBrowsingSessions": "Browse file dialog is already opened.",
