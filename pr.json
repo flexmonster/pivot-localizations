@@ -63,7 +63,8 @@
     "totals": "Totais",
     "grandTotal": "Total geral",
     "blankMember": "(blank)",
-    "dateInvalidCaption": "Data inválida"
+    "dateInvalidCaption": "Data inválida",
+    "reportInformation": "Report Information"
   },
   "charts": {
     "showLegend": "Mostrar Legenda",
