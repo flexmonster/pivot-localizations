@@ -63,7 +63,8 @@
     "totals": "总计",
     "grandTotal": "汇总",
     "blankMember": "(blank)",
-    "dateInvalidCaption": "Invalid date"
+    "dateInvalidCaption": "Invalid date",
+    "reportInformation": "Report Information"
   },
   "charts": {
     "showLegend": "显示图例",
