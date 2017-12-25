@@ -63,7 +63,8 @@
     "totals": "Összegek",
     "grandTotal": "Összesen",
     "blankMember": "(üres)",
-    "dateInvalidCaption": "Érvénytelen dátum"
+    "dateInvalidCaption": "Érvénytelen dátum",
+    "reportInformation": "Riport információ"
   },
   "charts": {
     "showLegend": "Előzmények mutatása",
