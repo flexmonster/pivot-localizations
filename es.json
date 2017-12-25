@@ -63,7 +63,8 @@
     "totals": "Totales",
     "grandTotal": "Total",
     "blankMember": "(blanco)",
-    "dateInvalidCaption": "Invalid date"
+    "dateInvalidCaption": "Invalid date",
+    "reportInformation": "Report Information"
   },
   "charts": {
     "showLegend": "mostrar leyenda",
