@@ -8,7 +8,7 @@ Website: www.flexmonster.com
 - [Chinese](/ch.json)
 - [Spanish](/es.json)
 - [French](/fr.json)
-- [Hungarina](/hu.json)
+- [Hungarian](/hu.json)
 - [Portuguese](/pr.json)
 - [Ukrainian](/ua.json)
 
