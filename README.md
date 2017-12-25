@@ -3,19 +3,25 @@
 Website: www.flexmonster.com
 
 ## Available localizations
-- English (default)
-- Français
-- Español
-- Português
-- 中国的
-- Українська
+
+- [English (default)](/en.json)
+- [Chinese](/ch.json)
+- [Spanish](/es.json)
+- [French](/fr.json)
+- [Hungarian](/hu.json)
+- [Portuguese](/pr.json)
+- [Ukrainian](/ua.json)
 
 ## Usage
 ```javaScript
-$("#pivot-container").flexmonster({
+var pivot = new Flexmonster({
+  container: "#pivot-container",
   global: {
     localization: "es.json"
   }
 });
 ```
-Live demo - http://www.flexmonster.com/demos/localization/.
+[Documentation](http://www.flexmonster.com/doc/localizing-component/) | [Live demo](http://www.flexmonster.com/demos/localization/)
+
+## Contribution
+If you noticed a mistake or want to add a new language you are free to contribute. Please create a pull request with your changes, we will review them and merge to our repository.
