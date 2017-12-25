@@ -63,7 +63,8 @@
     "totals": "Totaux",
     "grandTotal": "Somme finale",
     "blankMember": "(blanc)",
-    "dateInvalidCaption": "Invalid date"
+    "dateInvalidCaption": "Invalid date",
+    "reportInformation": "Report Information"
   },
   "charts": {
     "showLegend": "Afficher la légende",
