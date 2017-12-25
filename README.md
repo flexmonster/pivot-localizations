@@ -14,7 +14,8 @@ Website: www.flexmonster.com
 
 ## Usage
 ```javaScript
-$("#pivot-container").flexmonster({
+var pivot = new Flexmonster({
+  container: "#pivot-container",
   global: {
     localization: "es.json"
   }
