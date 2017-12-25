@@ -63,7 +63,8 @@
     "totals": "Загальні значення",
     "grandTotal": "Загальна сума",
     "blankMember": "(blank)",
-    "dateInvalidCaption": "Invalid date"
+    "dateInvalidCaption": "Invalid date",
+    "reportInformation": "Додаткова інформація"
   },
   "charts": {
     "showLegend": "Згорнути легенду",
