@@ -63,7 +63,8 @@
     "totals": "Összegek",
     "grandTotal": "Összesen",
     "blankMember": "(üres)",
-    "dateInvalidCaption": "Érvénytelen dátum"
+    "dateInvalidCaption": "Érvénytelen dátum",
+    "reportInformation": "Riport információ"
   },
   "charts": {
     "showLegend": "Előzmények mutatása",
@@ -311,6 +312,8 @@
     "connect_local_json": "JSON ezen a gépen",
     "connect_remote_csv": "CSV távoli gépen",
     "connect_remote_csv_mobile": "CSV",
+    "connect_remote_json": "JSON távoli gépen",
+    "connect_remote_json_mobile": "JSON",
     "connect_olap": "OLAP-hoz (XMLA)",
     "connect_olap_mobile": "OLAP",
     "open": "Megnyitás",
@@ -357,6 +360,7 @@
     "if": "Ha",
     "then": "Akkor",
     "open_remote_csv": "Távoli CSV megnyitása",
+    "open_remote_json": "Távoli JSON megnyitása",
     "csv": "CSV",
     "olap_connection_tool": "OLAP kapcsolat kezelő eszköz",
     "select_data_source": "Adatforrás kiválasztása",

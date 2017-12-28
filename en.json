@@ -7,33 +7,33 @@
     "columnBox": "Drop & Arrange Columns",
     "measureBox": "Drop & Arrange Values",
     "values": "Values",
+    "addCalculatedMeasure": "Add calculated value",
+    "expandAll": "Expand All",
+    "collapseAll": "Collapse All",
+    "formulasGroupName": "Calculated Values",
     "allFields": "All Fields",
     "rows": "Rows",
     "columns": "Columns",
     "filters": "Report Filters",
     "dropField": "Drop field here",
-    "addCalculatedMeasure": "Add calculated value",
-    "expandAll": "Expand All",
-    "collapseAll": "Collapse All",
-    "formulasGroupName": "Calculated Values",
     "title": "Fields",
     "subtitle": "Drag and drop fields to arrange"
   },
   "filter": {
+    "all": "All",
+    "multipleItems": "Multiple Items",
+    "selectAll": "Select All",
+    "selectAllResults": "Select All Results",
+    "top": "Top",
+    "bottom": "Bottom",
     "ascSort": "Az",
     "descSort": "zA",
     "topX": "Top 10",
     "clearTopX": "Clear",
-    "top": "Top",
-    "bottom": "Bottom",
     "measuresPrompt": "Choose value",
     "search": "Search",
-    "selectAll": "Select All",
-    "selectAllResults": "Select All Results",
     "amountSelected": "{0} of {1} selected",
     "amountFound": "{0} of {1} found are selected",
-    "multipleItems": "Multiple Items",
-    "all": "All",
     "sort": "Sort:",
     "addGroup": "Add group",
     "groupName": "Group 1",
@@ -63,16 +63,17 @@
     "totals": "Totals",
     "grandTotal": "Grand Total",
     "blankMember": "(blank)",
-    "dateInvalidCaption": "Invalid date"
+    "dateInvalidCaption": "Invalid date",
+    "reportInformation": "Report Information"
   },
   "charts": {
     "showLegend": "Show legend",
     "hideLegend": "Hide legend",
     "selectMeasures": "Select measures",
     "rowNumber": "Row number",
-    "bigDataSetWarning": "Data set is too big to be displayed on the chart. Data set will be cut off to the amount fitting into the chart.",
     "flatTypesLimitation": "Bar stack and bar line charts are not available for flat table.",
-    "noDataTitle": "No data to display."
+    "noDataTitle": "No data to display.",
+    "bigDataSetWarning": "Data set is too big to be displayed on the chart. Data set will be cut off to the amount fitting into the chart."
   },
   "tooltips": {
     "row": "Row:",
@@ -91,53 +92,55 @@
     "close": "Click to close"
   },
   "aggregations": {
-    "average": {
-      "caption": "Average",
-      "totalCaption": "Average of {0}",
-      "grandTotalCaption": "Total Average of {0}"
+    "sum": {
+      "caption": "Sum",
+      "totalCaption": "Sum of {0}",
+      "grandTotalCaption": "Total Sum of {0}"
     },
     "count": {
       "caption": "Count",
       "totalCaption": "Count of {0}",
       "grandTotalCaption": "Total Count of {0}"
     },
-    "difference": {
-      "caption": "Difference",
-      "totalCaption": "Difference of {0}",
-      "grandTotalCaption": "Difference of {0}"
-    },
     "distinctCount": {
       "caption": "Distinct Count",
       "totalCaption": "Distinct Count of {0}",
       "grandTotalCaption": "Total Distinct Count of {0}"
     },
-    "index": {
-      "caption": "Index",
-      "totalCaption": "Index of {0}",
-      "grandTotalCaption": "Index of {0}"
+    "difference": {
+      "caption": "Difference",
+      "totalCaption": "Difference of {0}",
+      "grandTotalCaption": "Difference of {0}"
     },
-    "max": {
-      "caption": "Max",
-      "totalCaption": "Max of {0}",
-      "grandTotalCaption": "Total Max of {0}"
+    "percentDifference": {
+      "caption": "% Difference",
+      "totalCaption": "% Difference of {0}",
+      "grandTotalCaption": "% Difference of {0}"
+    },
+    "average": {
+      "caption": "Average",
+      "totalCaption": "Average of {0}",
+      "grandTotalCaption": "Total Average of {0}"
+    },
+    "product": {
+      "caption": "Product",
+      "totalCaption": "Product of {0}",
+      "grandTotalCaption": "Total Product of {0}"
     },
     "min": {
       "caption": "Min",
       "totalCaption": "Min of {0}",
       "grandTotalCaption": "Total Min of {0}"
     },
-    "none": {
-      "caption": "No Calculation"
+    "max": {
+      "caption": "Max",
+      "totalCaption": "Max of {0}",
+      "grandTotalCaption": "Total Max of {0}"
     },
     "percent": {
       "caption": "% of Grand Total",
       "totalCaption": "% of Grand Total of {0}",
       "grandTotalCaption": "Total % of Grand Total of {0}"
-    },
-    "percentDifference": {
-      "caption": "% Difference",
-      "totalCaption": "% Difference of {0}",
-      "grandTotalCaption": "% Difference of {0}"
     },
     "percentOfColumn": {
       "caption": "% of Column",
@@ -149,15 +152,13 @@
       "totalCaption": "% of Row of {0}",
       "grandTotalCaption": "Total % of Row of {0}"
     },
-    "product": {
-      "caption": "Product",
-      "totalCaption": "Product of {0}",
-      "grandTotalCaption": "Total Product of {0}"
+    "index": {
+      "caption": "Index",
+      "totalCaption": "Index of {0}",
+      "grandTotalCaption": "Index of {0}"
     },
-    "sum": {
-      "caption": "Sum",
-      "totalCaption": "Sum of {0}",
-      "grandTotalCaption": "Total Sum of {0}"
+    "none": {
+      "caption": "No Calculation"
     }
   },
   "messages": {
@@ -170,7 +171,6 @@
     "loading": "Loading...",
     "loadingConfiguration": "",
     "loadingData": "Loading data...",
-    "uploading": "Uploading...",
     "waiting": "Waiting for the response {0} sec.",
     "progress": "{0}K",
     "progressUnknown": "loaded {0}K",
@@ -183,19 +183,19 @@
     "loadingMeasures": "Loading measures...",
     "loadingKPIs": "Loading KPIs...",
     "loadingMembers": "Loading members...",
-    "loadingProperties": "Loading properties...",
     "loadingLevels": "Loading levels...",
+    "loadingProperties": "Loading properties...",
     "fullscreen": "Open report in full screen?",
     "exportComplete": "Export data is created, please click \"Save\" button to save the _data.",
+    "exportProgress": "Export in progress...",
+    "exportError": "Failed to export. An unexpected error occurred.",
     "generatingPDF": "Generating PDF",
     "pleaseWait": "Please wait.",
     "pagesWereGenerated": "pages were generated.",
-    "exportProgress": "Export in progress...",
-    "exportError": "Failed to export. An unexpected error occurred.",
+    "uploading": "Uploading...",
     "cantSaveFile": "Cannot save file.",
     "cantSaveToClipboard": "Error: Cannot write to the clipboard.",
     "saveReportToFile": "Report is ready to be saved to file, please click \"Save\" button to save the report.",
-    "saveDataToFile": "Data is ready to be saved to file, please click \"Save\" button to save the file.",
     "loadReportFromFile": "Select report file to be loaded.",
     "inputNewName": "Input new name",
     "inputReportName": "Please input report name",
@@ -203,20 +203,23 @@
     "dataStreamError": "Stream error occurred while loading '{0}'<br/><br/><u><a href='https://www.flexmonster.com/doc/typical-errors/#stream-error' target='_blank'>Read more info about this error</a></u>",
     "unableToOpenFile": "Unable to open file {0}.<br/><br/>It seems that this file doesn't exist or 'Access-Control-Allow-Origin' header is absent in the resource requested.<br/><br/><u><a href='https://www.flexmonster.com/doc/typical-errors/#unable-to-open-file' target='_blank'>Read more info about this error</a></u>",
     "unableTwoFileBrowsingSessions": "Browse file dialog is already opened.",
-    "wrongFormulaFormat": "Wrong formula format. Please check.",
     "inappropriateFileFormat": "The data file is of inappropriate format.",
     "invalidJSONdata": "JSON data is invalid.",
+    "wrongFormulaFormat": "Wrong formula format. Please check.",
     "excelCsvChartsExportError": "Export to Microsoft Excel or CSV is not available for charts.",
     "excelPdfExportLimitation": "Export to Microsoft Excel or PDF is not available in the current edition.",
     "excelExportLimitation": "Export is not available in the current edition.",
     "noDataAvailable": "Data source is empty. Please check the CSV file.",
-    "csvHeaderParsingError": "CSV header parsing error.",
+    "saveDataToFile": "Data is ready to be saved to file, please click \"Save\" button to save the file.",
     "dataWasUpdated": "Data source has been updated on the server. Refresh the report?",
     "cantConnectToAccelerator": "Cannot connect to data source. Please check if Flexmonster Accelerator is running.",
     "ocsvIncompatible": "Unable to read data source. It seems that OCSV file was compressed with a newer version. Please update the component to version {0} or newer.",
     "unknownError": "Unknown error occurred.",
     "invalidReportFormat": "Invalid report format or access to file is denied.",
-    "tooManyColumnsInClassicMode": "Too many columns for classic form. Switched layout to compact form."
+    "csvHeaderParsingError": "CSV header parsing error.",
+    "tooManyColumnsInClassicMode": "Too many columns for classic form. Switched layout to compact form.",
+    "cantExpand": "Some fields cannot be expanded. Please narrow down the data set.",
+    "cantExpandTitle": "Data set is too large"
   },
   "kpis": {
     "kpis": "KPIs",
@@ -236,15 +239,15 @@
     "no": "No"
   },
   "contextMenu": {
-    "drillThrough": "Drill through",
-    "openFilter": "Open filter",
-    "collapse": "Collapse",
-    "expand": "Expand",
-    "sortRowDesc": "Sort row desc",
-    "sortRowAsc": "Sort row asc",
     "clearSorting": "Clear sorting",
+    "collapse": "Collapse",
+    "drillThrough": "Drill through",
+    "expand": "Expand",
+    "openFilter": "Open filter",
+    "sortColumnAsc": "Sort column asc",
     "sortColumnDesc": "Sort column desc",
-    "sortColumnAsc": "Sort column asc"
+    "sortRowAsc": "Sort row asc",
+    "sortRowDesc": "Sort row desc"
   },
   "date": {
     "year": "Year",
@@ -311,6 +314,8 @@
     "connect_local_json": "To local JSON",
     "connect_remote_csv": "To remote CSV",
     "connect_remote_csv_mobile": "CSV",
+    "connect_remote_json": "To remote JSON",
+    "connect_remote_json_mobile": "JSON",
     "connect_olap": "To OLAP (XMLA)",
     "connect_olap_mobile": "OLAP",
     "open": "Open",
@@ -318,6 +323,7 @@
     "remote_report": "Remote report",
     "remote_report_mobile": "Report",
     "save": "Save",
+    "save_json": null,
     "load_json": "JSON report",
     "grid": "Grid",
     "grid_flat": "Flat",
@@ -340,6 +346,7 @@
     "conditional_formatting_mobile": "Conditional",
     "options": "Options",
     "fullscreen": "Fullscreen",
+    "minimize": "Minimize",
     "export": "Export",
     "export_print": "Print",
     "export_html": "To HTML",
@@ -357,6 +364,7 @@
     "if": "If",
     "then": "Then",
     "open_remote_csv": "Open remote CSV",
+    "open_remote_json": "Open remote JSON",
     "csv": "CSV",
     "olap_connection_tool": "OLAP connection tool",
     "select_data_source": "Select data source",

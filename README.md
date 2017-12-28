@@ -3,16 +3,19 @@
 Website: www.flexmonster.com
 
 ## Available localizations
+
 - [English (default)](/en.json)
-- [Français](/fr.json)
-- [Español](/es.json)
-- [Português](/pr.json)
-- [中国的](/ch.json)
-- [Українська](/ua.json)
+- [Chinese](/ch.json)
+- [Spanish](/es.json)
+- [French](/fr.json)
+- [Hungarian](/hu.json)
+- [Portuguese](/pr.json)
+- [Ukrainian](/ua.json)
 
 ## Usage
 ```javaScript
-$("#pivot-container").flexmonster({
+var pivot = new Flexmonster({
+  container: "#pivot-container",
   global: {
     localization: "es.json"
   }

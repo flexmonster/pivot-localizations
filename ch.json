@@ -63,7 +63,8 @@
     "totals": "总计",
     "grandTotal": "汇总",
     "blankMember": "(blank)",
-    "dateInvalidCaption": "Invalid date"
+    "dateInvalidCaption": "Invalid date",
+    "reportInformation": "Report Information"
   },
   "charts": {
     "showLegend": "显示图例",
@@ -313,6 +314,8 @@
     "connect_local_json": "本地JSON",
     "connect_remote_csv": "远程CSV",
     "connect_remote_csv_mobile": "CSV",
+    "connect_remote_json": "远程JSON",
+    "connect_remote_json_mobile": "JSON",
     "connect_olap": "OLAP (XMLA)",
     "connect_olap_mobile": "OLAP",
     "open": "打开",
@@ -359,6 +362,7 @@
     "if": "如果",
     "then": "然后",
     "open_remote_csv": "打开远程CSV",
+    "open_remote_json": "打开远程JSON",
     "csv": "CSV",
     "olap_connection_tool": "OLAP连接工具",
     "select_data_source": "选择数据源",

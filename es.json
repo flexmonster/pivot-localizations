@@ -63,7 +63,8 @@
     "totals": "Totales",
     "grandTotal": "Total",
     "blankMember": "(blanco)",
-    "dateInvalidCaption": "Invalid date"
+    "dateInvalidCaption": "Invalid date",
+    "reportInformation": "Report Information"
   },
   "charts": {
     "showLegend": "mostrar leyenda",
@@ -313,6 +314,8 @@
     "connect_local_json": "JSON local",
     "connect_remote_csv": "CSV remoto",
     "connect_remote_csv_mobile": "CSV",
+    "connect_remote_json": "JSON remoto",
+    "connect_remote_json_mobile": "JSON",
     "connect_olap": "OLAP (XMLA)",
     "connect_olap_mobile": "OLAP",
     "open": "Abierto",
@@ -359,6 +362,7 @@
     "if": "Si",
     "then": "Entonces",
     "open_remote_csv": "Abrir CSV remoto",
+    "open_remote_json": "Abrir JSON remoto",
     "csv": "CSV",
     "olap_connection_tool": "Herramienta de conexión OLAP",
     "select_data_source": "Seleccionar fuente de datos",
