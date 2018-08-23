@@ -7,17 +7,17 @@
     "columnBox": "Déposer et organiser les colonnes",
     "measureBox": "Déposer et organiser les valeurs",
     "values": "Valeurs",
-    "allFields": "All Fields",
+    "allFields": "Tout les chammps",
     "rows": "Lignes",
     "columns": "Colonnes",
     "filters": "Filtres",
-    "dropField": "Drop Field Here",
+    "dropField": "Glissez déposez ici",
     "addCalculatedMeasure": "Ajouter des valeurs calculées",
     "expandAll": "+ Développer tout",
     "collapseAll": "- Réduire tout",
     "formulasGroupName": "Les valeurs calculées",
     "title": "Champs",
-    "subtitle": "Drag and drop fields to arrange"
+    "subtitle": "Glissez déposez les champs pour organiser"
   },
   "filter": {
     "ascSort": "Az",
