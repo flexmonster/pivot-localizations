@@ -72,7 +72,7 @@
     "selectMeasures": "Select measures",
     "rowNumber": "Row number",
     "bigDataSetWarning": "Data set is too big to be displayed on the chart. Data set will be cut off to the amount fitting into the chart.",
-    "flatTypesLimitation": "Bar stack and bar line charts are not available for flat table.",
+    "flatTypesLimitation": "Stacked column and column line charts are not available for flat table.",
     "noDataTitle": "No data to display."
   },
   "tooltips": {
@@ -334,8 +334,8 @@
     "charts_line": "Лінійна діаграма",
     "charts_scatter": "Точкова діаграма",
     "charts_pie": "Кругова діаграма",
-    "charts_bar_stack": "Гістограма стек",
-    "charts_bar_line": "Гістограма з лініями",
+    "charts_stacked_column": "Гістограма стек",
+    "charts_column_line": "Гістограма з лініями",
     "charts_multiple": "Кілька значень",
     "charts_multiple_disabled": "Кілька значень неможливо застосувати до ",
     "format": "Формат",

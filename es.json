@@ -72,7 +72,7 @@
     "selectMeasures": "Select measures",
     "rowNumber": "Row number",
     "bigDataSetWarning": "Data set is too big to be displayed on the chart. Data set will be cut off to the amount fitting into the chart.",
-    "flatTypesLimitation": "Bar stack and bar line charts are not available for flat table.",
+    "flatTypesLimitation": "Stacked column and column line charts are not available for flat table.",
     "noDataTitle": "No data to display."
   },
   "tooltips": {
@@ -334,8 +334,8 @@
     "charts_line": "Linea",
     "charts_scatter": "Dispersión",
     "charts_pie": "Circular",
-    "charts_bar_stack": "Pila de barras",
-    "charts_bar_line": "Líneas de barras",
+    "charts_stacked_column": "Columna apilada",
+    "charts_column_line": "Línea de columna",
     "charts_multiple": "Valores múltiples",
     "charts_multiple_disabled": "Los valores múltiples no se aplican a ",
     "format": "Formato",
