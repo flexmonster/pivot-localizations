@@ -159,6 +159,21 @@
         "caption": "Somme",
         "totalCaption": "Somme des {0}",
         "grandTotalCaption": "La somme totale de {0}"
+    },
+    "stdevp": {
+      "caption": "Population StDev",
+      "totalCaption": "Population StDev de {0}",
+      "grandTotalCaption": "Population totale StDev de {0}"
+    },
+    "stdevs": {
+      "caption": "Échantillon StDev",
+      "totalCaption": "Échantillon StDev de {0}",
+      "grandTotalCaption": "Total échantillon StDev de {0}"
+    },
+    "runningTotals": {
+      "caption": "Totaux cumulés",
+      "totalCaption": "Totaux cumulés de {0}",
+      "grandTotalCaption": "Totaux cumulés de {0}"
     }
   },
   "messages": {
@@ -334,8 +349,8 @@
     "charts_line": "Ligne",
     "charts_scatter": "Dispersion",
     "charts_pie": "Camembert",
-    "charts_bar_stack": "Barre de pile",
-    "charts_bar_line": "Barre de lignes",
+    "charts_stacked_column": "Colonne empilée",
+    "charts_column_line": "Ligne de colonne",
     "charts_multiple": "Valeurs multiples",
     "charts_multiple_disabled": "Les valeurs multiples ne s'appliquent pas ",
     "format": "Format",

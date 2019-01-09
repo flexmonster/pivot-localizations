@@ -71,7 +71,7 @@
     "hideLegend": "Hide legend",
     "selectMeasures": "Select measures",
     "rowNumber": "Row number",
-    "flatTypesLimitation": "Bar stack and bar line charts are not available for flat table.",
+    "flatTypesLimitation": "Stacked column and column line charts are not available for flat table.",
     "noDataTitle": "No data to display.",
     "bigDataSetWarning": "Data set is too big to be displayed on the chart. Data set will be cut off to the amount fitting into the chart."
   },
@@ -156,6 +156,21 @@
       "caption": "Index",
       "totalCaption": "Index of {0}",
       "grandTotalCaption": "Index of {0}"
+    },
+    "stdevp": {
+      "caption": "Population StDev",
+      "totalCaption": "Population StDev of {0}",
+      "grandTotalCaption": "Total Population StDev of {0}"
+    },
+    "stdevs": {
+      "caption": "Sample StDev",
+      "totalCaption": "Sample StDev of {0}",
+      "grandTotalCaption": "Total Sample StDev of {0}"
+    },
+    "runningTotals": {
+      "caption": "Running Totals",
+      "totalCaption": "Running Totals of {0}",
+      "grandTotalCaption": "Running Totals of {0}"
     },
     "none": {
       "caption": "No Calculation"
@@ -335,8 +350,8 @@
     "charts_line": "Line",
     "charts_scatter": "Scatter",
     "charts_pie": "Pie",
-    "charts_bar_stack": "Bar stack",
-    "charts_bar_line": "Bar line",
+    "charts_stacked_column": "Stacked column",
+    "charts_column_line": "Column line",
     "charts_multiple": "Multiple values",
     "charts_multiple_disabled": "Mutltiple values do not apply to ",
     "format": "Format",

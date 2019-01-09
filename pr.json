@@ -159,6 +159,21 @@
       "caption": "Soma",
       "totalCaption": "Soma de {0}",
       "grandTotalCaption": "Soma total de {0}"
+    },
+    "stdevp": {
+      "caption": "População StDev",
+      "totalCaption": "População StDev de {0}",
+      "grandTotalCaption": "População StDev total de {0}"
+    },
+    "stdevs": {
+      "caption": "Amostra StDev ",
+      "totalCaption": "Amostra StDev de {0}",
+      "grandTotalCaption": "Amostra StDev total de {0}"
+    },
+    "runningTotals": {
+      "caption": "Totais em execução",
+      "totalCaption": "Totais em execução de {0}",
+      "grandTotalCaption": "Totais em execução de {0}"
     }
   },
   "messages": {
@@ -237,8 +252,8 @@
     "save": "Salvar",
     "clear": "Limpar",
     "select": "Procurar...",
-    "yes": "Yes",
-    "no": "No"
+    "yes": "Sim",
+    "no": "Não"
   },
   "contextMenu": {
     "drillThrough": "Drill through",
@@ -336,8 +351,8 @@
     "charts_line": "Linha",
     "charts_scatter": "Dispersão",
     "charts_pie": "Pizza",
-    "charts_bar_stack": "Pilha de barras",
-    "charts_bar_line": "Linha de barras",
+    "charts_stacked_column": "Coluna empilhada",
+    "charts_column_line": "Linha de coluna",
     "charts_multiple": "Vários valores",
     "charts_multiple_disabled": "Valores múltiplos não se aplicam a ",
     "format": "Formatar",

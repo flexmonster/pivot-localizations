@@ -46,17 +46,17 @@
     "value": "{0}: {1}"
   },
   "calculatedView": {
-    "title": "Calculated Value",
+    "title": "Обрахована міра",
     "measureBox": "Перегягніть міру до формули",
     "measureName": "Назва міри",
     "formula": "Формула",
-    "formulaPrompt": "Drop values and edit formula here",
+    "formulaPrompt": "Перетягніть виміри і редагуйте формулу тут",
     "calculateIndividualValues": "Обаховувати індивідуальні значення",
-    "removeValue": "Remove",
-    "removeValueTitle": "Remove {0}?",
-    "removeValueMessage": "Are you sure you want to remove this calculated value?",
-    "header": "Add calculated value",
-    "allValues": "All values"
+    "removeValue": "Видалити",
+    "removeValueTitle": "Видалити {0}?",
+    "removeValueMessage": "Ви впевнені що бажаєте видалити цю міру?",
+    "header": "Додати міру",
+    "allValues": "Всі міри"
   },
   "grid": {
     "total": "",
@@ -72,7 +72,7 @@
     "selectMeasures": "Select measures",
     "rowNumber": "Row number",
     "bigDataSetWarning": "Data set is too big to be displayed on the chart. Data set will be cut off to the amount fitting into the chart.",
-    "flatTypesLimitation": "Bar stack and bar line charts are not available for flat table.",
+    "flatTypesLimitation": "Stacked column and column line charts are not available for flat table.",
     "noDataTitle": "No data to display."
   },
   "tooltips": {
@@ -159,6 +159,21 @@
       "caption": "Сума",
       "totalCaption": "Сума по {0}",
       "grandTotalCaption": "Загальна сума по {0}"
+    },
+    "stdevp": {
+      "caption": "StDev популяції",
+      "totalCaption": "StDev популяції по {0}",
+      "grandTotalCaption": "StDev популяції по всіх {0}"
+    },
+    "stdevs": {
+      "caption": "StDev зразка",
+      "totalCaption": "StDev зразка по {0}",
+      "grandTotalCaption": "StDev зразка по всіх {0}"
+    },
+    "runningTotals": {
+      "caption": "Наростаючий підсумок",
+      "totalCaption": "Наростаючий підсумок по {0}",
+      "grandTotalCaption": "Наростаючий підсумок по {0}"
     }
   },
   "messages": {
@@ -235,8 +250,8 @@
     "save": "Зберегти",
     "clear": "Очистити",
     "select": "Вибрати",
-    "yes": "Yes",
-    "no": "No"
+    "yes": "Так",
+    "no": "Ні"
   },
   "contextMenu": {
     "drillThrough": "Drill through",
@@ -334,8 +349,8 @@
     "charts_line": "Лінійна діаграма",
     "charts_scatter": "Точкова діаграма",
     "charts_pie": "Кругова діаграма",
-    "charts_bar_stack": "Гістограма стек",
-    "charts_bar_line": "Гістограма з лініями",
+    "charts_stacked_column": "Гістограма стек",
+    "charts_column_line": "Гістограма з лініями",
     "charts_multiple": "Кілька значень",
     "charts_multiple_disabled": "Кілька значень неможливо застосувати до ",
     "format": "Формат",

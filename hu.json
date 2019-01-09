@@ -159,6 +159,21 @@
       "caption": "Összeg",
       "totalCaption": "{0} összege",
       "grandTotalCaption": "{0} összege"
+    },
+    "stdevp": {
+      "caption": "Népesség StDev",
+      "totalCaption": "{0} népesség StDev",
+      "grandTotalCaption": "{0} teljes népesség StDev"
+    },
+    "stdevs": {
+      "caption": "Minta StDev",
+      "totalCaption": "{0} minta StDev",
+      "grandTotalCaption": "{0} teljes minta StDev"
+    },
+    "runningTotals": {
+      "caption": "Futó összesítések",
+      "totalCaption": "{0} futó összesítések",
+      "grandTotalCaption": "{0} futó összesítések"
     }
   },
   "messages": {
@@ -332,8 +347,8 @@
     "charts_line": "Vonal",
     "charts_scatter": "Pont",
     "charts_pie": "Kör",
-    "charts_bar_stack": "Halmozott oszlop",
-    "charts_bar_line": "Oszlop és vonal",
+    "charts_stacked_column": "Halmozott oszlop",
+    "charts_column_line": "Oszlop és vonal",
     "charts_multiple": "Több érték megjelenítése",
     "charts_multiple_disabled": "Több érték nem jeleníthető meg",
     "format": "Formátum",

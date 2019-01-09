@@ -159,6 +159,21 @@
       "caption": "总和",
       "totalCaption": "{0}的和",
       "grandTotalCaption": "{0}的总和"
+    },
+    "stdevp": {
+      "caption": "人口StDev",
+      "totalCaption": "{0}人口StDev",
+      "grandTotalCaption": "{0}总人口StDev"
+    },
+    "stdevs": {
+      "caption": "样品StDev",
+      "totalCaption": "{0}样品StDev",
+      "grandTotalCaption": "{0}总样本StDev"
+    },
+    "runningTotals": {
+      "caption": "运行总计",
+      "totalCaption": "{0}运行总计",
+      "grandTotalCaption": "{0}运行总计"
     }
   },
   "messages": {
@@ -334,8 +349,8 @@
     "charts_line": "折线图",
     "charts_scatter": "散点图",
     "charts_pie": "饼形图",
-    "charts_bar_stack": "酒吧堆栈图",
-    "charts_bar_line": "酒吧折线图",
+    "charts_stacked_column": "堆积的列",
+    "charts_column_line": "列线",
     "charts_multiple": "多个值",
     "charts_multiple_disabled": "多个值不适用于",
     "format": "格式",
