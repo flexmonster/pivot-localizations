@@ -159,6 +159,21 @@
         "caption": "Somme",
         "totalCaption": "Somme des {0}",
         "grandTotalCaption": "La somme totale de {0}"
+    },
+    "stdevp": {
+      "caption": "Population StDev",
+      "totalCaption": "Population StDev de {0}",
+      "grandTotalCaption": "Population totale StDev de {0}"
+    },
+    "stdevs": {
+      "caption": "Échantillon StDev",
+      "totalCaption": "Échantillon StDev de {0}",
+      "grandTotalCaption": "Total échantillon StDev de {0}"
+    },
+    "runningTotals": {
+      "caption": "Totaux cumulés",
+      "totalCaption": "Totaux cumulés de {0}",
+      "grandTotalCaption": "Totaux cumulés de {0}"
     }
   },
   "messages": {

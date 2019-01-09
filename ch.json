@@ -159,6 +159,21 @@
       "caption": "总和",
       "totalCaption": "{0}的和",
       "grandTotalCaption": "{0}的总和"
+    },
+    "stdevp": {
+      "caption": "人口StDev",
+      "totalCaption": "{0}人口StDev",
+      "grandTotalCaption": "{0}总人口StDev"
+    },
+    "stdevs": {
+      "caption": "样品StDev",
+      "totalCaption": "{0}样品StDev",
+      "grandTotalCaption": "{0}总样本StDev"
+    },
+    "runningTotals": {
+      "caption": "运行总计",
+      "totalCaption": "{0}运行总计",
+      "grandTotalCaption": "{0}运行总计"
     }
   },
   "messages": {

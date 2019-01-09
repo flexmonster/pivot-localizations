@@ -157,6 +157,21 @@
       "totalCaption": "Index of {0}",
       "grandTotalCaption": "Index of {0}"
     },
+    "stdevp": {
+      "caption": "Population StDev",
+      "totalCaption": "Population StDev of {0}",
+      "grandTotalCaption": "Total Population StDev of {0}"
+    },
+    "stdevs": {
+      "caption": "Sample StDev",
+      "totalCaption": "Sample StDev of {0}",
+      "grandTotalCaption": "Total Sample StDev of {0}"
+    },
+    "runningTotals": {
+      "caption": "Running Totals",
+      "totalCaption": "Running Totals of {0}",
+      "grandTotalCaption": "Running Totals of {0}"
+    },
     "none": {
       "caption": "No Calculation"
     }

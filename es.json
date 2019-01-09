@@ -159,6 +159,21 @@
       "caption": "Suma",
       "totalCaption": "Suma de {0}",
       "grandTotalCaption": "Total Suma de {0}"
+    },
+    "stdevp": {
+      "caption": "Población StDev",
+      "totalCaption": "Población StDev de {0}",
+      "grandTotalCaption": "Total Población StDev de {0}"
+    },
+    "stdevs": {
+      "caption": "Muestra StDev",
+      "totalCaption": "Muestra StDev de {0}",
+      "grandTotalCaption": "Total Muestra StDev de {0}"
+    },
+    "runningTotals": {
+      "caption": "Totales acumulados",
+      "totalCaption": "Totales acumulados de {0}",
+      "grandTotalCaption": "Totales acumulados de {0}"
     }
   },
   "messages": {
@@ -235,7 +250,7 @@
     "save": "Guardar",
     "clear": "Claro",
     "select": "Explorar...",
-    "yes": "Yes",
+    "yes": "Sí",
     "no": "No"
   },
   "contextMenu": {

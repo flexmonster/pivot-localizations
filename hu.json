@@ -159,6 +159,21 @@
       "caption": "Összeg",
       "totalCaption": "{0} összege",
       "grandTotalCaption": "{0} összege"
+    },
+    "stdevp": {
+      "caption": "Népesség StDev",
+      "totalCaption": "{0} népesség StDev",
+      "grandTotalCaption": "{0} teljes népesség StDev"
+    },
+    "stdevs": {
+      "caption": "Minta StDev",
+      "totalCaption": "{0} minta StDev",
+      "grandTotalCaption": "{0} teljes minta StDev"
+    },
+    "runningTotals": {
+      "caption": "Futó összesítések",
+      "totalCaption": "{0} futó összesítések",
+      "grandTotalCaption": "{0} futó összesítések"
     }
   },
   "messages": {

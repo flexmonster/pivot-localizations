@@ -46,17 +46,17 @@
     "value": "{0}: {1}"
   },
   "calculatedView": {
-    "title": "Calculated Value",
+    "title": "Обрахована міра",
     "measureBox": "Перегягніть міру до формули",
     "measureName": "Назва міри",
     "formula": "Формула",
-    "formulaPrompt": "Drop values and edit formula here",
+    "formulaPrompt": "Перетягніть виміри і редагуйте формулу тут",
     "calculateIndividualValues": "Обаховувати індивідуальні значення",
-    "removeValue": "Remove",
-    "removeValueTitle": "Remove {0}?",
-    "removeValueMessage": "Are you sure you want to remove this calculated value?",
-    "header": "Add calculated value",
-    "allValues": "All values"
+    "removeValue": "Видалити",
+    "removeValueTitle": "Видалити {0}?",
+    "removeValueMessage": "Ви впевнені що бажаєте видалити цю міру?",
+    "header": "Додати міру",
+    "allValues": "Всі міри"
   },
   "grid": {
     "total": "",
@@ -159,6 +159,21 @@
       "caption": "Сума",
       "totalCaption": "Сума по {0}",
       "grandTotalCaption": "Загальна сума по {0}"
+    },
+    "stdevp": {
+      "caption": "StDev популяції",
+      "totalCaption": "StDev популяції по {0}",
+      "grandTotalCaption": "StDev популяції по всіх {0}"
+    },
+    "stdevs": {
+      "caption": "StDev зразка",
+      "totalCaption": "StDev зразка по {0}",
+      "grandTotalCaption": "StDev зразка по всіх {0}"
+    },
+    "runningTotals": {
+      "caption": "Наростаючий підсумок",
+      "totalCaption": "Наростаючий підсумок по {0}",
+      "grandTotalCaption": "Наростаючий підсумок по {0}"
     }
   },
   "messages": {
@@ -235,8 +250,8 @@
     "save": "Зберегти",
     "clear": "Очистити",
     "select": "Вибрати",
-    "yes": "Yes",
-    "no": "No"
+    "yes": "Так",
+    "no": "Ні"
   },
   "contextMenu": {
     "drillThrough": "Drill through",
