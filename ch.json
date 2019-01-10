@@ -344,7 +344,7 @@
     "grid_classic": "经典",
     "grid_compact": "紧凑",
     "charts": "图表",
-    "charts_bar": "条形图",
+    "charts_column": "条形图",
     "charts_bar_horizontal": "Bar",
     "charts_line": "折线图",
     "charts_scatter": "散点图",

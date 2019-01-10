@@ -342,7 +342,7 @@
     "grid_classic": "Klasszikus nézet",
     "grid_compact": "Kompakt nézet",
     "charts": "Diagramok",
-    "charts_bar": "Oszlop",
+    "charts_column": "Oszlop",
     "charts_bar_horizontal": "Sáv",
     "charts_line": "Vonal",
     "charts_scatter": "Pont",
