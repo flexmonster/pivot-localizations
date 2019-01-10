@@ -344,7 +344,7 @@
     "grid_classic": "Класична",
     "grid_compact": "Компактна",
     "charts": "Графіки",
-    "charts_bar": "Гістограма",
+    "charts_column": "Гістограма",
     "charts_bar_horizontal": "Горизонтальна гістограма",
     "charts_line": "Лінійна діаграма",
     "charts_scatter": "Точкова діаграма",

@@ -344,7 +344,7 @@
     "grid_classic": "Classique",
     "grid_compact": "Compact",
     "charts": "Graphiques",
-    "charts_bar": "Colonne",
+    "charts_column": "Colonne",
     "charts_bar_horizontal": "Bandes",
     "charts_line": "Ligne",
     "charts_scatter": "Dispersion",
