@@ -73,7 +73,8 @@
     "rowNumber": "Sor száma",
     "bigDataSetWarning": "A kiválasztott adat túl nagy ahhoz, hogy megjelenjen a diagramon. Az adathalmaz a diagram méreteihez igazodva levágásra fog kerülni.",
     "flatTypesLimitation": "Denormalizált táblához nem készíthető oszlop- vagy vonaldiagram",
-    "noDataTitle": "Nincs megjeleníthető adat"
+    "noDataTitle": "Nincs megjeleníthető adat",
+    "noMeasuresTitle": "Nincs megjeleníthető intézkedés. Adjon hozzá legalább egy intézkedést a Mezőlistában."
   },
   "tooltips": {
     "row": "Sor:",

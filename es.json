@@ -73,7 +73,8 @@
     "rowNumber": "Row number",
     "bigDataSetWarning": "Data set is too big to be displayed on the chart. Data set will be cut off to the amount fitting into the chart.",
     "flatTypesLimitation": "Stacked column and column line charts are not available for flat table.",
-    "noDataTitle": "No data to display."
+    "noDataTitle": "No data to display.",
+    "noMeasuresTitle": "No hay medidas para mostrar. Agregue al menos una medida en la Lista de campos."
   },
   "tooltips": {
     "row": "Fila:",

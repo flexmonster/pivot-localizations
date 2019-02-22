@@ -73,7 +73,8 @@
     "rowNumber": "Numéro de ligne",
     "bigDataSetWarning": "Le jeu de données est trop grand pour être affiché sur le graphique. L'ensemble de données sera coupé sur le montant indiqué dans le tableau.",
     "flatTypesLimitation": "Les tableaux de lignes de barre et de barre ne sont pas disponibles pour la table plate.",
-    "noDataTitle": "Aucune donnée à afficher."
+    "noDataTitle": "Aucune donnée à afficher.",
+    "noMeasuresTitle": "Aucune mesure à afficher. Ajoutez au moins une mesure dans la liste des champs."
   },
   "tooltips": {
     "row": "Ligne:",

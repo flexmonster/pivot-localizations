@@ -73,7 +73,8 @@
     "rowNumber": "Número da linha",
     "bigDataSetWarning": "O conjunto de dados é muito grande para ser exibido no gráfico. O conjunto de dados será cortado na quantidade ajustada no gráfico.",
     "flatTypesLimitation": "Os gráficos de barras e linhas de barras não estão disponíveis para a tabela plana.",
-    "noDataTitle": "Nenhum dado a ser exibido."
+    "noDataTitle": "Nenhum dado a ser exibido.",
+    "noMeasuresTitle": "Nenhuma valores para exibir. Adicione pelo menos uma valor na lista de campos."
   },
   "tooltips": {
     "row": "Linha:",

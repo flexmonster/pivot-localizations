@@ -73,7 +73,8 @@
     "rowNumber": "Row number",
     "bigDataSetWarning": "Data set is too big to be displayed on the chart. Data set will be cut off to the amount fitting into the chart.",
     "flatTypesLimitation": "Stacked column and column line charts are not available for flat table.",
-    "noDataTitle": "No data to display."
+    "noDataTitle": "No data to display.",
+    "noMeasuresTitle": "Немає мір для відображення. Додайте принаймні одну міру в списку полів."
   },
   "tooltips": {
     "row": "Рядки:",
