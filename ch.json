@@ -73,7 +73,8 @@
     "rowNumber": "行号",
     "bigDataSetWarning": "数据太多。请先筛选数据，才使用图表方式显示。",
     "flatTypesLimitation": "\"堆叠\"和\"柱状-趋势\"图表不适用于平面表。",
-    "noDataTitle": "沒有數據顯示"
+    "noDataTitle": "沒有數據顯示",
+    "noMeasuresTitle": "无法显示的措施。 在“字段列表”中添加至少一个度量。"
   },
   "tooltips": {
     "row": "行：",
