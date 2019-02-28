@@ -261,7 +261,11 @@
     "sortRowAsc": "Sor növekvő sorrendbe rendezése",
     "clearSorting": "Rendezés törlése",
     "sortColumnDesc": "Oszlop csökkenő sorrendbe rendezése",
-    "sortColumnAsc": "Oszlop növekvő sorrendbe rendezése"
+    "sortColumnAsc": "Oszlop növekvő sorrendbe rendezése",
+    "aggregation": "Aggregation",
+    "properties": "Properties",
+    "showProperty": "Show {0}",
+    "hideProperty": "Hide <b>{0}</b>"
   },
   "date": {
     "year": "Év",

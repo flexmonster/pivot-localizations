@@ -263,7 +263,11 @@
     "sortColumnAsc": "Sort column asc",
     "sortColumnDesc": "Sort column desc",
     "sortRowAsc": "Sort row asc",
-    "sortRowDesc": "Sort row desc"
+    "sortRowDesc": "Sort row desc",
+    "aggregation": "Aggregation",
+    "properties": "Properties",
+    "showProperty": "Show {0}",
+    "hideProperty": "Hide <b>{0}</b>"
   },
   "date": {
     "year": "Year",

@@ -263,7 +263,11 @@
     "sortRowAsc": "Sort row asc",
     "clearSorting": "Clear sorting",
     "sortColumnDesc": "Sort column desc",
-    "sortColumnAsc": "Sort column asc"
+    "sortColumnAsc": "Sort column asc",
+    "aggregation": "Aggregation",
+    "properties": "Properties",
+    "showProperty": "Show {0}",
+    "hideProperty": "Hide <b>{0}</b>"
   },
   "date": {
     "year": "一年",

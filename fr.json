@@ -263,7 +263,11 @@
     "sortRowAsc": "Trier lignes asc",
     "clearSorting": "Effacer le tri",
     "sortColumnDesc": "Trier colonnes desc",
-    "sortColumnAsc": "Trier colonnes asc"
+    "sortColumnAsc": "Trier colonnes asc",
+    "aggregation": "Aggregation",
+    "properties": "Properties",
+    "showProperty": "Show {0}",
+    "hideProperty": "Hide <b>{0}</b>"
   },
   "date": {
     "year": "Année",
