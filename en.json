@@ -28,16 +28,52 @@
     "bottom": "Bottom",
     "ascSort": "Az",
     "descSort": "zA",
-    "topX": "Top 10",
-    "clearTopX": "Clear",
     "measuresPrompt": "Choose value",
     "search": "Search",
     "amountSelected": "{0} of {1} selected",
     "amountFound": "{0} of {1} found are selected",
     "sort": "Sort:",
-    "addGroup": "Add group",
-    "groupName": "Group 1",
-    "ungroup": "Ungroup"
+    "filterBy": "Filter by:",
+    "labelsFilter": "Labels",
+    "numbersFilter": "Labels",
+    "valuesFilter": "Values",
+    "datesFilter": "Dates",
+    "timeFilter": "Time",
+    "equal": "Equal",
+    "notEqual": "Not equal",
+    "before": "Before",
+    "beforeEqual": "Before or equal",
+    "after": "After",
+    "afterEqual": "After or equal",
+    "between": "Between",
+    "notBetween": "Not between",
+    "last": "Last...",
+    "current": "Current...",
+    "next": "Next...",
+    "begin": "Begin",
+    "notBegin": "Not begin",
+    "end": "End",
+    "notEnd": "Not end",
+    "contain": "Contain",
+    "notContain": "Not contain",
+    "greater": "Greater",
+    "greaterEqual": "Greater or equal",
+    "less": "Less",
+    "lessEqual": "Less or equal",
+    "day": "Day",
+    "week": "Week",
+    "month": "Month",
+    "quarter": "Quarter",
+    "year": "Year",
+    "seconds": "sec.",
+    "minutes": "min.",
+    "hours": "hr.",
+    "days": "d.",
+    "clearDateFilter": "Clear date filter",
+    "clearLabelFilter": "Clear label filter",
+    "clearNumberFilter": "Clear label filter",
+    "clearTimeFilter": "Clear time filter",
+    "clearValueFilter": "Clear value filter"
   },
   "drillThrough": {
     "title": "Details",
@@ -71,7 +107,7 @@
     "hideLegend": "Hide legend",
     "selectMeasures": "Select measures",
     "rowNumber": "Row number",
-    "flatTypesLimitation": "Stacked column and column line charts are not available for flat table.",
+    "flatTypesLimitation": "Staked column and column line charts are not available for flat table.",
     "noDataTitle": "No data to display.",
     "noMeasuresTitle": "No measures to display. Add at least one measure in the Field List.",
     "bigDataSetWarning": "Data set is too big to be displayed on the chart. Data set will be cut off to the amount fitting into the chart."
@@ -123,6 +159,21 @@
       "totalCaption": "Average of {0}",
       "grandTotalCaption": "Total Average of {0}"
     },
+    "median": {
+      "caption": "Median",
+      "totalCaption": "Median of {0}",
+      "grandTotalCaption": "Total Median of {0}"
+    },
+    "stdevp": {
+      "caption": "Population StDev",
+      "totalCaption": "Population StDev of {0}",
+      "grandTotalCaption": "Total Population StDev of {0}"
+    },
+    "stdevs": {
+      "caption": "Sample StDev",
+      "totalCaption": "Sample StDev of {0}",
+      "grandTotalCaption": "Total Sample StDev of {0}"
+    },
     "product": {
       "caption": "Product",
       "totalCaption": "Product of {0}",
@@ -153,25 +204,15 @@
       "totalCaption": "% of Row of {0}",
       "grandTotalCaption": "Total % of Row of {0}"
     },
-    "index": {
-      "caption": "Index",
-      "totalCaption": "Index of {0}",
-      "grandTotalCaption": "Index of {0}"
-    },
-    "stdevp": {
-      "caption": "Population StDev",
-      "totalCaption": "Population StDev of {0}",
-      "grandTotalCaption": "Total Population StDev of {0}"
-    },
-    "stdevs": {
-      "caption": "Sample StDev",
-      "totalCaption": "Sample StDev of {0}",
-      "grandTotalCaption": "Total Sample StDev of {0}"
-    },
     "runningTotals": {
       "caption": "Running Totals",
       "totalCaption": "Running Totals of {0}",
       "grandTotalCaption": "Running Totals of {0}"
+    },
+    "index": {
+      "caption": "Index",
+      "totalCaption": "Index of {0}",
+      "grandTotalCaption": "Index of {0}"
     },
     "none": {
       "caption": "No Calculation"
@@ -188,8 +229,9 @@
     "loadingConfiguration": "",
     "loadingData": "Loading data...",
     "waiting": "Waiting for the response {0} sec.",
-    "progress": "{0}K",
-    "progressUnknown": "loaded {0}K",
+    "progress": "{0} rows",
+    "progressUnknown": "loaded {0} KB",
+    "sortingMembers": "Sorting members...",
     "analyzing": "Analyzing data...",
     "analyzingProgress": "{0} records of {1} ({2}%)",
     "analyzingRecords": "{0}% records",
@@ -209,7 +251,7 @@
     "pleaseWait": "Please wait.",
     "pagesWereGenerated": "pages were generated.",
     "uploading": "Uploading...",
-    "cantSaveFile": "Cannot save file.",
+    "cantSaveFile": "Cannot save file. <br/> Details: {0}",
     "cantSaveToClipboard": "Error: Cannot write to the clipboard.",
     "saveReportToFile": "Report is ready to be saved to file, please click \"Save\" button to save the report.",
     "loadReportFromFile": "Select report file to be loaded.",
@@ -217,11 +259,13 @@
     "inputReportName": "Please input report name",
     "invalidDataSource": "Invalid datasource or catalog. Please check. <br/><br/><u><a href='https://www.flexmonster.com/doc/typical-errors/#invalid-datasource' target='_blank'>Read more info about this error</a></u>",
     "dataStreamError": "Stream error occurred while loading '{0}'<br/><br/><u><a href='https://www.flexmonster.com/doc/typical-errors/#stream-error' target='_blank'>Read more info about this error</a></u>",
-    "unableToOpenFile": "Unable to open file {0}.<br/><br/>It seems that this file doesn't exist or 'Access-Control-Allow-Origin' header is absent in the resource requested.<br/><br/><u><a href='https://www.flexmonster.com/doc/typical-errors/#unable-to-open-file' target='_blank'>Read more info about this error</a></u>",
+    "unableToOpenFile": "Unable to open file {0}.<br/><br/>It seems that this file doesn't exist or 'Access-Control-Allow-Origin' header is absent in the requested resource.<br/><br/><u><a href='https://www.flexmonster.com/doc/typical-errors/#unable-to-open-file' target='_blank'>Read more info about this error</a></u>",
+    "errorTextMessage": "</br>Details: '{0}'",
     "unableTwoFileBrowsingSessions": "Browse file dialog is already opened.",
     "inappropriateFileFormat": "The data file is of inappropriate format.",
     "invalidJSONdata": "JSON data is invalid.",
     "wrongFormulaFormat": "Wrong formula format. Please check.",
+    "wrongUniqueName": "The field with <b>'{0}'</b> uniqueName is not defined.",
     "excelCsvChartsExportError": "Export to Microsoft Excel or CSV is not available for charts.",
     "excelPdfExportLimitation": "Export to Microsoft Excel or PDF is not available in the current edition.",
     "excelExportLimitation": "Export is not available in the current edition.",
@@ -235,7 +279,10 @@
     "csvHeaderParsingError": "CSV header parsing error.",
     "tooManyColumnsInClassicMode": "Too many columns for classic form. Switched layout to compact form.",
     "cantExpand": "Some fields cannot be expanded. Please narrow down the data set.",
-    "cantExpandTitle": "Data set is too large"
+    "cantExpandTitle": "Data set is too large",
+    "selectFile": "Select data file to upload.",
+    "flatTableIsNotSupported": "Flat table is not supported for {0} data source.",
+    "enterGroupNamePrompt": "Please enter group name:"
   },
   "kpis": {
     "kpis": "KPIs",
@@ -267,7 +314,9 @@
     "aggregation": "Aggregation",
     "properties": "Properties",
     "showProperty": "Show {0}",
-    "hideProperty": "Hide <b>{0}</b>"
+    "hideProperty": "Hide <b>{0}</b>",
+    "groupMembers": "Group members",
+    "ungroupMembers": "Ungroup members"
   },
   "date": {
     "year": "Year",
@@ -338,12 +387,13 @@
     "connect_remote_json_mobile": "JSON",
     "connect_olap": "To OLAP (XMLA)",
     "connect_olap_mobile": "OLAP",
+    "connect_elastic": "To Elasticsearch",
+    "connect_elastic_mobile": "Elastic",
     "open": "Open",
     "local_report": "Local report",
     "remote_report": "Remote report",
     "remote_report_mobile": "Report",
     "save": "Save",
-    "save_json": null,
     "load_json": "JSON report",
     "grid": "Grid",
     "grid_flat": "Flat",
@@ -397,6 +447,10 @@
     "credentials": "credentials",
     "username": "Username",
     "password": "Password",
+    "connect_elastic_title": "Connect to Elasticsearch",
+    "host_url": "Host URL",
+    "index_name": "Index",
+    "select_index": "Select index",
     "open_remote_report": "Open remote report",
     "choose_value": "Choose value",
     "text_align": "Text align",
