@@ -73,7 +73,7 @@
     "clearLabelFilter": "Limpar o filtro de etiquetas",
     "clearNumberFilter": "Limpar o filtro de etiquetas",
     "clearTimeFilter": "Limpar o filtro de tempo",
-    "clearValueFilter": "Limpar filtro de valor",
+    "clearValueFilter": "Limpar filtro de valor"
   },
   "drillThrough": {
     "title": "Detalhes",
@@ -253,7 +253,7 @@
     "uploading": "Enviando para o servidor...",
     "cantSaveFile": "Erro: Não é possível salvar o arquivo.",
     "cantSaveToClipboard": "Erro: Não é possível escrever para o clipboard.",
-    "saveReportToFile": "O relatório está pronto para ser salvo no arquivo. Clique no botão “Save” (Salvar) para salvar o relatório.",
+    "saveReportToFile": "O relatório está pronto para ser salvo no arquivo. Clique no botão \"Salvar\" para salvar o relatório.",
     "loadReportFromFile": "Selecionar arquivo de relatório a ser carregado",
     "inputNewName": "Entrada de novo nome",
     "inputReportName": "Por favor, insira o nome do relatório.",
