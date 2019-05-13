@@ -107,115 +107,115 @@
     "hideLegend": "Nascondi legenda",
     "selectMeasures": "Seleziona misure",
     "rowNumber": "Numero di riga",
-    "flatTypesLimitation": "Staked column and column line charts are not available for flat table.",
-    "noDataTitle": "No data to display.",
-    "noMeasuresTitle": "No measures to display. Add at least one measure in the Field List.",
-    "bigDataSetWarning": "Data set is too big to be displayed on the chart. Data set will be cut off to the amount fitting into the chart."
+    "flatTypesLimitation": "I grafici 'colonne in pila' e 'colonne e linea' non sono disponibili per la tabella piatta.",
+    "noDataTitle": "Nessun dato da mostrare.",
+    "noMeasuresTitle": "Nessuna misura da mostrare. Aggiungi almeno una misura dalla lista Campi.",
+    "bigDataSetWarning": "Il set dei dati e' troppo vasto per essere mostrato sul grafico. I dati saranno troncati."
   },
   "tooltips": {
-    "row": "Row:",
-    "column": "Column:",
-    "headerResize": "Drag to resize",
-    "headerFit": "Double click to fit",
-    "filterIcon": "Click to filter",
-    "filtered": "Filtered",
-    "expandIcon": "Click to expand",
-    "collapseIcon": "Click to collapse",
-    "drillDown": "Click to drill down",
-    "drillUp": "Click to drill up",
-    "sortIcon": "Click to sort Desc",
-    "sortedDescIcon": "Click to sort Asc",
-    "sortedAscIcon": "Click to sort Desc",
-    "close": "Click to close"
+    "row": "Riga:",
+    "column": "Colonna:",
+    "headerResize": "Trascina per ridimensionare",
+    "headerFit": "Doppio click per ridimensionare",
+    "filterIcon": "Clicca per filtrare",
+    "filtered": "Filtrato",
+    "expandIcon": "Clicca per espandere",
+    "collapseIcon": "Clicca per collassare",
+    "drillDown": "Clicca per mostrare dettaglio",
+    "drillUp": "Clicca per nascondere dettaglio",
+    "sortIcon": "Clicca per ordinare Decrescente",
+    "sortedDescIcon": "Clicca per ordinare Ascendente",
+    "sortedAscIcon": "Clicca per ordinare Decrescente",
+    "close": "Clicca per chiudere"
   },
   "aggregations": {
     "sum": {
-      "caption": "Sum",
-      "totalCaption": "Sum of {0}",
-      "grandTotalCaption": "Total Sum of {0}"
+      "caption": "Somma",
+      "totalCaption": "Somma di {0}",
+      "grandTotalCaption": "Totale Somma di {0}"
     },
     "count": {
-      "caption": "Count",
-      "totalCaption": "Count of {0}",
-      "grandTotalCaption": "Total Count of {0}"
+      "caption": "Conteggio",
+      "totalCaption": "Conteggio di {0}",
+      "grandTotalCaption": "Totale Conteggio di {0}"
     },
     "distinctCount": {
-      "caption": "Distinct Count",
-      "totalCaption": "Distinct Count of {0}",
-      "grandTotalCaption": "Total Distinct Count of {0}"
+      "caption": "Conteggio Distinti",
+      "totalCaption": "Conteggio Distinti di {0}",
+      "grandTotalCaption": "Totale Conteggio Distinti di {0}"
     },
     "difference": {
-      "caption": "Difference",
-      "totalCaption": "Difference of {0}",
-      "grandTotalCaption": "Difference of {0}"
+      "caption": "Differenza",
+      "totalCaption": "Differenza di {0}",
+      "grandTotalCaption": "Differenza di {0}"
     },
     "percentDifference": {
-      "caption": "% Difference",
-      "totalCaption": "% Difference of {0}",
-      "grandTotalCaption": "% Difference of {0}"
+      "caption": "% Differenza",
+      "totalCaption": "% Differenza di {0}",
+      "grandTotalCaption": "% Differenza di {0}"
     },
     "average": {
-      "caption": "Average",
-      "totalCaption": "Average of {0}",
-      "grandTotalCaption": "Total Average of {0}"
+      "caption": "Media",
+      "totalCaption": "Media di {0}",
+      "grandTotalCaption": "Totale Media di {0}"
     },
     "median": {
-      "caption": "Median",
-      "totalCaption": "Median of {0}",
-      "grandTotalCaption": "Total Median of {0}"
+      "caption": "Mediano",
+      "totalCaption": "Mediano di {0}",
+      "grandTotalCaption": "Totale Mediano di {0}"
     },
     "stdevp": {
-      "caption": "Population StDev",
-      "totalCaption": "Population StDev of {0}",
-      "grandTotalCaption": "Total Population StDev of {0}"
+      "caption": "Deviazione Standard",
+      "totalCaption": "Deviazione Standard di {0}",
+      "grandTotalCaption": "Totale Deviazione Standard di {0}"
     },
     "stdevs": {
-      "caption": "Sample StDev",
-      "totalCaption": "Sample StDev of {0}",
-      "grandTotalCaption": "Total Sample StDev of {0}"
+      "caption": "Dev. Std. Campione",
+      "totalCaption": "Dev. Std. Campione di {0}",
+      "grandTotalCaption": "Totale Dev. Std. Campione di {0}"
     },
     "product": {
-      "caption": "Product",
-      "totalCaption": "Product of {0}",
-      "grandTotalCaption": "Total Product of {0}"
+      "caption": "Prodotto",
+      "totalCaption": "Prodotto di {0}",
+      "grandTotalCaption": "Totale Prodotto di {0}"
     },
     "min": {
       "caption": "Min",
-      "totalCaption": "Min of {0}",
-      "grandTotalCaption": "Total Min of {0}"
+      "totalCaption": "Min di {0}",
+      "grandTotalCaption": "Totale Min di {0}"
     },
     "max": {
       "caption": "Max",
-      "totalCaption": "Max of {0}",
-      "grandTotalCaption": "Total Max of {0}"
+      "totalCaption": "Max di {0}",
+      "grandTotalCaption": "Totale Max di {0}"
     },
     "percent": {
-      "caption": "% of Grand Total",
-      "totalCaption": "% of Grand Total of {0}",
-      "grandTotalCaption": "Total % of Grand Total of {0}"
+      "caption": "% Gran Totale",
+      "totalCaption": "% Gran Totale di {0}",
+      "grandTotalCaption": "Totale % Gran Totale di {0}"
     },
     "percentOfColumn": {
-      "caption": "% of Column",
-      "totalCaption": "% of Column of {0}",
-      "grandTotalCaption": "Total % of Column of {0}"
+      "caption": "% Colonna",
+      "totalCaption": "% Colonna di {0}",
+      "grandTotalCaption": "Totale % Colonna di {0}"
     },
     "percentOfRow": {
-      "caption": "% of Row",
-      "totalCaption": "% of Row of {0}",
-      "grandTotalCaption": "Total % of Row of {0}"
+      "caption": "% Riga",
+      "totalCaption": "% Riga di {0}",
+      "grandTotalCaption": "Totale % Riga di {0}"
     },
     "runningTotals": {
-      "caption": "Running Totals",
-      "totalCaption": "Running Totals of {0}",
-      "grandTotalCaption": "Running Totals of {0}"
+      "caption": "Totali Incrementali",
+      "totalCaption": "Totali Incrementali di {0}",
+      "grandTotalCaption": "Totali Incrementali di {0}"
     },
     "index": {
-      "caption": "Index",
-      "totalCaption": "Index of {0}",
-      "grandTotalCaption": "Index of {0}"
+      "caption": "Indice",
+      "totalCaption": "Indice di {0}",
+      "grandTotalCaption": "Indice di {0}"
     },
     "none": {
-      "caption": "No Calculation"
+      "caption": "Nessun Calcolo"
     }
   },
   "messages": {
