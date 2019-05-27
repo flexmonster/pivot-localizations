@@ -279,6 +279,7 @@
     "ocsvIncompatible": "Unable to read data source. It seems that OCSV file was compressed with a newer version. Please update the component to version {0} or newer.",
     "unknownError": "Unknown error occurred.",
     "invalidReportFormat": "Invalid report format or access to file is denied.",
+    "invalidReportFormat2": "Invalid report format. 'dataSource' property is required.",
     "csvHeaderParsingError": "Error de análisis del encabezado CSV.",
     "tooManyColumnsInClassicMode": "Too many columns for classic form. Switched layout to compact form.",
     "cantExpand": "Algunos campos no pueden ser expandidos. Por favor, reduzca el conjunto de datos.",
