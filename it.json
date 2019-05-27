@@ -276,6 +276,7 @@
     "ocsvIncompatible": "Non riesco a leggere la sorgente dati. Sembra che il file OCSV sia stato compresso con una versione aggiornata. Prego aggironare il componente alla versione {0} o maggiore.",
     "unknownError": "E' avvenuto un errore sconosciuto.",
     "invalidReportFormat": "Formato report invalido o accesso al file negato.",
+    "invalidReportFormat2": "Invalid report format. 'dataSource' property is required.",
     "csvHeaderParsingError": "Errore nell'interpretazione della testata CSV.",
     "tooManyColumnsInClassicMode": "Troppe colonne presenti per la forma classica. Mostro in forma compatta.",
     "cantExpand": "Alcuni campi non possono essere espansi. Prego ridurre il set dati.",
