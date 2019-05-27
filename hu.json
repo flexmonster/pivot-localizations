@@ -279,6 +279,7 @@
     "ocsvIncompatible": "Nem sikerült az adatforrás beolvasása. Úgy tűnik, hogy újabb verzióval történt az OCSV fájl tömörítése. Kérem, frissítse a komponenst a {0} számú vagy frissebb verzióra!",
     "unknownError": "Ismeretlen hiba történt",
     "invalidReportFormat": "Nem megfelelő riport formátum vagy a fájl nem elérhető",
+    "invalidReportFormat2": "Invalid report format. 'dataSource' property is required.",
     "csvHeaderParsingError": "CSV header értelmezése\\ felbontása közben hiba lépett fel",
     "tooManyColumnsInClassicMode": "Az oszlopok száma túl sok a klasszikus nézethez. Váltás kompakt módra.",
     "cantExpand": "Néhány mező nem bővíthető. Kérjük, szűkítse meg az adatkészletet.",
