@@ -233,6 +233,7 @@
     "loadingData": "Adatok betöltése...",
     "waiting": "Válaszra vár {0} másodperce.",
     "progress": "{0}K",
+    "progressKnown": "Betöltve {0} KB a(z) {1} KB",
     "progressUnknown": "Betöltve {0} KB",
     "sortingMembers": "Tagok rendezése...",
     "analyzing": "Adatok feldolgozása...",

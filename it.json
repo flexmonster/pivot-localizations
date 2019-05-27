@@ -230,6 +230,7 @@
     "loadingData": "Caricamento dati...",
     "waiting": "Attendo risposta da {0} sec.",
     "progress": "{0} riga",
+    "progressKnown": "caricati {0} KB di {1} KB",
     "progressUnknown": "caricati {0} KB",
     "sortingMembers": "Ordinando membri...",
     "analyzing": "Analizzando dati...",

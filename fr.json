@@ -233,6 +233,7 @@
     "loadingData": "Chargement des Données...",
     "waiting": "Attente de la réponse du serveur",
     "progress": "{0} rangées",
+    "progressKnown": "{0} KB de {1} KB",
     "progressUnknown": "{0} КB chargés",
     "sortingMembers": "Tri des membres...",
     "analyzing": "Analyse des données",
