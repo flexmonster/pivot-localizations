@@ -279,6 +279,7 @@
     "ocsvIncompatible": "无法读取数据源。 似乎OCSV文件是使用较新版本压缩的。 请将组件更新为版本{0}或更高版本。",
     "unknownError": "發生未知錯誤.",
     "invalidReportFormat": "報告格式無效或對文件的訪問被拒絕.",
+    "invalidReportFormat2": "Invalid report format. 'dataSource' property is required.",
     "csvHeaderParsingError": "CSV标头解析错误。",
     "tooManyColumnsInClassicMode": "經典表格的列數太多 切換佈局緊湊的形式.",
     "cantExpand": "某些字段无法展开。 请缩小数据集范围。",
