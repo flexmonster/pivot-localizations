@@ -318,7 +318,10 @@
     "showProperty": "Show {0}",
     "hideProperty": "Hide <b>{0}</b>",
     "groupMembers": "Group members",
-    "ungroupMembers": "Ungroup members"
+    "ungroupMembers": "Ungroup members",
+    "editFormula": "Edit Formula",
+    "conditionalFormatting": "Conditional Formatting",
+    "numberFormatting": "Number Formatting"
   },
   "date": {
     "year": "Year",
