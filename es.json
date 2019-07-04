@@ -319,10 +319,19 @@
     "sortRowDesc": "Ordenar fila desc",
     "aggregation": "Agregación",
     "properties": "Propiedades",
-    "showProperty": "Mostrar {0}",
     "hideProperty": "Esconder <b>{0}</b>",
     "groupMembers": "Miembros del grupo",
-    "ungroupMembers": "Desagrupar miembros"
+    "ungroupMembers": "Desagrupar miembros",
+    "conditionalFormatting": "Conditional Formatting",
+    "numberFormatting": "Number Formatting",
+    "filterBy": "Filter by <b>{0}</b>",
+    "removeFiel": "Remove Field",
+    "removeMeasure": "Remove Measure",
+    "showProperty": "Mostrar <b>{0}</b>",
+    "editFormula": "Edit <b>{0}</b>",
+    "moveToRows": "Move to Rows",
+    "moveToColumns": "Move to Columns",
+    "moveToPages": "Move to Report Filters"
   },
   "date": {
     "year": "Año",

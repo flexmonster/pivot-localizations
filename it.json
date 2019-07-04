@@ -315,10 +315,19 @@
     "sortRowDesc": "Ordina riga disc",
     "aggregation": "Aggregazione",
     "properties": "Proprieta'",
-    "showProperty": "Mostra {0}",
     "hideProperty": "Nascondi <b>{0}</b>",
     "groupMembers": "Raggruppa membri",
-    "ungroupMembers": "Non raggruppare membri"
+    "ungroupMembers": "Non raggruppare membri",
+    "conditionalFormatting": "Conditional Formatting",
+    "numberFormatting": "Number Formatting",
+    "filterBy": "Filter by <b>{0}</b>",
+    "removeFiel": "Remove Field",
+    "removeMeasure": "Remove Measure",
+    "showProperty": "Mostra <b>{0}</b>",
+    "editFormula": "Edit <b>{0}</b>",
+    "moveToRows": "Move to Rows",
+    "moveToColumns": "Move to Columns",
+    "moveToPages": "Move to Report Filters"
   },
   "date": {
     "year": "Anno",

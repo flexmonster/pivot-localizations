@@ -318,10 +318,19 @@
     "sortRowDesc": "Sor csökkenő sorrendbe rendezése",
     "aggregation": "Összesítése",
     "properties": "Tulajdonságok",
-    "showProperty": "Előadás {0}",
     "hideProperty": "Elrejt <b>{0}</b>",
     "groupMembers": "Csoporttagok",
-    "ungroupMembers": "A tagok csoportosítása"
+    "ungroupMembers": "A tagok csoportosítása",
+    "conditionalFormatting": "Conditional Formatting",
+    "numberFormatting": "Number Formatting",
+    "filterBy": "Filter by <b>{0}</b>",
+    "removeFiel": "Remove Field",
+    "removeMeasure": "Remove Measure",
+    "showProperty": "Előadás <b>{0}</b>",
+    "editFormula": "Edit <b>{0}</b>",
+    "moveToRows": "Move to Rows",
+    "moveToColumns": "Move to Columns",
+    "moveToPages": "Move to Report Filters"
   },
   "date": {
     "year": "Év",

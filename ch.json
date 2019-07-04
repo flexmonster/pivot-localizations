@@ -319,10 +319,19 @@
     "sortRowDesc": "排行desc",
     "aggregation": "聚合",
     "properties": "属性",
-    "showProperty": "显示{0}",
     "hideProperty": "隐藏<b>{0}</b>",
     "groupMembers": "小组成员",
-    "ungroupMembers": "取消组合成员"
+    "ungroupMembers": "取消组合成员",
+    "conditionalFormatting": "Conditional Formatting",
+    "numberFormatting": "Number Formatting",
+    "filterBy": "Filter by <b>{0}</b>",
+    "removeFiel": "Remove Field",
+    "removeMeasure": "Remove Measure",
+    "showProperty": "显示 <b>{0}</b>",
+    "editFormula": "Edit <b>{0}</b>",
+    "moveToRows": "Move to Rows",
+    "moveToColumns": "Move to Columns",
+    "moveToPages": "Move to Report Filters"
   },
   "date": {
     "year": "一年",
