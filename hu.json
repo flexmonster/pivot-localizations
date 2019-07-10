@@ -7,34 +7,73 @@
     "columnBox": "Húzza ide, és rendezze az oszlopokat!",
     "measureBox": "Húzza ide, és rendezze az értékeket!",
     "values": "Értékek",
+    "addCalculatedMeasure": "Kalkulált érték hozzáadása",
+    "expandAll": "Összes kinyitása",
+    "collapseAll": "Összes összecsukása",
+    "formulasGroupName": "Kalkulált érték",
     "allFields": "Összes kimutatásmező",
     "rows": "Sorok",
     "columns": "Oszlopok",
     "filters": "Szűrők",
     "dropField": "Húzza ide a mezőket!",
-    "addCalculatedMeasure": "Kalkulált érték hozzáadása",
-    "expandAll": "Összes kinyitása",
-    "collapseAll": "Összes összecsukása",
-    "formulasGroupName": "Kalkulált érték",
     "title": "Kimutatásmezők",
     "subtitle": "Húzza be, és rendezze a mezőket!"
   },
   "filter": {
-    "ascSort": "A-Z",
-    "descSort": "Z-A",
-    "topX": "Első 10",
-    "clearTopX": "Törlés",
-    "top": "Első",
-    "bottom": "Utolsó",
-    "measuresPrompt": "Válasszon értéket",
-    "search": "Keresés",
+    "all": "Minden",
+    "multipleItems": "Több elem kijelölése",
     "selectAll": "Összes kiválasztása",
     "selectAllResults": "Összes eredmény kiválasztása",
+    "top": "Első",
+    "bottom": "Utolsó",
+    "ascSort": "A-Z",
+    "descSort": "Z-A",
+    "measuresPrompt": "Válasszon értéket",
+    "search": "Keresés",
     "amountSelected": "A(z) {1} elemből {0} kiválasztva",
     "amountFound": "A(z) {1} talált elemből {0} kiválasztva",
-    "multipleItems": "Több elem kijelölése",
-    "all": "Minden",
     "sort": "Rendezés",
+    "filterBy": "Szűrés vlami alapján:",
+    "labelsFilter": "Címkék",
+    "numbersFilter": "Címkék",
+    "valuesFilter": "Értékek",
+    "datesFilter": "Időpontok",
+    "timeFilter": "Idő",
+    "equal": "Egyenlő",
+    "notEqual": "Nem egyenlő",
+    "before": "Előtt",
+    "beforeEqual": "Előtt vagy egyenlő",
+    "after": "Után",
+    "afterEqual": "Után vagy egyenlő",
+    "between": "Között",
+    "notBetween": "Nem között",
+    "last": "Utolsó...",
+    "current": "Jelenlegi...",
+    "next": "Következő...",
+    "begin": "Kezdődik",
+    "notBegin": "Nem kezdődik",
+    "end": "Vég",
+    "notEnd": "Nem ér véget",
+    "contain": "Tartalmaz",
+    "notContain": "Nem tartalmaz",
+    "greater": "Greater",
+    "greaterEqual": "Nagyobb vagy egyenlő",
+    "less": "Kevésbé",
+    "lessEqual": "Kevesebb vagy egyenlő",
+    "day": "Nap",
+    "week": "Hét",
+    "month": "Hónap",
+    "quarter": "Negyed",
+    "year": "Év",
+    "seconds": "más.",
+    "minutes": "per.",
+    "hours": "ór.",
+    "days": "nap.",
+    "clearDateFilter": "Törölje a dátumszűrőt",
+    "clearLabelFilter": "Törölje a címke szűrőt",
+    "clearNumberFilter": "Törölje a címke szűrőt",
+    "clearTimeFilter": "Tiszta időszűrő",
+    "clearValueFilter": "Tiszta érték szűrő",
     "addGroup": "Csoport hozzáadása",
     "groupName": "Csoport 1",
     "ungroup": "Csoportosítás bontása"
@@ -71,10 +110,10 @@
     "hideLegend": "Előzmények elrejtése",
     "selectMeasures": "Válassza ki a mértéket!",
     "rowNumber": "Sor száma",
-    "bigDataSetWarning": "A kiválasztott adat túl nagy ahhoz, hogy megjelenjen a diagramon. Az adathalmaz a diagram méreteihez igazodva levágásra fog kerülni.",
     "flatTypesLimitation": "Denormalizált táblához nem készíthető oszlop- vagy vonaldiagram",
     "noDataTitle": "Nincs megjeleníthető adat",
-    "noMeasuresTitle": "Nincs megjeleníthető intézkedés. Adjon hozzá legalább egy intézkedést a Mezőlistában."
+    "noMeasuresTitle": "Nincs megjeleníthető intézkedés. Adjon hozzá legalább egy intézkedést a Mezőlistában.",
+    "bigDataSetWarning": "A kiválasztott adat túl nagy ahhoz, hogy megjelenjen a diagramon. Az adathalmaz a diagram méreteihez igazodva levágásra fog kerülni."
   },
   "tooltips": {
     "row": "Sor:",
@@ -93,73 +132,40 @@
     "close": "Bezárás"
   },
   "aggregations": {
-    "average": {
-      "caption": "Átlag",
-      "totalCaption": "{0} átlaga",
-      "grandTotalCaption": "{0} teljes átlaga"
+    "sum": {
+      "caption": "Összeg",
+      "totalCaption": "{0} összege",
+      "grandTotalCaption": "{0} összege"
     },
     "count": {
       "caption": "Darabszám",
       "totalCaption": "{0} darabszáma",
-      "grandTotalCaption": "__{0} teljes darabszáma"
-    },
-    "difference": {
-      "caption": "Különbség",
-      "totalCaption": "{0} különbsége",
-      "grandTotalCaption": "__{0} teljes különbsége"
+      "grandTotalCaption": "{0} teljes darabszáma"
     },
     "distinctCount": {
       "caption": "Egyedi elemek darabszáma",
       "totalCaption": "{0} egyedi elemek darabszáma",
       "grandTotalCaption": "{0} egyedi elemek teljes darabszáma"
     },
-    "index": {
-      "caption": "Mutató",
-      "totalCaption": "{0} mutatója",
-      "grandTotalCaption": "{0} mutatója"
-    },
-    "max": {
-      "caption": "Maximum",
-      "totalCaption": "{0} maximuma",
-      "grandTotalCaption": "{0} teljes maximuma"
-    },
-    "min": {
-      "caption": "Minimum",
-      "totalCaption": "{0} minimuma",
-      "grandTotalCaption": "{0} teljes minimuma"
-    },
-    "none": {
-      "caption": "Nincs elérhető számítási érték"
-    },
-    "percent": {
-      "caption": "Összesen százalékban",
-      "totalCaption": "{0} összesen százalékban",
-      "grandTotalCaption": "{0} összesen százalékban"
+    "difference": {
+      "caption": "Különbség",
+      "totalCaption": "{0} különbsége",
+      "grandTotalCaption": "{0} teljes különbsége"
     },
     "percentDifference": {
       "caption": "Különbség százalékban",
       "totalCaption": "{0} különbsége százalékban",
       "grandTotalCaption": "{0} különbsége százalékban"
     },
-    "percentOfColumn": {
-      "caption": "Oszlopok értéke százalékban",
-      "totalCaption": "{0} oszlopok értéke százalékban",
-      "grandTotalCaption": "{0} oszlopok értéke százalékban"
+    "average": {
+      "caption": "Átlag",
+      "totalCaption": "{0} átlaga",
+      "grandTotalCaption": "{0} teljes átlaga"
     },
-    "percentOfRow": {
-      "caption": "Sorok értéke százalékban",
-      "totalCaption": "{0} sorok értéke százalékban",
-      "grandTotalCaption": "{0} sorok értéke százalékban"
-    },
-    "product": {
-      "caption": "Szorzat",
-      "totalCaption": "{0} szorzata",
-      "grandTotalCaption": "{0} teljes szorzata"
-    },
-    "sum": {
-      "caption": "Összeg",
-      "totalCaption": "{0} összege",
-      "grandTotalCaption": "{0} összege"
+    "median": {
+      "caption": "Középső",
+      "totalCaption": "{0} ár mediánja",
+      "grandTotalCaption": "{0} ár teljes mediánja"
     },
     "stdevp": {
       "caption": "Népesség StDev",
@@ -171,10 +177,48 @@
       "totalCaption": "{0} minta StDev",
       "grandTotalCaption": "{0} teljes minta StDev"
     },
+    "product": {
+      "caption": "Szorzat",
+      "totalCaption": "{0} szorzata",
+      "grandTotalCaption": "{0} teljes szorzata"
+    },
+    "min": {
+      "caption": "Minimum",
+      "totalCaption": "{0} minimuma",
+      "grandTotalCaption": "{0} teljes minimuma"
+    },
+    "max": {
+      "caption": "Maximum",
+      "totalCaption": "{0} maximuma",
+      "grandTotalCaption": "{0} teljes maximuma"
+    },
+    "percent": {
+      "caption": "Összesen százalékban",
+      "totalCaption": "{0} összesen százalékban",
+      "grandTotalCaption": "{0} összesen százalékban"
+    },
+    "percentOfColumn": {
+      "caption": "Oszlopok értéke százalékban",
+      "totalCaption": "{0} oszlopok értéke százalékban",
+      "grandTotalCaption": "{0} oszlopok értéke százalékban"
+    },
+    "percentOfRow": {
+      "caption": "Sorok értéke százalékban",
+      "totalCaption": "{0} sorok értéke százalékban",
+      "grandTotalCaption": "{0} sorok értéke százalékban"
+    },
     "runningTotals": {
       "caption": "Futó összesítések",
       "totalCaption": "{0} futó összesítések",
       "grandTotalCaption": "{0} futó összesítések"
+    },
+    "index": {
+      "caption": "Mutató",
+      "totalCaption": "{0} mutatója",
+      "grandTotalCaption": "{0} mutatója"
+    },
+    "none": {
+      "caption": "Nincs elérhető számítási érték"
     }
   },
   "messages": {
@@ -187,10 +231,11 @@
     "loading": "Töltés...",
     "loadingConfiguration": "",
     "loadingData": "Adatok betöltése...",
-    "uploading": "Feltöltés...",
     "waiting": "Válaszra vár {0} másodperce.",
     "progress": "{0}K",
-    "progressUnknown": "Betöltve {0}K",
+    "progressKnown": "Betöltve {0} KB a(z) {1} KB",
+    "progressUnknown": "Betöltve {0} KB",
+    "sortingMembers": "Tagok rendezése...",
     "analyzing": "Adatok feldolgozása...",
     "analyzingProgress": "{0} adatsor a(z) {1}-ból ({2}%)",
     "analyzingRecords": "{0}% adatsorok",
@@ -200,40 +245,49 @@
     "loadingMeasures": "Méretek betöltése...",
     "loadingKPIs": "KPI-ok betöltése...",
     "loadingMembers": "Tagok betöltése...",
-    "loadingProperties": "Tulajdonságok betöltése...",
     "loadingLevels": "Szintek betöltése...",
+    "loadingProperties": "Tulajdonságok betöltése...",
     "fullscreen": "Megnyitja a riportot teljes méretben?",
     "exportComplete": "Az adatok exportálhatóak, mentéshez kattintson a \"Mentés\" gombra!",
+    "exportProgress": "Adatok kinyerése folyamatban...",
+    "exportError": "Váratlan hiba történt. Az exportálás sikertelen.",
     "generatingPDF": "PDF generálása folyamatban",
     "pleaseWait": "Kérem, várjon!",
     "pagesWereGenerated": "__pages were generated.",
-    "exportProgress": "Adatok kinyerése folyamatban...",
-    "exportError": "Váratlan hiba történt. Az exportálás sikertelen.",
+    "uploading": "Feltöltés...",
     "cantSaveFile": "Fájl mentése nem lehetséges",
     "cantSaveToClipboard": "Hiba: a vágólap nem elérhető.",
     "saveReportToFile": "A riport mentésre kész, a mentéshez kattintson a \"Mentés\" gombra!",
-    "saveDataToFile": "Az adatok mentésre készek, a mentéshez kattintson a \"Mentés\" gombra!",
     "loadReportFromFile": "Select report file to be loaded.",
     "inputNewName": "Adjon meg új nevet!",
     "inputReportName": "Kérem, adja meg a riport nevét!",
     "invalidDataSource": "Érvénytelen adatforrás vagy katalógus, kérem, ellenőrizze ezeket!",
     "dataStreamError": "A '{0}' betöltése során az adatfolyamban hiba lépett fel",
     "unableToOpenFile": "A {0} fájlt nem lehet megnyitni.<br/><br/>A megadott fájl nem létezik, vagy hiányzik az 'Access-Control-Allow-Origin' header a forrásnál.",
+    "errorTextMessage": "</br>Részletek: '{0}'",
     "unableTwoFileBrowsingSessions": "A \"Fájl tallózása\" ablak már meg van nyitva",
-    "wrongFormulaFormat": "Formailag nem megfelelő a képlet, kérem, ellenőrizze",
     "inappropriateFileFormat": "Nem megengedett formátumú a megadott fájl",
     "invalidJSONdata": "A JSON adat érvénytelen",
+    "wrongFormulaFormat": "Formailag nem megfelelő a képlet, kérem, ellenőrizze",
+    "wrongUniqueName": "A <b>'{0}'</b> egyedi névvel rendelkező mező nincs megadva.",
     "excelCsvChartsExportError": "Diagramok Microsoft Excel vagy CSV formátumba történő kinyerése nem megengedett",
     "excelPdfExportLimitation": "Microsoft Excel vagy PDF fájlba történő exportálás ebben a verzióban nem elérhető",
     "excelExportLimitation": "Exportálás ebben a verzióban nem elérhető",
     "noDataAvailable": "Az adatforrás üres, kérem, ellenőrizze a CSV fájlt!",
-    "csvHeaderParsingError": "CSV header értelmezése\\ felbontása közben hiba lépett fel",
+    "saveDataToFile": "Az adatok mentésre készek, a mentéshez kattintson a \"Mentés\" gombra!",
     "dataWasUpdated": "A szerveren található adatforrás frissült. Szeretné frissíteni a riportot?",
     "cantConnectToAccelerator": "Nem sikerült kapcsolódni az adatforráshoz. Kérem, ellenőrizze, hogy a \"Flexmonster Accelerator\" fut-e!",
     "ocsvIncompatible": "Nem sikerült az adatforrás beolvasása. Úgy tűnik, hogy újabb verzióval történt az OCSV fájl tömörítése. Kérem, frissítse a komponenst a {0} számú vagy frissebb verzióra!",
     "unknownError": "Ismeretlen hiba történt",
     "invalidReportFormat": "Nem megfelelő riport formátum vagy a fájl nem elérhető",
-    "tooManyColumnsInClassicMode": "Az oszlopok száma túl sok a klasszikus nézethez. Váltás kompakt módra."
+    "invalidReportFormat2": "Invalid report format. 'dataSource' property is required.",
+    "csvHeaderParsingError": "CSV header értelmezése\\ felbontása közben hiba lépett fel",
+    "tooManyColumnsInClassicMode": "Az oszlopok száma túl sok a klasszikus nézethez. Váltás kompakt módra.",
+    "cantExpand": "Néhány mező nem bővíthető. Kérjük, szűkítse meg az adatkészletet.",
+    "cantExpandTitle": "Az adatkészlet túl nagy",
+    "selectFile": "Válassza ki a feltöltendő adatfájlt.",
+    "flatTableIsNotSupported": "A lapos tábla nem támogatott {0} adatforráshoz.",
+    "enterGroupNamePrompt": "Kérjük, adja meg a csoport nevét:"
   },
   "kpis": {
     "kpis": "KPI-ok",
@@ -253,19 +307,30 @@
     "no": "Nem"
   },
   "contextMenu": {
-    "drillThrough": "Aláfúrás",
-    "openFilter": "Szűrők megnyitása",
-    "collapse": "Összecsukás",
-    "expand": "Kinyitás",
-    "sortRowDesc": "Sor csökkenő sorrendbe rendezése",
-    "sortRowAsc": "Sor növekvő sorrendbe rendezése",
     "clearSorting": "Rendezés törlése",
-    "sortColumnDesc": "Oszlop csökkenő sorrendbe rendezése",
+    "collapse": "Összecsukás",
+    "drillThrough": "Aláfúrás",
+    "expand": "Kinyitás",
+    "openFilter": "Szűrők megnyitása",
     "sortColumnAsc": "Oszlop növekvő sorrendbe rendezése",
-    "aggregation": "Aggregation",
-    "properties": "Properties",
-    "showProperty": "Show {0}",
-    "hideProperty": "Hide <b>{0}</b>"
+    "sortColumnDesc": "Oszlop csökkenő sorrendbe rendezése",
+    "sortRowAsc": "Sor növekvő sorrendbe rendezése",
+    "sortRowDesc": "Sor csökkenő sorrendbe rendezése",
+    "aggregation": "Összesítése",
+    "properties": "Tulajdonságok",
+    "hideProperty": "Elrejt <b>{0}</b>",
+    "groupMembers": "Csoporttagok",
+    "ungroupMembers": "A tagok csoportosítása",
+    "conditionalFormatting": "Conditional Formatting",
+    "numberFormatting": "Number Formatting",
+    "filterBy": "Filter by <b>{0}</b>",
+    "removeFiel": "Remove Field",
+    "removeMeasure": "Remove Measure",
+    "showProperty": "Előadás <b>{0}</b>",
+    "editFormula": "Edit <b>{0}</b>",
+    "moveToRows": "Move to Rows",
+    "moveToColumns": "Move to Columns",
+    "moveToPages": "Move to Report Filters"
   },
   "date": {
     "year": "Év",
@@ -336,6 +401,8 @@
     "connect_remote_json_mobile": "JSON",
     "connect_olap": "OLAP-hoz (XMLA)",
     "connect_olap_mobile": "OLAP",
+    "connect_elastic": "Elasticsearch",
+    "connect_elastic_mobile": "Elastic",
     "open": "Megnyitás",
     "local_report": "Riport ezen a gépen",
     "remote_report": "Riport távoli gépen",
@@ -363,6 +430,7 @@
     "conditional_formatting_mobile": "Feltételes",
     "options": "Beállítások",
     "fullscreen": "Teljes képernyő",
+    "minimize": "Kis méret",
     "export": "Export",
     "export_print": "Nyomtatás",
     "export_html": "HTML",
@@ -393,6 +461,10 @@
     "credentials": "Belépési adatok",
     "username": "Felhasználó név",
     "password": "Jelszó",
+    "connect_elastic_title": "Csatlakozzon az Elasticsearch-hez",
+    "host_url": "Host URL",
+    "index_name": "Index",
+    "select_index": "Válassza ki az indexet",
     "open_remote_report": "Távoli riport megnyitása",
     "choose_value": "Válasszon értéket!",
     "text_align": "Szöveg igazítása",
@@ -403,7 +475,9 @@
     "thousand_separator": "Ezres helyiérték elválasztó",
     "decimal_separator": "Tizedesjel",
     "decimal_places": "Tizedes jegyek száma",
-    "currency_symbol": "Mértékegység",
+    "currency_symbol": "Mértékegység",    
+    "positive_currency_format": "Pozitív pénznemformátum",
+    "negative_currency_format": "Negatív pénznemformátum",
     "currency_align": "Mértékegység helye",
     "null_value": "Hiányzó érték",
     "is_percent": "Százalékban mutat",

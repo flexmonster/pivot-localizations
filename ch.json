@@ -7,34 +7,73 @@
     "columnBox": "列",
     "measureBox": "值",
     "values": "数值",
+    "addCalculatedMeasure": "添加计算措施",
+    "expandAll": "+ 全部展开",
+    "collapseAll": "- 全部折叠",
+    "formulasGroupName": "计算值",
     "allFields": "所有領域",
     "rows": "行",
     "columns": "列",
     "filters": "過濾器",
     "dropField": "放在這裡",
-    "addCalculatedMeasure": "添加计算措施",
-    "expandAll": "+ 全部展开",
-    "collapseAll": "- 全部折叠",
-    "formulasGroupName": "计算值",
     "title": "字段",
     "subtitle": "拖放字段進行排列"
   },
   "filter": {
-    "ascSort": "Az",
-    "descSort": "zA",
-    "topX": "十大",
-    "clearTopX": "明確 Top10",
-    "top": "顶部",
-    "bottom": "底部",
-    "measuresPrompt": "选择措施",
-    "search": "搜索",
+    "all": "全",
+    "multipleItems": "多个项目",
     "selectAll": "全选",
     "selectAllResults": "選擇結果",
+    "top": "顶部",
+    "bottom": "底部",
+    "ascSort": "Az",
+    "descSort": "zA",
+    "measuresPrompt": "选择措施",
+    "search": "搜索",
     "amountSelected": "{0} 的 {1} 选择",
     "amountFound": "{0} 的 {1} 中选择",
-    "multipleItems": "多个项目",
-    "all": "全",
     "sort": "分類:",
+    "filterBy": "过滤:",
+    "labelsFilter": "标签",
+    "numbersFilter": "标签",
+    "valuesFilter": "值",
+    "datesFilter": "日期",
+    "timeFilter": "时间",
+    "equal": "等于",
+    "notEqual": "不相等",
+    "before": "之前",
+    "beforeEqual": "之前或之前",
+    "after": "后",
+    "afterEqual": "等于或等于",
+    "between": "之间",
+    "notBetween": "不介于",
+    "last": "持续...",
+    "current": "当前...",
+    "next": "下一个...",
+    "begin": "开始",
+    "notBegin": "没有开始",
+    "end": "结束",
+    "notEnd": "没有结束",
+    "contain": "包含",
+    "notContain": "不含",
+    "greater": "大",
+    "greaterEqual": "大于或等于",
+    "less": "减",
+    "lessEqual": "少于或等于",
+    "day": "天",
+    "week": "周",
+    "month": "月",
+    "quarter": "25美分硬币",
+    "year": "年",
+    "seconds": "秒",
+    "minutes": "分钟",
+    "hours": "小时",
+    "days": "天",
+    "clearDateFilter": "清除日期过滤器",
+    "clearLabelFilter": "清除标签过滤器",
+    "clearNumberFilter": "清除标签过滤器",
+    "clearTimeFilter": "清除时间过滤器",
+    "clearValueFilter": "清除值过滤器",
     "addGroup": "添加組",
     "groupName": "組 1",
     "ungroup": "取消組合"
@@ -71,10 +110,10 @@
     "hideLegend": "隐藏图例",
     "selectMeasures": "选择量度",
     "rowNumber": "行号",
-    "bigDataSetWarning": "数据太多。请先筛选数据，才使用图表方式显示。",
     "flatTypesLimitation": "\"堆叠\"和\"柱状-趋势\"图表不适用于平面表。",
     "noDataTitle": "沒有數據顯示",
-    "noMeasuresTitle": "无法显示的措施。 在“字段列表”中添加至少一个度量。"
+    "noMeasuresTitle": "无法显示的措施。 在“字段列表”中添加至少一个度量。",
+    "bigDataSetWarning": "数据太多。请先筛选数据，才使用图表方式显示。"
   },
   "tooltips": {
     "row": "行：",
@@ -93,73 +132,40 @@
     "close": "点击关闭"
   },
   "aggregations": {
-    "average": {
-      "caption": "平均",
-      "totalCaption": "{0}的平均值",
-      "grandTotalCaption": "{0}的总平均值"
+    "sum": {
+      "caption": "总和",
+      "totalCaption": "{0}的和",
+      "grandTotalCaption": "{0}的总和"
     },
     "count": {
       "caption": "数值",
       "totalCaption": "{0}的计数",
       "grandTotalCaption": "{0}的总计数"
     },
-    "difference": {
-      "caption": "差额",
-      "totalCaption": "{0}的差额",
-      "grandTotalCaption": "{0}的总差额"
-    },
     "distinctCount": {
       "caption": "不重复计数",
       "totalCaption": "{0}的不重复计数",
       "grandTotalCaption": "{0}的总不重复计数"
     },
-    "index": {
-      "caption": "指数",
-      "totalCaption": "{0}的指数",
-      "grandTotalCaption": "{0}的总指数"
-    },
-    "max": {
-      "caption": "最大",
-      "totalCaption": "{0}的最大值",
-      "grandTotalCaption": "{0}的总最大值"
-    },
-    "min": {
-      "caption": "最低限度",
-      "totalCaption": "{0}的最小值",
-      "grandTotalCaption": "{0}的总最小值"
-    },
-    "none": {
-      "caption": "原值"
-    },
-    "percent": {
-      "caption": "百分比",
-      "totalCaption": "{0}的百分比",
-      "grandTotalCaption": "{0}的总百分比"
+    "difference": {
+      "caption": "差额",
+      "totalCaption": "{0}的差额",
+      "grandTotalCaption": "{0}的总差额"
     },
     "percentDifference": {
       "caption": "差额百分比",
       "totalCaption": "{0}的差额百分比",
       "grandTotalCaption": "{0}的总差额百分比"
     },
-    "percentOfColumn": {
-      "caption": "列百分比",
-      "totalCaption": "{0}的列百分比",
-      "grandTotalCaption": "{0}的总列百分比"
+    "average": {
+      "caption": "平均",
+      "totalCaption": "{0}的平均值",
+      "grandTotalCaption": "{0}的总平均值"
     },
-    "percentOfRow": {
-      "caption": "行百分比",
-      "totalCaption": "{0}的行百分比",
-      "grandTotalCaption": "{0}的总行百分比"
-    },
-    "product": {
-      "caption": "物件",
-      "totalCaption": "{0}的物件值",
-      "grandTotalCaption": "{0}的总物件值"
-    },
-    "sum": {
-      "caption": "总和",
-      "totalCaption": "{0}的和",
-      "grandTotalCaption": "{0}的总和"
+    "median": {
+      "caption": "中位数",
+      "totalCaption": "{0}的中位数",
+      "grandTotalCaption": "{0}的总中位数"
     },
     "stdevp": {
       "caption": "人口StDev",
@@ -171,10 +177,48 @@
       "totalCaption": "{0}样品StDev",
       "grandTotalCaption": "{0}总样本StDev"
     },
+    "product": {
+      "caption": "物件",
+      "totalCaption": "{0}的物件值",
+      "grandTotalCaption": "{0}的总物件值"
+    },
+    "min": {
+      "caption": "最低限度",
+      "totalCaption": "{0}的最小值",
+      "grandTotalCaption": "{0}的总最小值"
+    },
+    "max": {
+      "caption": "最大",
+      "totalCaption": "{0}的最大值",
+      "grandTotalCaption": "{0}的总最大值"
+    },
+    "percent": {
+      "caption": "百分比",
+      "totalCaption": "{0}的百分比",
+      "grandTotalCaption": "{0}的总百分比"
+    },
+    "percentOfColumn": {
+      "caption": "列百分比",
+      "totalCaption": "{0}的列百分比",
+      "grandTotalCaption": "{0}的总列百分比"
+    },
+    "percentOfRow": {
+      "caption": "行百分比",
+      "totalCaption": "{0}的行百分比",
+      "grandTotalCaption": "{0}的总行百分比"
+    },
     "runningTotals": {
       "caption": "运行总计",
       "totalCaption": "{0}运行总计",
       "grandTotalCaption": "{0}运行总计"
+    },
+    "index": {
+      "caption": "指数",
+      "totalCaption": "{0}的指数",
+      "grandTotalCaption": "{0}的总指数"
+    },
+    "none": {
+      "caption": "原值"
     }
   },
   "messages": {
@@ -187,10 +231,11 @@
     "loading": "载入...",
     "loadingConfiguration": "载入配置...",
     "loadingData": "数据加载...",
-    "uploading": "上传到服务器...",
     "waiting": "{0} 秒",
-    "progress": "{0}К {1}К",
-    "progressUnknown": "加载 {0}К",
+    "progress": "{0} 行",
+    "progressKnown": "加载 {0} KB / {1} KB",
+    "progressUnknown": "加载 {0} КB",
+    "sortingMembers": "排序成员...",
     "analyzing": "数据分析...",
     "analyzingProgress": "{0}记录{1} ({2}%)",
     "analyzingRecords": "{0}% records",
@@ -200,42 +245,50 @@
     "loadingMeasures": "载入量度...",
     "loadingKPIs": "Loading KPIs...",
     "loadingMembers": "载入构件...",
-    "loadingProperties": "Loading properties...",
     "loadingLevels": "载入层次...",
+    "loadingProperties": "Loading properties...",
     "fullscreen": "打开全屏？",
     "exportComplete": "数据已生成，请单击\"保存\"按钮保存数据。",
+    "exportProgress": "输出正在进行中...",
+    "exportError": "导出失败。 一个意料之外的问题发生了。",
     "generatingPDF": "生成PDF",
     "pleaseWait": "请稍候",
     "pagesWereGenerated": "网页已生成",
-    "exportProgress": "输出正在进行中...",
-    "exportError": "Failed to export. An unexpected error occurred.",
+    "uploading": "上传到服务器...",
     "cantSaveFile": "错误：无法保存文件。",
     "cantSaveToClipboard": "错误：无法写入到剪贴板。",
     "saveReportToFile": "报告可以保存到文件，请单击\"保存\"按钮保存报告。",
-    "saveDataToFile": "Data is ready to be saved to file, please click \"Save\" button to save the file.",
     "loadReportFromFile": "选择要载入的报告",
     "inputNewName": "输入新的名称",
     "inputReportName": "请输入报告名称",
     "invalidDataSource": "用户没有当前多维数据集权限，请联系管理员设定访问权限。",
     "dataStreamError": "加載時發生流錯誤 '{0}'",
-    "unableToOpenFile": "Unable to open file {0}.<br/><br/>It seems that this file doesn't exist or 'Access-Control-Allow-Origin' header is absent in the resource requested.<br/><br/><u><a href='https://www.flexmonster.com/doc/typical-errors/#unable-to-open-file' target='_blank'>Read more info about this error</a></u>",
+    "unableToOpenFile": "无法打开文件 {0}.<br/><br/>似乎该文件不存在或请求的资源中不存在“Access-Control-Allow-Origin”标头。<br/><br/><u><a href='https://www.flexmonster.com/doc/typical-errors/#unable-to-open-file' target='_blank'>阅读有关此错误的更多信息</a></u>",
+    "errorTextMessage": "</br>细节: '{0}'",
     "unableTwoFileBrowsingSessions": "瀏覽文件對話框已打開.",
-    "wrongFormulaFormat": "公式格式錯誤 請檢查",
     "inappropriateFileFormat": "數據文件格式不合適",
     "invalidJSONdata": "JSON數據無效",
+    "wrongFormulaFormat": "公式格式錯誤 請檢查",
+    "wrongUniqueName": "未定义<b>'{0}'</ b> uniqueName的字段。",
     "excelCsvChartsExportError": "图表不能以Excel或CSV格式导出，请选择图像格式导出。",
-    "excelPdfExportLimitation": "Export to Microsoft Excel or PDF is not available in the current edition.",
-    "excelExportLimitation": "Export is not available in the current edition.",
-    "noDataAvailable": "Data source is empty. Please check the CSV file.",
-    "csvHeaderParsingError": "CSV header parsing error.",
-    "dataWasUpdated": "Data source has been updated on the server. Refresh the report?",
-    "cantConnectToAccelerator": "Cannot connect to data source. Please check if Flexmonster Accelerator is running.",
-    "ocsvIncompatible": "Unable to read data source. It seems that OCSV file was compressed with a newer version. Please update the component to version {0} or newer.",
+    "excelPdfExportLimitation": "当前版本中不提供导出到Microsoft Excel或PDF。",
+    "excelExportLimitation": "当前版本不提供导出功能。",
+    "noDataAvailable": "数据源为空。 请检查CSV文件。",
+    "saveDataToFile": "数据已准备好保存到文件中，请单击“保存”按钮保存文件。",
+    "dataWasUpdated": "数据源已在服务器上更新。 刷新报告？",
+    "cantConnectToAccelerator": "无法连接到数据源。 请检查Flexmonster Accelerator是否正在运行。",
+    "ocsvIncompatible": "无法读取数据源。 似乎OCSV文件是使用较新版本压缩的。 请将组件更新为版本{0}或更高版本。",
     "unknownError": "發生未知錯誤.",
     "invalidReportFormat": "報告格式無效或對文件的訪問被拒絕.",
+    "invalidReportFormat2": "Invalid report format. 'dataSource' property is required.",
+    "csvHeaderParsingError": "CSV标头解析错误。",
     "tooManyColumnsInClassicMode": "經典表格的列數太多 切換佈局緊湊的形式.",
-    "loadingSkin": "载入样式... {0}%",
-    "selectFile": "选择要载入的CSV文件"
+    "cantExpand": "某些字段无法展开。 请缩小数据集范围。",
+    "cantExpandTitle": "数据集太大",
+    "selectFile": "选择要载入的CSV文件",
+    "flatTableIsNotSupported": "{0}数据源不支持平面表。",
+    "enterGroupNamePrompt": "请输入群组名称:",
+    "loadingSkin": "载入样式... {0}%"
   },
   "kpis": {
     "kpis": "KPIs",
@@ -255,19 +308,30 @@
     "no": "No"
   },
   "contextMenu": {
-    "drillThrough": "Drill through",
-    "openFilter": "Open filter",
-    "collapse": "Collapse",
-    "expand": "Expand",
-    "sortRowDesc": "Sort row desc",
-    "sortRowAsc": "Sort row asc",
-    "clearSorting": "Clear sorting",
-    "sortColumnDesc": "Sort column desc",
-    "sortColumnAsc": "Sort column asc",
-    "aggregation": "Aggregation",
-    "properties": "Properties",
-    "showProperty": "Show {0}",
-    "hideProperty": "Hide <b>{0}</b>"
+    "clearSorting": "清除排序",
+    "collapse": "坍方",
+    "drillThrough": "钻透",
+    "expand": "扩大",
+    "openFilter": "打开过滤器",
+    "sortColumnAsc": "对列asc进行排序",
+    "sortColumnDesc": "对列desc进行排序",
+    "sortRowAsc": "排行asc",
+    "sortRowDesc": "排行desc",
+    "aggregation": "聚合",
+    "properties": "属性",
+    "hideProperty": "隐藏<b>{0}</b>",
+    "groupMembers": "小组成员",
+    "ungroupMembers": "取消组合成员",
+    "conditionalFormatting": "Conditional Formatting",
+    "numberFormatting": "Number Formatting",
+    "filterBy": "Filter by <b>{0}</b>",
+    "removeFiel": "Remove Field",
+    "removeMeasure": "Remove Measure",
+    "showProperty": "显示 <b>{0}</b>",
+    "editFormula": "Edit <b>{0}</b>",
+    "moveToRows": "Move to Rows",
+    "moveToColumns": "Move to Columns",
+    "moveToPages": "Move to Report Filters"
   },
   "date": {
     "year": "一年",
@@ -338,6 +402,8 @@
     "connect_remote_json_mobile": "JSON",
     "connect_olap": "OLAP (XMLA)",
     "connect_olap_mobile": "OLAP",
+    "connect_elastic": "到Elasticsearch",
+    "connect_elastic_mobile": "Elastic",
     "open": "打开",
     "local_report": "本地报告",
     "remote_report": "远程报告",
@@ -365,6 +431,7 @@
     "conditional_formatting_mobile": "有条件",
     "options": "选项",
     "fullscreen": "全屏",
+    "minimize": "最小化",
     "export": "出口",
     "export_print": "打印",
     "export_html": "HTML",
@@ -395,6 +462,10 @@
     "credentials": "证书",
     "username": "用户名",
     "password": "密码",
+    "connect_elastic_title": "连接到Elasticsearch",
+    "host_url": "主机URL",
+    "index_name": "指数",
+    "select_index": "选择索引",
     "open_remote_report": "打开远程报告",
     "choose_value": "選擇價值",
     "text_align": "文本对齐",
@@ -405,7 +476,9 @@
     "thousand_separator": "千分离器",
     "decimal_separator": "小数分隔符",
     "decimal_places": "小数位",
-    "currency_symbol": "货币符号",
+    "currency_symbol": "货币符号",    
+    "positive_currency_format": "正面货币格式",
+    "negative_currency_format": "负面货币格式",
     "currency_align": "货币对齐",
     "null_value": "空值",
     "is_percent": "格式为百分比",

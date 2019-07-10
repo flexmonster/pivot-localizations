@@ -9,6 +9,7 @@ Website: www.flexmonster.com
 - [Spanish](/es.json)
 - [French](/fr.json)
 - [Hungarian](/hu.json)
+- [Italian](/it.json)
 - [Portuguese](/pr.json)
 - [Ukrainian](/ua.json)
 

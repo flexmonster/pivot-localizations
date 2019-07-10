@@ -7,34 +7,73 @@
     "columnBox": "Coloque y Organize Columnas",
     "measureBox": "Coloque y Organize Valores",
     "values": "Valores",
+    "addCalculatedMeasure": "Agregar medida calculada",
+    "expandAll": "+ Abre todos",
+    "collapseAll": "- Contraer Todo",
+    "formulasGroupName": "Valores calculados",
     "allFields": "Todos los campos",
     "rows": "Filas",
     "columns": "Columnas",
     "filters": "Filtros",
     "dropField": "Campo de caída aquí",
-    "addCalculatedMeasure": "Agregar medida calculada",
-    "expandAll": "+ Abre todos",
-    "collapseAll": "- Contraer Todo",
-    "formulasGroupName": "Valores calculados",
     "title": "Campos",
     "subtitle": "Arrastrar y soltar campos para organizar"
   },
   "filter": {
-    "ascSort": "Az",
-    "descSort": "zA",
-    "topX": "Top10",
-    "clearTopX": "Clear Top10",
-    "top": "Superior",
-    "bottom": "Fondo",
-    "measuresPrompt": "Seleccione la medida",
-    "search": "Búsqueda",
+    "all": "Todo",
+    "multipleItems": "Artículos múltiples",
     "selectAll": "Seleccionar todo",
     "selectAllResults": "Seleccione todos los resultados",
+    "top": "Superior",
+    "bottom": "Fondo",
+    "ascSort": "Az",
+    "descSort": "zA",
+    "measuresPrompt": "Seleccione la medida",
+    "search": "Búsqueda",
     "amountSelected": "{0} de {1} selecionados",
     "amountFound": "{0} de {1} encontrado se seleccionan",
-    "multipleItems": "Artículos múltiples",
-    "all": "Todo",
     "sort": "Sort:",
+    "filterBy": "Filtrado por:",
+    "labelsFilter": "Etiquetas",
+    "numbersFilter": "Etiquetas",
+    "valuesFilter": "Valores",
+    "datesFilter": "Fechas",
+    "timeFilter": "Hora",
+    "equal": "Igual",
+    "notEqual": "No es igual",
+    "before": "Antes de",
+    "beforeEqual": "Antes o igual",
+    "after": "Después",
+    "afterEqual": "Despues o igual",
+    "between": "Entre",
+    "notBetween": "No entre",
+    "last": "Último...",
+    "current": "Corriente...",
+    "next": "Siguiente...",
+    "begin": "Empezar",
+    "notBegin": "No empezar",
+    "end": "Fin",
+    "notEnd": "No termina",
+    "contain": "Contiene",
+    "notContain": "No contienen",
+    "greater": "Mayor",
+    "greaterEqual": "Mayor o igual",
+    "less": "Menos",
+    "lessEqual": "Menor o igual",
+    "day": "Día",
+    "week": "Semana",
+    "month": "Mes",
+    "quarter": "Trimestre",
+    "year": "Año",
+    "seconds": "seg.",
+    "minutes": "min.",
+    "hours": "hr.",
+    "days": "d.",
+    "clearDateFilter": "Borrar fecha de filtro",
+    "clearLabelFilter": "Filtro de etiqueta clara",
+    "clearNumberFilter": "Filtro de etiqueta clara",
+    "clearTimeFilter": "Filtro de tiempo claro",
+    "clearValueFilter": "Borrar filtro de valor",
     "addGroup": "Añadir grupo",
     "groupName": "Grupo 1",
     "ungroup": "Desagrupar"
@@ -71,10 +110,10 @@
     "hideLegend": "esconder leyenda",
     "selectMeasures": "Select measures",
     "rowNumber": "Row number",
-    "bigDataSetWarning": "Data set is too big to be displayed on the chart. Data set will be cut off to the amount fitting into the chart.",
     "flatTypesLimitation": "Stacked column and column line charts are not available for flat table.",
     "noDataTitle": "No data to display.",
-    "noMeasuresTitle": "No hay medidas para mostrar. Agregue al menos una medida en la Lista de campos."
+    "noMeasuresTitle": "No hay medidas para mostrar. Agregue al menos una medida en la Lista de campos.",
+    "bigDataSetWarning": "Data set is too big to be displayed on the chart. Data set will be cut off to the amount fitting into the chart."
   },
   "tooltips": {
     "row": "Fila:",
@@ -93,73 +132,40 @@
     "close": "Click para cerrar"
   },
   "aggregations": {
-    "average": {
-      "caption": "Media",
-      "totalCaption": "Media de {0}",
-      "grandTotalCaption": "Total Media de {0}"
+    "sum": {
+      "caption": "Suma",
+      "totalCaption": "Suma de {0}",
+      "grandTotalCaption": "Total Suma de {0}"
     },
     "count": {
       "caption": "Conteo",
       "totalCaption": "Conteo de {0}",
       "grandTotalCaption": "Total conteo de {0}"
     },
-    "difference": {
-      "caption": "La diferencia",
-      "totalCaption": "La diferencia de {0}",
-      "grandTotalCaption": "Total La diferencia de {0}"
-    },
     "distinctCount": {
       "caption": "Distinto conteo",
       "totalCaption": "Distinto conteo de {0}",
       "grandTotalCaption": "Distinto conteo de {0}"
     },
-    "index": {
-      "caption": "Índice",
-      "totalCaption": "Índice de {0}",
-      "grandTotalCaption": "Índice de {0}"
-    },
-    "max": {
-      "caption": "Máximo",
-      "totalCaption": "Maximo de {0}",
-      "grandTotalCaption": "Total máximo de {0}"
-    },
-    "min": {
-      "caption": "Mínimo",
-      "totalCaption": "Minimo de {0}",
-      "grandTotalCaption": "Total mínimo de {0}"
-    },
-    "none": {
-      "caption": "No Calculation"
-    },
-    "percent": {
-      "caption": "Porcentaje",
-      "totalCaption": "Porcentaje de {0}",
-      "grandTotalCaption": "Total Porcentaje de {0}"
+    "difference": {
+      "caption": "La diferencia",
+      "totalCaption": "La diferencia de {0}",
+      "grandTotalCaption": "Total La diferencia de {0}"
     },
     "percentDifference": {
       "caption": "Porcentaje de diferencia",
       "totalCaption": "Porcentaje de diferencia {0}",
       "grandTotalCaption": "Total porcentaje de diferencia {0}"
     },
-    "percentOfColumn": {
-      "caption": "Porcentaje de columna",
-      "totalCaption": "Porcentaje de columna {0}",
-      "grandTotalCaption": "Total Porcentaje de columna {0}"
+    "average": {
+      "caption": "Media",
+      "totalCaption": "Media de {0}",
+      "grandTotalCaption": "Total Media de {0}"
     },
-    "percentOfRow": {
-      "caption": "% of Row",
-      "totalCaption": "% of Row of {0}",
-      "grandTotalCaption": "Total % of Row of {0}"
-    },
-    "product": {
-      "caption": "Producto",
-      "totalCaption": "Producto de {0}",
-      "grandTotalCaption": "Total producto de {0}"
-    },
-    "sum": {
-      "caption": "Suma",
-      "totalCaption": "Suma de {0}",
-      "grandTotalCaption": "Total Suma de {0}"
+    "median": {
+      "caption": "Mediana",
+      "totalCaption": "Mediana de {0}",
+      "grandTotalCaption": "Total Mediana de {0}"
     },
     "stdevp": {
       "caption": "Población StDev",
@@ -171,10 +177,48 @@
       "totalCaption": "Muestra StDev de {0}",
       "grandTotalCaption": "Total Muestra StDev de {0}"
     },
+    "product": {
+      "caption": "Producto",
+      "totalCaption": "Producto de {0}",
+      "grandTotalCaption": "Total producto de {0}"
+    },
+    "min": {
+      "caption": "Mínimo",
+      "totalCaption": "Minimo de {0}",
+      "grandTotalCaption": "Total mínimo de {0}"
+    },
+    "max": {
+      "caption": "Máximo",
+      "totalCaption": "Maximo de {0}",
+      "grandTotalCaption": "Total máximo de {0}"
+    },
+    "percent": {
+      "caption": "Porcentaje",
+      "totalCaption": "Porcentaje de {0}",
+      "grandTotalCaption": "Total Porcentaje de {0}"
+    },
+    "percentOfColumn": {
+      "caption": "Porcentaje de columna",
+      "totalCaption": "Porcentaje de columna {0}",
+      "grandTotalCaption": "Total Porcentaje de columna {0}"
+    },
+    "percentOfRow": {
+      "caption": "% of Row",
+      "totalCaption": "% of Row of {0}",
+      "grandTotalCaption": "Total % of Row of {0}"
+    },
     "runningTotals": {
       "caption": "Totales acumulados",
       "totalCaption": "Totales acumulados de {0}",
       "grandTotalCaption": "Totales acumulados de {0}"
+    },
+    "index": {
+      "caption": "Índice",
+      "totalCaption": "Índice de {0}",
+      "grandTotalCaption": "Índice de {0}"
+    },
+    "none": {
+      "caption": "No Calculation"
     }
   },
   "messages": {
@@ -187,10 +231,11 @@
     "loading": "Cargando...",
     "loadingConfiguration": "Cargando configuración...",
     "loadingData": "Cargando datos...",
-    "uploading": "Actualizando el servidor...",
     "waiting": "{0} seg",
-    "progress": "{0}К of {1}К",
-    "progressUnknown": "leído {0}К",
+    "progress": "{0} filas",
+    "progressKnown": "leído {0} КB de {1} KB",
+    "progressUnknown": "leído {0} КB",
+    "sortingMembers": "Clasificación de miembros...",
     "analyzing": "Analizando datos...",
     "analyzingProgress": "{0} registros de {1} ({2}%)",
     "analyzingRecords": "{0}% records",
@@ -200,42 +245,50 @@
     "loadingMeasures": "Cargando medidas...",
     "loadingKPIs": "Loading KPIs...",
     "loadingMembers": "Cargando grupos...",
-    "loadingProperties": "Loading properties...",
     "loadingLevels": "Cargando niveles...",
+    "loadingProperties": "Loading properties...",
     "fullscreen": "Desea abrirlo en pantalla completa?",
     "exportComplete": "La exportación de datos ha sido creada, por favor pulse el boton \"Guardar\" para guardar los datos.",
+    "exportProgress": "Exportación en progreso...",
+    "exportError": "Failed to export. An unexpected error occurred.",
     "generatingPDF": "Generando PDF",
     "pleaseWait": "Por favor, espere.",
     "pagesWereGenerated": "páginas se generaron.",
-    "exportProgress": "Exportación en progreso...",
-    "exportError": "Failed to export. An unexpected error occurred.",
+    "uploading": "Actualizando el servidor...",
     "cantSaveFile": "Error: No se puede guardar el fichero.",
     "cantSaveToClipboard": "Error: No puedo escribir en el portapapeles.",
     "saveReportToFile": "Informe está listo para ser guardados en un archivo, haga clic en \"Guardar\" para guardar el informe.",
-    "saveDataToFile": "Data is ready to be saved to file, please click \"Save\" button to save the file.",
     "loadReportFromFile": "Seleccione el fichero de informe para ser cargado",
     "inputNewName": "Entrada de un nuevo nombre",
     "inputReportName": "Por favor, introducir el nombre de informe",
     "invalidDataSource": "Invalid datasource or catalog. Please check. <br/><br/><u><a href='https://www.flexmonster.com/doc/typical-errors/#invalid-datasource' target='_blank'>Read more info about this error</a></u>",
     "dataStreamError": "Stream error occurred while loading '{0}'<br/><br/><u><a href='https://www.flexmonster.com/doc/typical-errors/#stream-error' target='_blank'>Read more info about this error</a></u>",
     "unableToOpenFile": "Unable to open file {0}.<br/><br/>It seems that this file doesn't exist or 'Access-Control-Allow-Origin' header is absent in the resource requested.<br/><br/><u><a href='https://www.flexmonster.com/doc/typical-errors/#unable-to-open-file' target='_blank'>Read more info about this error</a></u>",
+    "errorTextMessage": "</br>Detalles: '{0}'",
     "unableTwoFileBrowsingSessions": "Browse file dialog is already opened.",
-    "wrongFormulaFormat": "Wrong formula format. Please check.",
     "inappropriateFileFormat": "The data file is of inappropriate format.",
     "invalidJSONdata": "JSON data is invalid.",
+    "wrongFormulaFormat": "Formato de fórmula incorrecto. Por favor, compruebe.",
+    "wrongUniqueName": "El campo con <b> '{0}' </b> uniqueName no está definido.",
     "excelCsvChartsExportError": "Export to Microsoft Excel or CSV is not available for charts.",
     "excelPdfExportLimitation": "Export to Microsoft Excel or PDF is not available in the current edition.",
     "excelExportLimitation": "Export is not available in the current edition.",
     "noDataAvailable": "Data source is empty. Please check the CSV file.",
-    "csvHeaderParsingError": "CSV header parsing error.",
+    "saveDataToFile": "Los datos están listos para ser guardados en un archivo, haga clic en el botón \"Guardar\" para guardar el archivo.",
     "dataWasUpdated": "Data source has been updated on the server. Refresh the report?",
     "cantConnectToAccelerator": "Cannot connect to data source. Please check if Flexmonster Accelerator is running.",
     "ocsvIncompatible": "Unable to read data source. It seems that OCSV file was compressed with a newer version. Please update the component to version {0} or newer.",
     "unknownError": "Unknown error occurred.",
     "invalidReportFormat": "Invalid report format or access to file is denied.",
+    "invalidReportFormat2": "Invalid report format. 'dataSource' property is required.",
+    "csvHeaderParsingError": "Error de análisis del encabezado CSV.",
     "tooManyColumnsInClassicMode": "Too many columns for classic form. Switched layout to compact form.",
-    "loadingSkin": "Cargando estilo... {0}%",
-    "selectFile": "Seleccione el fichero .CSV para cargar"
+    "cantExpand": "Algunos campos no pueden ser expandidos. Por favor, reduzca el conjunto de datos.",
+    "cantExpandTitle": "El conjunto de datos es demasiado grande",
+    "selectFile": "Seleccione el fichero .CSV para cargar",
+    "flatTableIsNotSupported": "La tabla plana no es compatible con el origen de datos {0}.",
+    "enterGroupNamePrompt": "Por favor ingrese el nombre del grupo:",
+    "loadingSkin": "Cargando estilo... {0}%"
   },
   "kpis": {
     "kpis": "KPIs",
@@ -255,19 +308,30 @@
     "no": "No"
   },
   "contextMenu": {
-    "drillThrough": "Drill through",
-    "openFilter": "Open filter",
-    "collapse": "Collapse",
-    "expand": "Expand",
-    "sortRowDesc": "Sort row desc",
-    "sortRowAsc": "Sort row asc",
-    "clearSorting": "Clear sorting",
-    "sortColumnDesc": "Sort column desc",
-    "sortColumnAsc": "Sort column asc",
-    "aggregation": "Aggregation",
-    "properties": "Properties",
-    "showProperty": "Show {0}",
-    "hideProperty": "Hide <b>{0}</b>"
+    "clearSorting": "Clasificación clara",
+    "collapse": "Colapso",
+    "drillThrough": "Perforar a través",
+    "expand": "Expandir",
+    "openFilter": "Filtro abierto",
+    "sortColumnAsc": "Ordenar columna asc",
+    "sortColumnDesc": "Ordenar columna desc",
+    "sortRowAsc": "Ordenar fila asc",
+    "sortRowDesc": "Ordenar fila desc",
+    "aggregation": "Agregación",
+    "properties": "Propiedades",
+    "hideProperty": "Esconder <b>{0}</b>",
+    "groupMembers": "Miembros del grupo",
+    "ungroupMembers": "Desagrupar miembros",
+    "conditionalFormatting": "Conditional Formatting",
+    "numberFormatting": "Number Formatting",
+    "filterBy": "Filter by <b>{0}</b>",
+    "removeFiel": "Remove Field",
+    "removeMeasure": "Remove Measure",
+    "showProperty": "Mostrar <b>{0}</b>",
+    "editFormula": "Edit <b>{0}</b>",
+    "moveToRows": "Move to Rows",
+    "moveToColumns": "Move to Columns",
+    "moveToPages": "Move to Report Filters"
   },
   "date": {
     "year": "Año",
@@ -338,6 +402,8 @@
     "connect_remote_json_mobile": "JSON",
     "connect_olap": "OLAP (XMLA)",
     "connect_olap_mobile": "OLAP",
+    "connect_elastic": "A Elasticsearch",
+    "connect_elastic_mobile": "Elastic",
     "open": "Abierto",
     "local_report": "Informe local",
     "remote_report": "Informe remoto",
@@ -365,6 +431,7 @@
     "conditional_formatting_mobile": "Condicional",
     "options": "Opciones",
     "fullscreen": "Pantalla completa",
+    "minimize": "Minimizar",
     "export": "Exportar",
     "export_print": "Imprimir",
     "export_html": "HTML",
@@ -395,6 +462,10 @@
     "credentials": "cartas credenciales",
     "username": "Nombre de usuario",
     "password": "Contraseña",
+    "connect_elastic_title": "Conectarse a Elasticsearch",
+    "host_url": "URL del host",
+    "index_name": "Índice",
+    "select_index": "Seleccionar índice",
     "open_remote_report": "Abrir informe remoto",
     "choose_value": "Elegir valor",
     "text_align": "Texto alineado",
@@ -405,7 +476,9 @@
     "thousand_separator": "Mil separadores",
     "decimal_separator": "Separador decimal",
     "decimal_places": "Lugares decimales",
-    "currency_symbol": "Símbolo de moneda",
+    "currency_symbol": "Símbolo de moneda",    
+    "positive_currency_format": "Formato de moneda positivo",
+    "negative_currency_format": "Formato de moneda negativa",
     "currency_align": "La moneda se alinea",
     "null_value": "Valor nulo",
     "is_percent": "Formato como porcentaje",

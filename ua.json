@@ -7,34 +7,73 @@
     "columnBox": "Перетягніть колонки",
     "measureBox": "Перетягніть міри",
     "values": "Міри",
-    "allFields": "All Fields",
-    "rows": "Rows",
-    "columns": "Columns",
-    "filters": "Filters",
-    "dropField": "Drop Field Here",
     "addCalculatedMeasure": "Додати міру",
     "expandAll": "+ Розгорнути все",
     "collapseAll": "- Згорнути все",
     "formulasGroupName": "Міри",
+    "allFields": "Всі поля",
+    "rows": "Рядки",
+    "columns": "Колонки",
+    "filters": "Фільтри",
+    "dropField": "Перетягніть поля",
     "title": "Виміри",
     "subtitle": "Перетягніть виміри"
   },
   "filter": {
-    "ascSort": "Ая",
-    "descSort": "яА",
-    "topX": "Топ10",
-    "clearTopX": "Clear Top10",
-    "top": "Більші",
-    "bottom": "Менші",
-    "measuresPrompt": "Оберіть міру",
-    "search": "Пошук",
+    "all": "Всі елементи",
+    "multipleItems": "Кілька елементів",
     "selectAll": "Обрати все",
     "selectAllResults": "Обрати всі знайдені",
+    "top": "Більші",
+    "bottom": "Менші",
+    "ascSort": "Ая",
+    "descSort": "яА",
+    "measuresPrompt": "Оберіть міру",
+    "search": "Пошук",
     "amountSelected": "{0} з {1} вибраних",
     "amountFound": "{0} з {1} знайдених вибрані",
-    "multipleItems": "Кілька елементів",
-    "all": "Всі елементи",
     "sort": "Сортування",
+    "filterBy": "Фільтр по:",
+    "labelsFilter": "Назвах",
+    "numbersFilter": "Назвах",
+    "valuesFilter": "Значеннях",
+    "datesFilter": "Датах",
+    "timeFilter": "Часу",
+    "equal": "Дорівнює",
+    "notEqual": "Не дорівнює",
+    "before": "Перед",
+    "beforeEqual": "Перед або дорівнює",
+    "after": "Після",
+    "afterEqual": "Після або дорівнює",
+    "between": "Між",
+    "notBetween": "Поза",
+    "last": "Попередній...",
+    "current": "Поточний...",
+    "next": "Наступний...",
+    "begin": "Починається",
+    "notBegin": "Не починається",
+    "end": "Закінчується",
+    "notEnd": "Не закінчується",
+    "contain": "Містить",
+    "notContain": "Не містить",
+    "greater": "Більше",
+    "greaterEqual": "Більше або дорівнює",
+    "less": "Менше",
+    "lessEqual": "Менше або дорівнює",
+    "day": "День",
+    "week": "Тиждень",
+    "month": "Місяць",
+    "quarter": "Квартал",
+    "year": "Рік",
+    "seconds": "сек.",
+    "minutes": "хв.",
+    "hours": "г.",
+    "days": "д.",
+    "clearDateFilter": "Видалити фільр по датах",
+    "clearLabelFilter": "Видалити фільр по назвах",
+    "clearNumberFilter": "Видалити фільр по датах",
+    "clearTimeFilter": "Видалити фільр по часу",
+    "clearValueFilter": "Видалити фільр по значеннях",
     "addGroup": "Додати групу",
     "groupName": "Група 1",
     "ungroup": "Розгрупувати"
@@ -62,19 +101,19 @@
     "total": "",
     "totals": "Загальні значення",
     "grandTotal": "Загальна сума",
-    "blankMember": "(blank)",
-    "dateInvalidCaption": "Invalid date",
+    "blankMember": "(пусто)",
+    "dateInvalidCaption": "Невалідна дата",
     "reportInformation": "Додаткова інформація"
   },
   "charts": {
     "showLegend": "Згорнути легенду",
     "hideLegend": "Розгорнути легенду",
-    "selectMeasures": "Select measures",
-    "rowNumber": "Row number",
-    "bigDataSetWarning": "Data set is too big to be displayed on the chart. Data set will be cut off to the amount fitting into the chart.",
+    "selectMeasures": "Оберіть міри",
+    "rowNumber": "Номер рядка",
     "flatTypesLimitation": "Stacked column and column line charts are not available for flat table.",
-    "noDataTitle": "No data to display.",
-    "noMeasuresTitle": "Немає мір для відображення. Додайте принаймні одну міру в списку полів."
+    "noDataTitle": "Немає даних для відображення.",
+    "noMeasuresTitle": "Немає мір для відображення. Додайте принаймні одну міру в списку полів.",
+    "bigDataSetWarning": "Кількість даних занадто велика для відображення на графіку. Вона буде обмежена видимою областю."
   },
   "tooltips": {
     "row": "Рядки:",
@@ -93,73 +132,40 @@
     "close": "Клацніть щоб закрити"
   },
   "aggregations": {
-    "average": {
-      "caption": "Середнє",
-      "totalCaption": "Середнє по {0}",
-      "grandTotalCaption": "Середнє по всіх {0}"
+    "sum": {
+      "caption": "Сума",
+      "totalCaption": "Сума по {0}",
+      "grandTotalCaption": "Загальна сума по {0}"
     },
     "count": {
       "caption": "Кількість",
       "totalCaption": "Кількість {0}",
       "grandTotalCaption": "Загальна кількість {0}"
     },
-    "difference": {
-      "caption": "Різниця",
-      "totalCaption": "Різниця {0}",
-      "grandTotalCaption": "Різниця по всіх {0}"
-    },
     "distinctCount": {
       "caption": "Чітка кількість",
       "totalCaption": "Чітка кількість {0}",
       "grandTotalCaption": "Загальна чітка кількість {0}"
     },
-    "index": {
-      "caption": "Індекс",
-      "totalCaption": "Індекс {0}",
-      "grandTotalCaption": "Індекс {0}"
-    },
-    "max": {
-      "caption": "Максимум",
-      "totalCaption": "Максимум {0}",
-      "grandTotalCaption": "Мінімум по всіх {0}"
-    },
-    "min": {
-      "caption": "Мінімум",
-      "totalCaption": "Мінімум {0}",
-      "grandTotalCaption": "Мінімум по всіх {0}"
-    },
-    "none": {
-      "caption": "No Calculation"
-    },
-    "percent": {
-      "caption": "Відсоток",
-      "totalCaption": "Відсоток {0}",
-      "grandTotalCaption": "Відсоток по всіх {0}"
+    "difference": {
+      "caption": "Різниця",
+      "totalCaption": "Різниця {0}",
+      "grandTotalCaption": "Різниця по всіх {0}"
     },
     "percentDifference": {
       "caption": "Різниця у колонці",
       "totalCaption": "Різниця у колонці {0}",
       "grandTotalCaption": "Різниця у колонці по всіх {0}"
     },
-    "percentOfColumn": {
-      "caption": "Відсоток у колонці",
-      "totalCaption": "Відсоток у колонці {0}",
-      "grandTotalCaption": "Відсоток у колонці по всіх {0}"
+    "average": {
+      "caption": "Середнє",
+      "totalCaption": "Середнє по {0}",
+      "grandTotalCaption": "Середнє по всіх {0}"
     },
-    "percentOfRow": {
-      "caption": "% of Row",
-      "totalCaption": "% of Row of {0}",
-      "grandTotalCaption": "Total % of Row of {0}"
-    },
-    "product": {
-      "caption": "Добуток",
-      "totalCaption": "Добуток по {0}",
-      "grandTotalCaption": "Загальний добуток по {0}"
-    },
-    "sum": {
-      "caption": "Сума",
-      "totalCaption": "Сума по {0}",
-      "grandTotalCaption": "Загальна сума по {0}"
+    "median": {
+      "caption": "Медіана",
+      "totalCaption": "Медіана по {0}",
+      "grandTotalCaption": "Медіана по всіх {0}"
     },
     "stdevp": {
       "caption": "StDev популяції",
@@ -171,10 +177,48 @@
       "totalCaption": "StDev зразка по {0}",
       "grandTotalCaption": "StDev зразка по всіх {0}"
     },
+    "product": {
+      "caption": "Добуток",
+      "totalCaption": "Добуток по {0}",
+      "grandTotalCaption": "Загальний добуток по {0}"
+    },
+    "min": {
+      "caption": "Мінімум",
+      "totalCaption": "Мінімум {0}",
+      "grandTotalCaption": "Мінімум по всіх {0}"
+    },
+    "max": {
+      "caption": "Максимум",
+      "totalCaption": "Максимум {0}",
+      "grandTotalCaption": "Мінімум по всіх {0}"
+    },
+    "percent": {
+      "caption": "Відсоток",
+      "totalCaption": "Відсоток {0}",
+      "grandTotalCaption": "Відсоток по всіх {0}"
+    },
+    "percentOfColumn": {
+      "caption": "Відсоток у колонці",
+      "totalCaption": "Відсоток у колонці {0}",
+      "grandTotalCaption": "Відсоток у колонці по всіх {0}"
+    },
+    "percentOfRow": {
+      "caption": "% of Row",
+      "totalCaption": "% of Row of {0}",
+      "grandTotalCaption": "Total % of Row of {0}"
+    },
     "runningTotals": {
       "caption": "Наростаючий підсумок",
       "totalCaption": "Наростаючий підсумок по {0}",
       "grandTotalCaption": "Наростаючий підсумок по {0}"
+    },
+    "index": {
+      "caption": "Індекс",
+      "totalCaption": "Індекс {0}",
+      "grandTotalCaption": "Індекс {0}"
+    },
+    "none": {
+      "caption": "No Calculation"
     }
   },
   "messages": {
@@ -187,12 +231,13 @@
     "loading": "Завантаження ...",
     "loadingConfiguration": "Завантаження установок...",
     "loadingData": "Завантаження даних...",
-    "uploading": "Завантаження на сервер...",
     "waiting": "Очікується відповідь сервера",
-    "progress": "{0}К зі {1}К",
-    "progressUnknown": "завантажено {0}К",
+    "progress": "{0} рядків",
+    "progressKnown": "завантажено {0} KB з {1} KB",
+    "progressUnknown": "завантажено {0} КB",
+    "sortingMembers": "Сортування...",
     "analyzing": "Аналіз данних",
-    "analyzingProgress": "{0} фактів за {1}",
+    "analyzingProgress": "{0} фактів з {1}",
     "analyzingRecords": "{0}% records",
     "saving": "Saving...",
     "loadingDimensions": "Завантаження вимірів...",
@@ -200,42 +245,50 @@
     "loadingMeasures": "Завантаження мір...",
     "loadingKPIs": "Loading KPIs...",
     "loadingMembers": "Завантаження членів...",
-    "loadingProperties": "Loading properties...",
     "loadingLevels": "Завантаження рівнів...",
+    "loadingProperties": "Завантаження властивостей...",
     "fullscreen": "Відкрити на весь екран?",
     "exportComplete": "Експорт завершено. Натисніть кнопку \"Зберегти\".",
+    "exportProgress": "Експорт триває...",
+    "exportError": "Експорт не вдався. Виникла помилка.",
     "generatingPDF": "Створюється PDF",
     "pleaseWait": "Зачекайте, будь ласка.",
     "pagesWereGenerated": "сторінки згенеровано.",
-    "exportProgress": "Експорт триває...",
-    "exportError": "Failed to export. An unexpected error occurred.",
+    "uploading": "Завантаження на сервер...",
     "cantSaveFile": "Не вдалося зберегти файл!",
     "cantSaveToClipboard": "Не вдалося скопіювати у буфер обміну!",
     "saveReportToFile": "Звіт може бути збережено у файл. Натисніть кнопку \"Зберегти\".",
-    "saveDataToFile": "Data is ready to be saved to file, please click \"Save\" button to save the file.",
     "loadReportFromFile": "Оберіть, будь ласка, файл зі звітом для завантаження",
     "inputNewName": "Введіть ім'я",
     "inputReportName": "Введіть назву звіту",
     "invalidDataSource": "Invalid datasource or catalog. Please check. <br/><br/><u><a href='https://www.flexmonster.com/doc/typical-errors/#invalid-datasource' target='_blank'>Read more info about this error</a></u>",
     "dataStreamError": "Stream error occurred while loading '{0}'<br/><br/><u><a href='https://www.flexmonster.com/doc/typical-errors/#stream-error' target='_blank'>Read more info about this error</a></u>",
     "unableToOpenFile": "Unable to open file {0}.<br/><br/>It seems that this file doesn't exist or 'Access-Control-Allow-Origin' header is absent in the resource requested.<br/><br/><u><a href='https://www.flexmonster.com/doc/typical-errors/#unable-to-open-file' target='_blank'>Read more info about this error</a></u>",
+    "errorTextMessage": "</br>Деталі: '{0}'",
     "unableTwoFileBrowsingSessions": "Browse file dialog is already opened.",
-    "wrongFormulaFormat": "Wrong formula format. Please check.",
     "inappropriateFileFormat": "The data file is of inappropriate format.",
     "invalidJSONdata": "JSON data is invalid.",
+    "wrongFormulaFormat": "Wrong formula format. Please check.",
+    "wrongUniqueName": "The field with <b>'{0}'</b> uniqueName is not defined.",
     "excelCsvChartsExportError": "Export to Microsoft Excel or CSV is not available for charts.",
     "excelPdfExportLimitation": "Export to Microsoft Excel or PDF is not available in the current edition.",
     "excelExportLimitation": "Export is not available in the current edition.",
     "noDataAvailable": "Data source is empty. Please check the CSV file.",
-    "csvHeaderParsingError": "CSV header parsing error.",
+    "saveDataToFile": "Data is ready to be saved to file, please click \"Save\" button to save the file.",
     "dataWasUpdated": "Data source has been updated on the server. Refresh the report?",
     "cantConnectToAccelerator": "Cannot connect to data source. Please check if Flexmonster Accelerator is running.",
     "ocsvIncompatible": "Unable to read data source. It seems that OCSV file was compressed with a newer version. Please update the component to version {0} or newer.",
     "unknownError": "Unknown error occurred.",
     "invalidReportFormat": "Invalid report format or access to file is denied.",
+    "invalidReportFormat2": "Invalid report format. 'dataSource' property is required.",
+    "csvHeaderParsingError": "CSV header parsing error.",
     "tooManyColumnsInClassicMode": "Too many columns for classic form. Switched layout to compact form.",
-    "loadingSkin": "Завантаження теми... {0}%",
-    "selectFile": "Оберіть, будь ласка, файл для завантаження"
+    "cantExpand": "Some fields cannot be expanded. Please narrow down the data set.",
+    "cantExpandTitle": "Data set is too large",
+    "selectFile": "Оберіть, будь ласка, файл для завантаження",
+    "flatTableIsNotSupported": "Flat table is not supported for {0} data source.",
+    "enterGroupNamePrompt": "Please enter group name:",
+    "loadingSkin": "Завантаження теми... {0}%"
   },
   "kpis": {
     "kpis": "KPIs",
@@ -255,19 +308,30 @@
     "no": "Ні"
   },
   "contextMenu": {
-    "drillThrough": "Drill through",
-    "openFilter": "Open filter",
-    "collapse": "Collapse",
-    "expand": "Expand",
-    "sortRowDesc": "Sort row desc",
-    "sortRowAsc": "Sort row asc",
-    "clearSorting": "Clear sorting",
-    "sortColumnDesc": "Sort column desc",
-    "sortColumnAsc": "Sort column asc",
+    "clearSorting": "Очистити сортування",
+    "collapse": "Згорнути",
+    "drillThrough": "Заглибитися",
+    "expand": "Розгорнути",
+    "openFilter": "Відкрити фільтр",
+    "sortColumnAsc": "Сортувати по зростанню",
+    "sortColumnDesc": "Сортувати по спаданню",
+    "sortRowAsc": "Сортувати по зростанню",
+    "sortRowDesc": "Сортувати по спаданню",
     "aggregation": "Агрегація",
-    "properties": "Properties",
-    "showProperty": "Show {0}",
-    "hideProperty": "Hide <b>{0}</b>"
+    "properties": "Властивості",
+    "hideProperty": "Сховати <b>{0}</b>",
+    "groupMembers": "Групувати",
+    "ungroupMembers": "Розгрупувати",
+    "conditionalFormatting": "Умови форматування",
+    "numberFormatting": "Форматування чисел",
+    "filterBy": "Фільтрувати за <b>{0}</b>",
+    "removeFiel": "Видалити поле",
+    "removeMeasure": "Видалити міру",
+    "showProperty": "Показати <b>{0}</b>",
+    "editFormula": "Редагувати <b>{0}</b>",
+    "moveToRows": "Перенести у рядки",
+    "moveToColumns": "Перенести у колонки",
+    "moveToPages": "Перенести у фільтри"
   },
   "date": {
     "year": "Рік",
@@ -336,8 +400,10 @@
     "connect_remote_csv_mobile": "CSV",
     "connect_remote_json": "Віддалений JSON",
     "connect_remote_json_mobile": "JSON",
-    "connect_olap": "To OLAP (XMLA)",
+    "connect_olap": "До OLAP (XMLA)",
     "connect_olap_mobile": "OLAP",
+    "connect_elastic": "До Elasticsearch",
+    "connect_elastic_mobile": "Elastic",
     "open": "Відкрити",
     "local_report": "Локальний звіт",
     "remote_report": "Віддалений звіт",
@@ -365,6 +431,7 @@
     "conditional_formatting_mobile": "Умовне",
     "options": "Опції",
     "fullscreen": "Розгорнути",
+    "minimize": "Згорнути",
     "export": "Експорт",
     "export_print": "Друкувати",
     "export_html": "HTML",
@@ -395,6 +462,10 @@
     "credentials": "авторизація",
     "username": "логін",
     "password": "пароль",
+    "connect_elastic_title": "Підключитись до Elasticsearch",
+    "host_url": "URL хоста",
+    "index_name": "Індекс",
+    "select_index": "Оберіть індекс",
     "open_remote_report": "Відкрити віддалений звіт",
     "choose_value": "Оберіть вимір",
     "text_align": "Вирівнювання тексту",
@@ -405,7 +476,9 @@
     "thousand_separator": "Роздільник тисяч",
     "decimal_separator": "Десятковий роздільник",
     "decimal_places": "Розрядність",
-    "currency_symbol": "Символ валюти",
+    "currency_symbol": "Символ валюти",    
+    "positive_currency_format": "Позитивний формат валюти",
+    "negative_currency_format": "Негативний формат валюти",
     "currency_align": "Вирівнювання валюти",
     "null_value": "Нульове значеня",
     "is_percent": "Форматувати як відсотки",
