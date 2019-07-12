@@ -113,6 +113,9 @@
     "bigDataSetWarning": "Il set dei dati e' troppo vasto per essere mostrato sul grafico. I dati saranno troncati."
   },
   "tooltips": {
+    "fieldList": "Clicca per aprire Campi",
+    "selectAggregation": "Seleziona aggregazione",
+    "editCalculatedMeasure": "Modifica il valore calcolato",
     "row": "Riga:",
     "column": "Colonna:",
     "headerResize": "Trascina per ridimensionare",
@@ -481,7 +484,6 @@
     "true_value": "vero",
     "false_value": "falso",
     "conditional": "Condizionale",
-    "add_condition": "Aggiungi condizione",
     "less_than": "Minore di",
     "less_than_or_equal": "Minore o uguale di",
     "greater_than": "Maggiore di",
@@ -512,6 +514,11 @@
     "subtotals_on_columns": "Mostra subtotali solo colonne",
     "choose_page_orientation": "Scegli orientamento pagina",
     "landscape": "Orizzontale",
-    "portrait": "Verticale"
+    "portrait": "Verticale",
+    "tooltips": {
+        "add_condition": "Aggiungi condizione",
+        "remove_condition": "Rimuovere la condizione",
+        "cp_text_color": "Colore del testo"
+    }
   }
 }

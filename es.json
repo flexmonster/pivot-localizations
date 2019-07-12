@@ -73,10 +73,7 @@
     "clearLabelFilter": "Filtro de etiqueta clara",
     "clearNumberFilter": "Filtro de etiqueta clara",
     "clearTimeFilter": "Filtro de tiempo claro",
-    "clearValueFilter": "Borrar filtro de valor",
-    "addGroup": "Añadir grupo",
-    "groupName": "Grupo 1",
-    "ungroup": "Desagrupar"
+    "clearValueFilter": "Borrar filtro de valor"
   },
   "drillThrough": {
     "title": "Detalles",
@@ -116,6 +113,9 @@
     "bigDataSetWarning": "Data set is too big to be displayed on the chart. Data set will be cut off to the amount fitting into the chart."
   },
   "tooltips": {
+    "fieldList": "Haga clic para abrir los campos",
+    "selectAggregation": "Seleccionar agregación",
+    "editCalculatedMeasure": "Editar valor calculado",
     "row": "Fila:",
     "column": "Columna:",
     "headerResize": "Arrastrar para redimensionar",
@@ -287,8 +287,7 @@
     "cantExpandTitle": "El conjunto de datos es demasiado grande",
     "selectFile": "Seleccione el fichero .CSV para cargar",
     "flatTableIsNotSupported": "La tabla plana no es compatible con el origen de datos {0}.",
-    "enterGroupNamePrompt": "Por favor ingrese el nombre del grupo:",
-    "loadingSkin": "Cargando estilo... {0}%"
+    "enterGroupNamePrompt": "Por favor ingrese el nombre del grupo:"
   },
   "kpis": {
     "kpis": "KPIs",
@@ -485,7 +484,6 @@
     "true_value": "cierto",
     "false_value": "falso",
     "conditional": "Condicional",
-    "add_condition": "Añadir condición",
     "less_than": "Menos que",
     "less_than_or_equal": "Menos que o igual a",
     "greater_than": "Mas grande que",
@@ -517,11 +515,10 @@
     "choose_page_orientation": "Elegir la orientación de la página",
     "landscape": "Paisaje",
     "portrait": "Retrato",
-    "off_for_rows_and_columns": "Desactivado para filas y columnas",
-    "on_for_rows_and_columns": "Activado para filas y columnas",
-    "on_for_rows": "Sólo para filas",
-    "on_for_columns": "Sólo para columnas",
-    "do_not_show_subtotals": "No mostrar subtotales",
-    "show_all_subtotals": "Mostrar todos los subtotales"
+    "tooltips": {
+        "add_condition": "Añadir condición",
+        "remove_condition": "Quitar condición",
+        "cp_text_color": "Color de texto"
+    }
   }
 }

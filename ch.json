@@ -73,10 +73,7 @@
     "clearLabelFilter": "清除标签过滤器",
     "clearNumberFilter": "清除标签过滤器",
     "clearTimeFilter": "清除时间过滤器",
-    "clearValueFilter": "清除值过滤器",
-    "addGroup": "添加組",
-    "groupName": "組 1",
-    "ungroup": "取消組合"
+    "clearValueFilter": "清除值过滤器"
   },
   "drillThrough": {
     "title": "详情",
@@ -116,6 +113,9 @@
     "bigDataSetWarning": "数据太多。请先筛选数据，才使用图表方式显示。"
   },
   "tooltips": {
+    "fieldList": "单击以打开字段",
+    "selectAggregation": "选择聚合",
+    "editCalculatedMeasure": "编辑计算值",
     "row": "行：",
     "column": "列：",
     "headerResize": "拖动以调整",
@@ -287,8 +287,7 @@
     "cantExpandTitle": "数据集太大",
     "selectFile": "选择要载入的CSV文件",
     "flatTableIsNotSupported": "{0}数据源不支持平面表。",
-    "enterGroupNamePrompt": "请输入群组名称:",
-    "loadingSkin": "载入样式... {0}%"
+    "enterGroupNamePrompt": "请输入群组名称:"
   },
   "kpis": {
     "kpis": "KPIs",
@@ -485,7 +484,6 @@
     "true_value": "真正",
     "false_value": "假",
     "conditional": "有条件",
-    "add_condition": "添加条件",
     "less_than": "少于",
     "less_than_or_equal": "小于或等于",
     "greater_than": "比...更棒",
@@ -517,11 +515,10 @@
     "choose_page_orientation": "选择页面方向",
     "landscape": "景观",
     "portrait": "肖像",
-    "off_for_rows_and_columns": "关闭行和列",
-    "on_for_rows_and_columns": "打开行和列",
-    "on_for_rows": "仅对行",
-    "on_for_columns": "仅对列",
-    "do_not_show_subtotals": "不显示小计",
-    "show_all_subtotals": "显示所有小计"
+    "tooltips": {
+        "add_condition": "添加条件",
+        "remove_condition": "删除条件",
+        "cp_text_color": "文字颜色"
+    }
   }
 }

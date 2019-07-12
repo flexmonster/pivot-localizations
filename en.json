@@ -113,6 +113,9 @@
     "bigDataSetWarning": "Data set is too big to be displayed on the chart. Data set will be cut off to the amount fitting into the chart."
   },
   "tooltips": {
+    "fieldList": "Click to open Fields",
+    "selectAggregation": "Select aggregation",
+    "editCalculatedMeasure": "Edit calculated value",
     "row": "Row:",
     "column": "Column:",
     "headerResize": "Drag to resize",
@@ -481,7 +484,6 @@
     "true_value": "true",
     "false_value": "false",
     "conditional": "Conditional",
-    "add_condition": "Add condition",
     "less_than": "Less than",
     "less_than_or_equal": "Less than or equal to",
     "greater_than": "Greater than",
@@ -512,6 +514,11 @@
     "subtotals_on_columns": "Show subtotal columns only",
     "choose_page_orientation": "Choose page orientation",
     "landscape": "Landscape",
-    "portrait": "Portrait"
+    "portrait": "Portrait",
+    "tooltips": {
+        "add_condition": "Add condition",
+        "remove_condition": "Remove condition",
+        "cp_text_color": "Text color"
+    }
   }
 }

@@ -73,10 +73,7 @@
     "clearLabelFilter": "Видалити фільр по назвах",
     "clearNumberFilter": "Видалити фільр по датах",
     "clearTimeFilter": "Видалити фільр по часу",
-    "clearValueFilter": "Видалити фільр по значеннях",
-    "addGroup": "Додати групу",
-    "groupName": "Група 1",
-    "ungroup": "Розгрупувати"
+    "clearValueFilter": "Видалити фільр по значеннях"
   },
   "drillThrough": {
     "title": "Деталі",
@@ -116,6 +113,9 @@
     "bigDataSetWarning": "Кількість даних занадто велика для відображення на графіку. Вона буде обмежена видимою областю."
   },
   "tooltips": {
+    "fieldList": "Відкрити список полів",
+    "selectAggregation": "Обрати функцію агрегування",
+    "editCalculatedMeasure": "Редагувати формулу",
     "row": "Рядки:",
     "column": "Колонки:",
     "headerResize": "Потягніть для зміни розміру",
@@ -287,8 +287,7 @@
     "cantExpandTitle": "Data set is too large",
     "selectFile": "Оберіть, будь ласка, файл для завантаження",
     "flatTableIsNotSupported": "Flat table is not supported for {0} data source.",
-    "enterGroupNamePrompt": "Please enter group name:",
-    "loadingSkin": "Завантаження теми... {0}%"
+    "enterGroupNamePrompt": "Please enter group name:"
   },
   "kpis": {
     "kpis": "KPIs",
@@ -485,7 +484,6 @@
     "true_value": "так",
     "false_value": "ні",
     "conditional": "Умовне форматування",
-    "add_condition": "Додати умову",
     "less_than": "Менше",
     "less_than_or_equal": "Менше або дорівнює",
     "greater_than": "Більше",
@@ -517,11 +515,10 @@
     "choose_page_orientation": "Оберіть орієнтацію сторінки",
     "landscape": "Альбомна",
     "portrait": "Книжкова",
-    "off_for_rows_and_columns": "Не показувати для рядків і колонок",
-    "on_for_rows_and_columns": "Показувати для рядків і колонок",
-    "on_for_rows": "Показувати тільки для рядків",
-    "on_for_columns": "Показувати тільки для колонок",
-    "do_not_show_subtotals": "Не показувати проміжні підсумки",
-    "show_all_subtotals": "Показувати проміжні підсумки"
+    "tooltips": {
+        "add_condition": "Додати умову",
+        "remove_condition": "Видалити умову",
+        "cp_text_color": "Колір тексту"
+    }
   }
 }

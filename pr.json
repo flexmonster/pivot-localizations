@@ -113,6 +113,9 @@
     "bigDataSetWarning": "O conjunto de dados é muito grande para ser exibido no gráfico. O conjunto de dados será cortado na quantidade ajustada no gráfico."
   },
   "tooltips": {
+    "fieldList": "Clique para abrir сampos",
+    "selectAggregation": "Selecione agregação",
+    "editCalculatedMeasure": "Editar valor calculado",
     "row": "Linha:",
     "column": "Coluna:",
     "headerResize": "Arraste para redimensionar",
@@ -284,10 +287,7 @@
     "cantExpandTitle": "O conjunto de dados é muito grande",
     "selectFile": "Selecionar arquivo .CSV para carregar",
     "flatTableIsNotSupported": "A tabela simples não é suportada para a origem de dados {0}.",
-    "enterGroupNamePrompt": "Por favor, insira o nome do grupo:",
-    "loadingSkin": "Carregando estilo... {0}%",
-    "selectOCSVFile": "Selecionar arquivo .OCSV para carregar",
-    "selectJSONFile": "Selecionar arquivo JSON para carregar"
+    "enterGroupNamePrompt": "Por favor, insira o nome do grupo:"
   },
   "kpis": {
     "kpis": "KPIs",
@@ -484,7 +484,6 @@
     "true_value": "verdade",
     "false_value": "falso",
     "conditional": "Condicional",
-    "add_condition": "Adicionar condição",
     "less_than": "Menos que",
     "less_than_or_equal": "Menos que ou igual a",
     "greater_than": "Melhor que",
@@ -515,6 +514,12 @@
     "subtotals_on_columns": "Mostrar apenas colunas subtotais",
     "choose_page_orientation": "Escolha a orientação da página",
     "landscape": "Paisagem",
-    "portrait": "Retrato"
+    "portrait": "Retrato",
+    "tooltips": {
+        "add_condition": "Adicionar condição",
+        "remove_condition": "Remover condição",
+        "cp_text_color": "Cor do texto"
+    }
+
   }
 }

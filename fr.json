@@ -73,10 +73,7 @@
     "clearLabelFilter": "Effacer le filtre de l'étiquette",
     "clearNumberFilter": "Effacer le filtre de l'étiquette",
     "clearTimeFilter": "Effacer le filtre temporel",
-    "clearValueFilter": "Effacer le filtre de valeur",
-    "addGroup": "Ajouter un groupe",
-    "groupName": "Groupe 1",
-    "ungroup": "Dégrouper"
+    "clearValueFilter": "Effacer le filtre de valeur"
   },
   "drillThrough": {
     "title": "Détails",
@@ -116,6 +113,9 @@
     "bigDataSetWarning": "Le jeu de données est trop grand pour être affiché sur le graphique. L'ensemble de données sera coupé sur le montant indiqué dans le tableau."
   },
   "tooltips": {
+    "fieldList": "Cliquez pour ouvrir les champs",
+    "selectAggregation": "Sélectionnez l'agrégation",
+    "editCalculatedMeasure": "Modifier la valeur calculée",
     "row": "Ligne:",
     "column": "Colonne:",
     "headerResize": "Glisser pour redimensionner",
@@ -287,8 +287,7 @@
     "cantExpandTitle": "Le jeu de données est trop volumineux",
     "selectFile": "Sélectionnez le fichier à télécharger",
     "flatTableIsNotSupported": "La table plate n'est pas prise en charge pour la source de données {0}.",
-    "enterGroupNamePrompt": "S'il vous plaît entrer le nom du groupe:",
-    "loadingSkin": "Chargement du Visuel ... {0}%"
+    "enterGroupNamePrompt": "S'il vous plaît entrer le nom du groupe:"
   },
   "kpis": {
     "kpis": "ICP",
@@ -485,7 +484,6 @@
     "true_value": "vrai",
     "false_value": "faux",
     "conditional": "Conditionnel",
-    "add_condition": "Ajouter une condition",
     "less_than": "Moins que",
     "less_than_or_equal": "Inférieur ou égal à",
     "greater_than": "Plus grand que",
@@ -517,11 +515,10 @@
     "choose_page_orientation": "Choisir l'orientation de la page",
     "landscape": "Paysage",
     "portrait": "Portrait",
-    "off_for_rows_and_columns": "Désactivé pour les lignes et les colonnes",
-    "on_for_rows_and_columns": "Activé pour les lignes et les colonnes",
-    "on_for_rows": "Activé pour les lignes uniquement",
-    "on_for_columns": "Activé pour les colonnes uniquement",
-    "do_not_show_subtotals": "Ne pas afficher de sous-totaux",
-    "show_all_subtotals": "Afficher tous les sous-totaux"
+    "tooltips": {
+        "add_condition": "Ajouter une condition",
+        "remove_condition": "Supprimer la condition",
+        "cp_text_color": "Couleur du texte"
+    }
   }
 }

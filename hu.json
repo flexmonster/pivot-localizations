@@ -73,10 +73,7 @@
     "clearLabelFilter": "Törölje a címke szűrőt",
     "clearNumberFilter": "Törölje a címke szűrőt",
     "clearTimeFilter": "Tiszta időszűrő",
-    "clearValueFilter": "Tiszta érték szűrő",
-    "addGroup": "Csoport hozzáadása",
-    "groupName": "Csoport 1",
-    "ungroup": "Csoportosítás bontása"
+    "clearValueFilter": "Tiszta érték szűrő"
   },
   "drillThrough": {
     "title": "Részletek",
@@ -116,6 +113,9 @@
     "bigDataSetWarning": "A kiválasztott adat túl nagy ahhoz, hogy megjelenjen a diagramon. Az adathalmaz a diagram méreteihez igazodva levágásra fog kerülni."
   },
   "tooltips": {
+    "fieldList": "Kattintson a mezők megnyitásához",
+    "selectAggregation": "Válassza ki az összesítést",
+    "editCalculatedMeasure": "Számított érték szerkesztése",
     "row": "Sor:",
     "column": "Oszlop:",
     "headerResize": "Kívánt méretre igazítás",
@@ -475,7 +475,7 @@
     "thousand_separator": "Ezres helyiérték elválasztó",
     "decimal_separator": "Tizedesjel",
     "decimal_places": "Tizedes jegyek száma",
-    "currency_symbol": "Mértékegység",    
+    "currency_symbol": "Mértékegység",
     "positive_currency_format": "Pozitív pénznemformátum",
     "negative_currency_format": "Negatív pénznemformátum",
     "currency_align": "Mértékegység helye",
@@ -484,7 +484,6 @@
     "true_value": "igen",
     "false_value": "nem",
     "conditional": "Feltételes",
-    "add_condition": "Feltétel hozzáadaása",
     "less_than": "kevesebb, mint",
     "less_than_or_equal": "kevesebb, mint vagy egyenlő",
     "greater_than": "nagyobb, mint",
@@ -515,6 +514,11 @@
     "subtotals_on_columns": "Részösszegek csak oszlopokra vonatkozóan",
     "choose_page_orientation": "Válassza ki az oldal tájolását!",
     "landscape": "Fekvő",
-    "portrait": "Álló"
+    "portrait": "Álló",
+    "tooltips": {
+        "add_condition": "Feltétel hozzáadaása",
+        "remove_condition": "Távolítsa el az állapotot",
+        "cp_text_color": "Szöveg szín"
+    }
   }
 }
