@@ -324,13 +324,13 @@
     "conditionalFormatting": "Умови форматування",
     "numberFormatting": "Форматування чисел",
     "filterBy": "Фільтрувати за <b>{0}</b>",
-    "removeFiel": "Видалити поле",
+    "removeField": "Видалити поле",
     "removeMeasure": "Видалити міру",
     "showProperty": "Показати <b>{0}</b>",
     "editFormula": "Редагувати <b>{0}</b>",
     "moveToRows": "Перенести у рядки",
     "moveToColumns": "Перенести у колонки",
-    "moveToPages": "Перенести у фільтри"
+    "moveToReportFilters": "Перенести у фільтри"
   },
   "date": {
     "year": "Рік",

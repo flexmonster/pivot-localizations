@@ -324,13 +324,13 @@
     "conditionalFormatting": "Conditional Formatting",
     "numberFormatting": "Number Formatting",
     "filterBy": "Filter by <b>{0}</b>",
-    "removeFiel": "Remove Field",
+    "removeField": "Remove Field",
     "removeMeasure": "Remove Measure",
     "showProperty": "Mostrar <b>{0}</b>",
     "editFormula": "Edit <b>{0}</b>",
     "moveToRows": "Move to Rows",
     "moveToColumns": "Move to Columns",
-    "moveToPages": "Move to Report Filters"
+    "moveToReportFilters": "Move to Report Filters"
   },
   "date": {
     "year": "Año",
