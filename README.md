@@ -1,5 +1,5 @@
-# Localization files for Flexmonster Pivot table & charts component
-[![Flexmonster Pivot table component](https://s3.amazonaws.com/flexmonster/github/fm-github-cover.png)](http://flexmonster.com)
+# Localization files for Flexmonster Pivot Table & Charts
+[![Flexmonster Pivot Table & Charts](https://s3.amazonaws.com/flexmonster/github/fm-github-cover.png)](http://flexmonster.com)
 Website: www.flexmonster.com
 
 ## Available localizations
