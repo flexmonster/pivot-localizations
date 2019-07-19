@@ -475,7 +475,7 @@
     "thousand_separator": "Роздільник тисяч",
     "decimal_separator": "Десятковий роздільник",
     "decimal_places": "Розрядність",
-    "currency_symbol": "Символ валюти",    
+    "currency_symbol": "Символ валюти",
     "positive_currency_format": "Позитивний формат валюти",
     "negative_currency_format": "Негативний формат валюти",
     "currency_align": "Вирівнювання валюти",
@@ -516,9 +516,11 @@
     "landscape": "Альбомна",
     "portrait": "Книжкова",
     "tooltips": {
-        "add_condition": "Додати умову",
-        "remove_condition": "Видалити умову",
-        "cp_text_color": "Колір тексту"
-    }
+      "add_condition": "Додати умову",
+      "remove_condition": "Видалити умову",
+      "cp_text_color": "Колір тексту"
+    },
+    "no_active_conditions": "Активних умов немає.",
+    "add_condition_button": "Додати умову"
   }
 }

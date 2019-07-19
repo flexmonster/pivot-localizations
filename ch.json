@@ -475,7 +475,7 @@
     "thousand_separator": "千分离器",
     "decimal_separator": "小数分隔符",
     "decimal_places": "小数位",
-    "currency_symbol": "货币符号",    
+    "currency_symbol": "货币符号",
     "positive_currency_format": "正面货币格式",
     "negative_currency_format": "负面货币格式",
     "currency_align": "货币对齐",
@@ -516,9 +516,11 @@
     "landscape": "景观",
     "portrait": "肖像",
     "tooltips": {
-        "add_condition": "添加条件",
-        "remove_condition": "删除条件",
-        "cp_text_color": "文字颜色"
-    }
+      "add_condition": "添加条件",
+      "remove_condition": "删除条件",
+      "cp_text_color": "文字颜色"
+    },
+    "no_active_conditions": "没有活跃的条件。",
+    "add_condition_button": "添加条件"
   }
 }

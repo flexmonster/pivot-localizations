@@ -518,9 +518,9 @@
     "landscape": "Landscape",
     "portrait": "Portrait",
     "tooltips": {
-        "add_condition": "Add condition",
-        "remove_condition": "Remove condition",
-        "cp_text_color": "Text color"
+      "add_condition": "Add condition",
+      "remove_condition": "Remove condition",
+      "cp_text_color": "Text color"
     }
   }
 }

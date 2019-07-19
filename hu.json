@@ -516,9 +516,11 @@
     "landscape": "Fekvő",
     "portrait": "Álló",
     "tooltips": {
-        "add_condition": "Feltétel hozzáadaása",
-        "remove_condition": "Távolítsa el az állapotot",
-        "cp_text_color": "Szöveg szín"
-    }
+      "add_condition": "Feltétel hozzáadaása",
+      "remove_condition": "Távolítsa el az állapotot",
+      "cp_text_color": "Szöveg szín"
+    },
+    "no_active_conditions": "Nincsenek aktív feltételek.",
+    "add_condition_button": "Feltétel feltétele"
   }
 }
