@@ -110,7 +110,7 @@
     "flatTypesLimitation": "Staked column and column line charts are not available for flat table.",
     "noDataTitle": "No data to display.",
     "noMeasuresTitle": "No measures to display. Add at least one measure in the Field List.",
-    "bigDataSetWarning": "Data set is too big to be displayed on the chart. Data set will be cut off to the amount fitting into the chart."
+    "bigDataSetWarning": "Dataset is too big to be displayed on the chart. Dataset will be cut off to the amount fitting into the chart."
   },
   "tooltips": {
     "fieldList": "Click to open Fields",
@@ -283,8 +283,8 @@
     "invalidReportFormat2": "Invalid report format. 'dataSource' property is required.",
     "csvHeaderParsingError": "CSV header parsing error.",
     "tooManyColumnsInClassicMode": "Too many columns for classic form. Switched layout to compact form.",
-    "cantExpand": "Some fields cannot be expanded. Please narrow down the data set.",
-    "cantExpandTitle": "Data set is too large",
+    "cantExpand": "Some fields cannot be expanded. Please narrow down the dataset.",
+    "cantExpandTitle": "Dataset is too large",
     "selectFile": "Select data file to upload.",
     "flatTableIsNotSupported": "Flat table is not supported for {0} data source.",
     "enterGroupNamePrompt": "Please enter group name:"
@@ -495,6 +495,8 @@
     "all_values": "All values",
     "and": "and",
     "and_symbole": "&",
+    "no_active_conditions": "There are no active conditions.",
+    "add_condition_button": "Add condition",
     "cp_text": "Text",
     "cp_highlight": "Highlight",
     "layout_options": "Layout options",
@@ -516,9 +518,9 @@
     "landscape": "Landscape",
     "portrait": "Portrait",
     "tooltips": {
-        "add_condition": "Add condition",
-        "remove_condition": "Remove condition",
-        "cp_text_color": "Text color"
+      "add_condition": "Add condition",
+      "remove_condition": "Remove condition",
+      "cp_text_color": "Text color"
     }
   }
 }

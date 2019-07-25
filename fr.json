@@ -475,7 +475,7 @@
     "thousand_separator": "Mille séparateurs",
     "decimal_separator": "Séparateur décimal",
     "decimal_places": "Décimales",
-    "currency_symbol": "Symbole de la monnaie",    
+    "currency_symbol": "Symbole de la monnaie",
     "positive_currency_format": "Format de devise positif",
     "negative_currency_format": "Format de devise négatif",
     "currency_align": "Monnaie alignée",
@@ -516,9 +516,11 @@
     "landscape": "Paysage",
     "portrait": "Portrait",
     "tooltips": {
-        "add_condition": "Ajouter une condition",
-        "remove_condition": "Supprimer la condition",
-        "cp_text_color": "Couleur du texte"
-    }
+      "add_condition": "Ajouter une condition",
+      "remove_condition": "Supprimer la condition",
+      "cp_text_color": "Couleur du texte"
+    },
+    "no_active_conditions": "Il n'y a pas de conditions actives.",
+    "add_condition_button": "Ajouter une condition"
   }
 }
