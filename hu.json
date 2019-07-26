@@ -521,6 +521,8 @@
       "cp_text_color": "Szöveg szín"
     },
     "no_active_conditions": "Nincsenek aktív feltételek.",
-    "add_condition_button": "Feltétel feltétele"
+    "add_condition_button": "Feltétel feltétele",
+    "confirm_title": "Van néhány mentetlen változása",
+    "confirm_message": "A formázás nem kerül alkalmazásra. </br> Kérjük, erősítse meg, hogy az értéket egyébként meg szeretné változtatni."
   }
 }

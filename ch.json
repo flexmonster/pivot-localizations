@@ -521,6 +521,8 @@
       "cp_text_color": "文字颜色"
     },
     "no_active_conditions": "没有活跃的条件。",
-    "add_condition_button": "添加条件"
+    "add_condition_button": "添加条件",
+    "confirm_title": "您有一些未保存的更改",
+    "confirm_message": "您的格式不会被应用。 </ br>无论如何，请确认您要切换值。"
   }
 }
