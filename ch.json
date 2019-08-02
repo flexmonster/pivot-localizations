@@ -495,6 +495,8 @@
     "all_values": "所有值",
     "and": "和",
     "and_symbole": "&",
+    "no_active_conditions": "没有活跃的条件。",
+    "add_condition_button": "添加条件",
     "cp_text": "文本",
     "cp_highlight": "突出",
     "layout_options": "布局选项",
@@ -520,8 +522,6 @@
       "remove_condition": "删除条件",
       "cp_text_color": "文字颜色"
     },
-    "no_active_conditions": "没有活跃的条件。",
-    "add_condition_button": "添加条件",
     "confirm_title": "您有一些未保存的更改",
     "confirm_message": "您的格式不会被应用。 </ br>无论如何，请确认您要切换值。"
   }

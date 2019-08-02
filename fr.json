@@ -495,6 +495,8 @@
     "all_values": "Toutes les valeurs",
     "and": "et",
     "and_symbole": "&",
+    "no_active_conditions": "Il n'y a pas de conditions actives.",
+    "add_condition_button": "Ajouter une condition",
     "cp_text": "Texte",
     "cp_highlight": "Surligner",
     "layout_options": "Options de disposition",
@@ -520,8 +522,6 @@
       "remove_condition": "Supprimer la condition",
       "cp_text_color": "Couleur du texte"
     },
-    "no_active_conditions": "Il n'y a pas de conditions actives.",
-    "add_condition_button": "Ajouter une condition",
     "confirm_title": "Vous avez des modifications non enregistrées",
     "confirm_message": "Votre mise en forme ne sera pas appliquée. </ br> S'il vous plaît, confirmez que vous souhaitez quand même changer de valeur."
   }

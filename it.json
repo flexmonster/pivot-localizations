@@ -495,6 +495,8 @@
     "all_values": "Tutti i valori",
     "and": "e",
     "and_symbole": "&",
+    "no_active_conditions": "Non ci sono condizioni attive.",
+    "add_condition_button": "Aggiungi condizione",
     "cp_text": "Testo",
     "cp_highlight": "Evidenzia",
     "layout_options": "Opzioni layout",
@@ -520,8 +522,6 @@
       "remove_condition": "Rimuovere la condizione",
       "cp_text_color": "Colore del testo"
     },
-    "no_active_conditions": "Non ci sono condizioni attive.",
-    "add_condition_button": "Aggiungi condizione",
     "confirm_title": "Hai alcune modifiche non salvate",
     "confirm_message": "La tua formattazione non verrà applicata. </br> Conferma che desideri comunque cambiare valore."
   }

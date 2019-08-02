@@ -495,6 +495,8 @@
     "all_values": "Усі значеня",
     "and": "і",
     "and_symbole": "&",
+    "no_active_conditions": "Активних умов немає.",
+    "add_condition_button": "Додати умову",
     "cp_text": "Текст",
     "cp_highlight": "Тло",
     "layout_options": "Параметри",
@@ -520,8 +522,6 @@
       "remove_condition": "Видалити умову",
       "cp_text_color": "Колір тексту"
     },
-    "no_active_conditions": "Активних умов немає.",
-    "add_condition_button": "Додати умову",
     "confirm_title": "У вас є деякі незбережені зміни",
     "confirm_message": "Форматування не буде застосовано. </br> Будь ласка, підтвердьте, що хочете перемкнути значення."
   }
