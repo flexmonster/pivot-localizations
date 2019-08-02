@@ -521,6 +521,8 @@
       "cp_text_color": "Colore del testo"
     },
     "no_active_conditions": "Non ci sono condizioni attive.",
-    "add_condition_button": "Aggiungi condizione"
+    "add_condition_button": "Aggiungi condizione",
+    "confirm_title": "Hai alcune modifiche non salvate",
+    "confirm_message": "La tua formattazione non verrà applicata. </br> Conferma che desideri comunque cambiare valore."
   }
 }

@@ -521,6 +521,8 @@
       "add_condition": "Add condition",
       "remove_condition": "Remove condition",
       "cp_text_color": "Text color"
-    }
+    },
+    "confirm_title": "You have some unsaved changes",
+    "confirm_message": "Your formatting will not be applied. </br> Please confirm you want to switch value anyway."
   }
 }
