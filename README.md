@@ -5,13 +5,13 @@ Website: www.flexmonster.com
 ## Available localizations
 
 - [English (default)](/en.json)
-- [Chinese](/ch.json)
+- [Chinese](/zh.json)
 - [Spanish](/es.json)
 - [French](/fr.json)
 - [Hungarian](/hu.json)
 - [Italian](/it.json)
-- [Portuguese](/pr.json)
-- [Ukrainian](/ua.json)
+- [Portuguese](/pt.json)
+- [Ukrainian](/uk.json)
 
 ## Usage
 ```javaScript
