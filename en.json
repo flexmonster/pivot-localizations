@@ -207,6 +207,16 @@
       "totalCaption": "% of Row of {0}",
       "grandTotalCaption": "Total % of Row of {0}"
     },
+    "percentOfParentColumnTotal": {
+      "caption": "% of Parent Column Total",
+      "totalCaption": "% of Parent Column Total of {0}",
+      "grandTotalCaption": "% of Parent Column Total of {0}"
+    },
+    "percentOfParentRowTotal": {
+      "caption": "% of Parent Row Total",
+      "totalCaption": "% of Parent Row Total of {0}",
+      "grandTotalCaption": "% of Parent Row Total of {0}"
+    },
     "runningTotals": {
       "caption": "Running Totals",
       "totalCaption": "Running Totals of {0}",

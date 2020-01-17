@@ -207,6 +207,16 @@
       "totalCaption": "% Riga di {0}",
       "grandTotalCaption": "Totale % Riga di {0}"
     },
+    "percentOfParentColumnTotal": {
+      "caption": "% di Colonna Totale",
+      "totalCaption": "% di Colonna Totale di {0}",
+      "grandTotalCaption": "% di Colonna Totale di {0}"
+    },
+    "percentOfParentRowTotal": {
+      "caption": "% di Riga Totale",
+      "totalCaption": "% di Riga Totale {0}",
+      "grandTotalCaption": "% di Riga Totale {0}"
+    },
     "runningTotals": {
       "caption": "Totali Incrementali",
       "totalCaption": "Totali Incrementali di {0}",

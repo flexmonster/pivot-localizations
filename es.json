@@ -198,14 +198,24 @@
       "grandTotalCaption": "Total Porcentaje de {0}"
     },
     "percentOfColumn": {
-      "caption": "Porcentaje de columna",
-      "totalCaption": "Porcentaje de columna {0}",
-      "grandTotalCaption": "Total Porcentaje de columna {0}"
+      "caption": "% de columna",
+      "totalCaption": "% de columna {0}",
+      "grandTotalCaption": "Total % de columna {0}"
     },
     "percentOfRow": {
-      "caption": "% of Row",
-      "totalCaption": "% of Row of {0}",
-      "grandTotalCaption": "Total % of Row of {0}"
+      "caption": "% de Fila",
+      "totalCaption": "% de Fila de {0}",
+      "grandTotalCaption": "Total % de Fila de {0}"
+    },
+    "percentOfParentColumnTotal": {
+      "caption": "% de Columna Padre",
+      "totalCaption": "% de Columna Padre {0}",
+      "grandTotalCaption": "% de Columna Padre {0}"
+    },
+    "percentOfParentRowTotal": {
+      "caption": "% de Fila Padre",
+      "totalCaption": "% de Fila Padre {0}",
+      "grandTotalCaption": "% de Fila Padre {0}"
     },
     "runningTotals": {
       "caption": "Totales acumulados",

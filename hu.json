@@ -207,6 +207,16 @@
       "totalCaption": "{0} sorok értéke százalékban",
       "grandTotalCaption": "{0} sorok értéke százalékban"
     },
+    "percentOfParentColumnTotal": {
+      "caption": "Oszlopok értéke százalékban",
+      "totalCaption": "a szülő oszlop százaléka {0}",
+      "grandTotalCaption": "a szülő oszlop százaléka {0}"
+    },
+    "percentOfParentRowTotal": {
+      "caption": "a szülő sor százaléka",
+      "totalCaption": "a szülő sor százaléka {0}",
+      "grandTotalCaption": "a szülő sor százaléka {0}"
+    },
     "runningTotals": {
       "caption": "Futó összesítések",
       "totalCaption": "{0} futó összesítések",

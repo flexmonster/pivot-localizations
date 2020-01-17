@@ -207,6 +207,16 @@
       "totalCaption": "{0}的行百分比",
       "grandTotalCaption": "{0}的总行百分比"
     },
+    "percentOfParentColumnTotal": {
+      "caption": "列百分比",
+      "totalCaption": "{0}列百分比",
+      "grandTotalCaption": "{0}列百分比"
+    },
+    "percentOfParentRowTotal": {
+      "caption": "行百分比",
+      "totalCaption": "行百分比",
+      "grandTotalCaption": "行百分比"
+    },
     "runningTotals": {
       "caption": "运行总计",
       "totalCaption": "{0}运行总计",

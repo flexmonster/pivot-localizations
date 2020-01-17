@@ -207,6 +207,16 @@
       "totalCaption": "% de Linha de {0}",
       "grandTotalCaption": "% Total da linha de {0}"
     },
+    "percentOfParentColumnTotal": {
+      "caption": "% de Coluna Pai",
+      "totalCaption": "% de Coluna Pai de {0}",
+      "grandTotalCaption": "% de Coluna Pai de {0}"
+    },
+    "percentOfParentRowTotal": {
+      "caption": "% de Linha Pai",
+      "totalCaption": "%  de Linha Pai de {0}",
+      "grandTotalCaption": "%  de Linha Pai de {0}"
+    },
     "runningTotals": {
       "caption": "Totais em execução",
       "totalCaption": "Totais em execução de {0}",

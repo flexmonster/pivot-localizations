@@ -203,14 +203,24 @@
       "grandTotalCaption": "Відсоток у колонці по всіх {0}"
     },
     "percentOfRow": {
-      "caption": "% of Row",
-      "totalCaption": "% of Row of {0}",
-      "grandTotalCaption": "Total % of Row of {0}"
+      "caption": "% у рядку",
+      "totalCaption": "% у рядку {0}",
+      "grandTotalCaption": "% у рядку по всіх {0}"
+    },
+    "percentOfParentColumnTotal": {
+      "caption": "% у батьківській колонці",
+      "totalCaption": "% у батьківській колонці {0}",
+      "grandTotalCaption": "% у батьківській колонці {0}"
+    },
+    "percentOfParentRowTotal": {
+      "caption": "% у батьківському рядку",
+      "totalCaption": "% у батьківському рядку {0}",
+      "grandTotalCaption": "% у батьківському рядку{0}"
     },
     "runningTotals": {
-      "caption": "Наростаючий підсумок",
-      "totalCaption": "Наростаючий підсумок по {0}",
-      "grandTotalCaption": "Наростаючий підсумок по {0}"
+      "caption": "Зростаючий підсумок",
+      "totalCaption": "Зростаючий підсумок по {0}",
+      "grandTotalCaption": "Зростаючий підсумок по {0}"
     },
     "index": {
       "caption": "Індекс",
