@@ -207,15 +207,15 @@
       "totalCaption": "{0}的行百分比",
       "grandTotalCaption": "{0}的总行百分比"
     },
-    "percentOfParentColumnTotal": {
-      "caption": "列百分比",
-      "totalCaption": "{0}列百分比",
-      "grandTotalCaption": "{0}列百分比"
-    },
     "percentOfParentRowTotal": {
       "caption": "行百分比",
       "totalCaption": "行百分比",
       "grandTotalCaption": "行百分比"
+    },
+    "percentOfParentColumnTotal": {
+      "caption": "列百分比",
+      "totalCaption": "{0}列百分比",
+      "grandTotalCaption": "{0}列百分比"
     },
     "runningTotals": {
       "caption": "运行总计",
@@ -297,7 +297,8 @@
     "cantExpandTitle": "数据集太大",
     "selectFile": "选择要载入的CSV文件",
     "flatTableIsNotSupported": "{0}数据源不支持平面表。",
-    "enterGroupNamePrompt": "请输入群组名称:"
+    "enterGroupNamePrompt": "请输入群组名称:",
+    "exportFontLoadingError": "Failed to load the font. An unexpected error occurred."
   },
   "kpis": {
     "kpis": "KPIs",
@@ -322,25 +323,25 @@
     "drillThrough": "钻透",
     "expand": "扩大",
     "openFilter": "打开过滤器",
+    "filterBy": "过滤 <b>{0}</b>",
+    "removeField": "删除字段",
+    "removeMeasure": "删除价值",
     "sortColumnAsc": "对列asc进行排序",
     "sortColumnDesc": "对列desc进行排序",
     "sortRowAsc": "排行asc",
     "sortRowDesc": "排行desc",
     "aggregation": "聚合",
     "properties": "属性",
-    "hideProperty": "隐藏<b>{0}</b>",
-    "groupMembers": "小组成员",
-    "ungroupMembers": "取消组合成员",
-    "conditionalFormatting": "条件格式",
-    "numberFormatting": "格式化单元格",
-    "filterBy": "过滤 <b>{0}</b>",
-    "removeField": "删除字段",
-    "removeMeasure": "删除价值",
-    "showProperty": "显示 <b>{0}</b>",
     "editFormula": "编辑 <b>{0}</b>",
     "moveToRows": "移动到行",
     "moveToColumns": "移动到列",
-    "moveToReportFilters": "转移到過濾器"
+    "moveToReportFilters": "转移到過濾器",
+    "conditionalFormatting": "条件格式",
+    "numberFormatting": "格式化单元格",
+    "showProperty": "显示 <b>{0}</b>",
+    "hideProperty": "隐藏<b>{0}</b>",
+    "groupMembers": "小组成员",
+    "ungroupMembers": "取消组合成员"
   },
   "date": {
     "year": "一年",
@@ -493,6 +494,8 @@
     "is_percent": "格式为百分比",
     "true_value": "真正",
     "false_value": "假",
+    "confirm_title": "您有一些未保存的更改",
+    "confirm_message": "您的格式不会被应用。 </ br>无论如何，请确认您要切换值。",
     "conditional": "有条件",
     "less_than": "少于",
     "less_than_or_equal": "小于或等于",
@@ -531,8 +534,6 @@
       "add_condition": "添加条件",
       "remove_condition": "删除条件",
       "cp_text_color": "文字颜色"
-    },
-    "confirm_title": "您有一些未保存的更改",
-    "confirm_message": "您的格式不会被应用。 </ br>无论如何，请确认您要切换值。"
+    }
   }
 }

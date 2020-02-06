@@ -207,15 +207,15 @@
       "totalCaption": "% Riga di {0}",
       "grandTotalCaption": "Totale % Riga di {0}"
     },
-    "percentOfParentColumnTotal": {
-      "caption": "% di Colonna Totale",
-      "totalCaption": "% di Colonna Totale di {0}",
-      "grandTotalCaption": "% di Colonna Totale di {0}"
-    },
     "percentOfParentRowTotal": {
       "caption": "% di Riga Totale",
       "totalCaption": "% di Riga Totale {0}",
       "grandTotalCaption": "% di Riga Totale {0}"
+    },
+    "percentOfParentColumnTotal": {
+      "caption": "% di Colonna Totale",
+      "totalCaption": "% di Colonna Totale di {0}",
+      "grandTotalCaption": "% di Colonna Totale di {0}"
     },
     "runningTotals": {
       "caption": "Totali Incrementali",
@@ -297,7 +297,8 @@
     "cantExpandTitle": "Set dati troppo vasto",
     "selectFile": "Seleziona file da caricare.",
     "flatTableIsNotSupported": "Tabella piatta non supportata per sorgente dati {0}.",
-    "enterGroupNamePrompt": "Prego inserire nome gruppo:"
+    "enterGroupNamePrompt": "Prego inserire nome gruppo:",
+    "exportFontLoadingError": "Failed to load the font. An unexpected error occurred."
   },
   "kpis": {
     "kpis": "KPI",
@@ -322,25 +323,25 @@
     "drillThrough": "Dettaglio",
     "expand": "Espandi",
     "openFilter": "Apri filtro",
+    "filterBy": "Filtro <b>{0}</b>",
+    "removeField": "Rimuovi campo",
+    "removeMeasure": "Rimuovi valore",
     "sortColumnAsc": "Ordina colonna asc",
     "sortColumnDesc": "Ordina colonna disc",
     "sortRowAsc": "Ordina riga asc",
     "sortRowDesc": "Ordina riga disc",
     "aggregation": "Aggregazione",
     "properties": "Proprieta'",
-    "hideProperty": "Nascondi <b>{0}</b>",
-    "groupMembers": "Raggruppa membri",
-    "ungroupMembers": "Non raggruppare membri",
-    "conditionalFormatting": "Formato condizionale",
-    "numberFormatting": "Formato celle",
-    "filterBy": "Filtro <b>{0}</b>",
-    "removeField": "Rimuovi campo",
-    "removeMeasure": "Rimuovi valore",
-    "showProperty": "Mostra <b>{0}</b>",
     "editFormula": "Modificare <b>{0}</b>",
     "moveToRows": "Passare alle righe",
     "moveToColumns": "Passare alle colonne",
-    "moveToReportFilters": "Passare alle filtri"
+    "moveToReportFilters": "Passare alle filtri",
+    "conditionalFormatting": "Formato condizionale",
+    "numberFormatting": "Formato celle",
+    "showProperty": "Mostra <b>{0}</b>",
+    "hideProperty": "Nascondi <b>{0}</b>",
+    "groupMembers": "Raggruppa membri",
+    "ungroupMembers": "Non raggruppare membri"
   },
   "date": {
     "year": "Anno",
@@ -493,6 +494,8 @@
     "is_percent": "Formatta come percentuale",
     "true_value": "vero",
     "false_value": "falso",
+    "confirm_title": "Hai alcune modifiche non salvate",
+    "confirm_message": "La tua formattazione non verrà applicata. </br> Conferma che desideri comunque cambiare valore.",
     "conditional": "Condizionale",
     "less_than": "Minore di",
     "less_than_or_equal": "Minore o uguale di",
@@ -531,8 +534,6 @@
       "add_condition": "Aggiungi condizione",
       "remove_condition": "Rimuovere la condizione",
       "cp_text_color": "Colore del testo"
-    },
-    "confirm_title": "Hai alcune modifiche non salvate",
-    "confirm_message": "La tua formattazione non verrà applicata. </br> Conferma che desideri comunque cambiare valore."
+    }
   }
 }

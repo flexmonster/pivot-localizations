@@ -207,15 +207,15 @@
       "totalCaption": "{0} sorok értéke százalékban",
       "grandTotalCaption": "{0} sorok értéke százalékban"
     },
-    "percentOfParentColumnTotal": {
-      "caption": "Oszlopok értéke százalékban",
-      "totalCaption": "a szülő oszlop százaléka {0}",
-      "grandTotalCaption": "a szülő oszlop százaléka {0}"
-    },
     "percentOfParentRowTotal": {
       "caption": "a szülő sor százaléka",
       "totalCaption": "a szülő sor százaléka {0}",
       "grandTotalCaption": "a szülő sor százaléka {0}"
+    },
+    "percentOfParentColumnTotal": {
+      "caption": "Oszlopok értéke százalékban",
+      "totalCaption": "a szülő oszlop százaléka {0}",
+      "grandTotalCaption": "a szülő oszlop százaléka {0}"
     },
     "runningTotals": {
       "caption": "Futó összesítések",
@@ -297,7 +297,8 @@
     "cantExpandTitle": "Az adatkészlet túl nagy",
     "selectFile": "Válassza ki a feltöltendő adatfájlt.",
     "flatTableIsNotSupported": "A lapos tábla nem támogatott {0} adatforráshoz.",
-    "enterGroupNamePrompt": "Kérjük, adja meg a csoport nevét:"
+    "enterGroupNamePrompt": "Kérjük, adja meg a csoport nevét:",
+    "exportFontLoadingError": "Failed to load the font. An unexpected error occurred."
   },
   "kpis": {
     "kpis": "KPI-ok",
@@ -322,25 +323,25 @@
     "drillThrough": "Aláfúrás",
     "expand": "Kinyitás",
     "openFilter": "Szűrők megnyitása",
+    "filterBy": "Szűrők <b>{0}</b>",
+    "removeField": "Távolítsa el a mezőt",
+    "removeMeasure": "Az érték eltávolítása",
     "sortColumnAsc": "Oszlop növekvő sorrendbe rendezése",
     "sortColumnDesc": "Oszlop csökkenő sorrendbe rendezése",
     "sortRowAsc": "Sor növekvő sorrendbe rendezése",
     "sortRowDesc": "Sor csökkenő sorrendbe rendezése",
     "aggregation": "Összesítése",
     "properties": "Tulajdonságok",
-    "hideProperty": "Elrejt <b>{0}</b>",
-    "groupMembers": "Csoporttagok",
-    "ungroupMembers": "A tagok csoportosítása",
-    "conditionalFormatting": "Feltételes formázás",
-    "numberFormatting": "Cellaformázás",
-    "filterBy": "Szűrők <b>{0}</b>",
-    "removeField": "Távolítsa el a mezőt",
-    "removeMeasure": "Az érték eltávolítása",
-    "showProperty": "Előadás <b>{0}</b>",
     "editFormula": "Szerkesztés <b>{0}</b>",
     "moveToRows": "Lépjen sorokba",
     "moveToColumns": "Lépjen az oszlopokra",
-    "moveToReportFilters": "Lépjen szűrőkre"
+    "moveToReportFilters": "Lépjen szűrőkre",
+    "conditionalFormatting": "Feltételes formázás",
+    "numberFormatting": "Cellaformázás",
+    "showProperty": "Előadás <b>{0}</b>",
+    "hideProperty": "Elrejt <b>{0}</b>",
+    "groupMembers": "Csoporttagok",
+    "ungroupMembers": "A tagok csoportosítása"
   },
   "date": {
     "year": "Év",
@@ -493,6 +494,8 @@
     "is_percent": "Százalékban mutat",
     "true_value": "igen",
     "false_value": "nem",
+    "confirm_title": "Van néhány mentetlen változása",
+    "confirm_message": "A formázás nem kerül alkalmazásra. </br> Kérjük, erősítse meg, hogy az értéket egyébként meg szeretné változtatni.",
     "conditional": "Feltételes",
     "less_than": "kevesebb, mint",
     "less_than_or_equal": "kevesebb, mint vagy egyenlő",
@@ -531,8 +534,6 @@
       "add_condition": "Feltétel hozzáadaása",
       "remove_condition": "Távolítsa el az állapotot",
       "cp_text_color": "Szöveg szín"
-    },
-    "confirm_title": "Van néhány mentetlen változása",
-    "confirm_message": "A formázás nem kerül alkalmazásra. </br> Kérjük, erősítse meg, hogy az értéket egyébként meg szeretné változtatni."
+    }
   }
 }

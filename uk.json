@@ -207,15 +207,15 @@
       "totalCaption": "% у рядку {0}",
       "grandTotalCaption": "% у рядку по всіх {0}"
     },
+    "percentOfParentRowTotal": {
+      "caption": "% у батьківському рядку",
+      "totalCaption": "% у батьківському рядку {0}",
+      "grandTotalCaption": "% у батьківському рядку {0}"
+    },
     "percentOfParentColumnTotal": {
       "caption": "% у батьківській колонці",
       "totalCaption": "% у батьківській колонці {0}",
       "grandTotalCaption": "% у батьківській колонці {0}"
-    },
-    "percentOfParentRowTotal": {
-      "caption": "% у батьківському рядку",
-      "totalCaption": "% у батьківському рядку {0}",
-      "grandTotalCaption": "% у батьківському рядку{0}"
     },
     "runningTotals": {
       "caption": "Зростаючий підсумок",
@@ -297,7 +297,8 @@
     "cantExpandTitle": "Data set is too large",
     "selectFile": "Оберіть, будь ласка, файл для завантаження",
     "flatTableIsNotSupported": "Flat table is not supported for {0} data source.",
-    "enterGroupNamePrompt": "Please enter group name:"
+    "enterGroupNamePrompt": "Введіть назву для групи:",
+    "exportFontLoadingError": "Виникла помилка під час завантаження файлу з шрифтом."
   },
   "kpis": {
     "kpis": "KPIs",
@@ -322,25 +323,25 @@
     "drillThrough": "Заглибитися",
     "expand": "Розгорнути",
     "openFilter": "Відкрити фільтр",
+    "filterBy": "Фільтрувати за <b>{0}</b>",
+    "removeField": "Видалити поле",
+    "removeMeasure": "Видалити міру",
     "sortColumnAsc": "Сортувати по зростанню",
     "sortColumnDesc": "Сортувати по спаданню",
     "sortRowAsc": "Сортувати по зростанню",
     "sortRowDesc": "Сортувати по спаданню",
     "aggregation": "Агрегація",
     "properties": "Властивості",
-    "hideProperty": "Сховати <b>{0}</b>",
-    "groupMembers": "Групувати",
-    "ungroupMembers": "Розгрупувати",
-    "conditionalFormatting": "Умови форматування",
-    "numberFormatting": "Форматування чисел",
-    "filterBy": "Фільтрувати за <b>{0}</b>",
-    "removeField": "Видалити поле",
-    "removeMeasure": "Видалити міру",
-    "showProperty": "Показати <b>{0}</b>",
     "editFormula": "Редагувати <b>{0}</b>",
     "moveToRows": "Перенести у рядки",
     "moveToColumns": "Перенести у колонки",
-    "moveToReportFilters": "Перенести у фільтри"
+    "moveToReportFilters": "Перенести у фільтри",
+    "conditionalFormatting": "Умови форматування",
+    "numberFormatting": "Форматування чисел",
+    "showProperty": "Показати <b>{0}</b>",
+    "hideProperty": "Сховати <b>{0}</b>",
+    "groupMembers": "Групувати",
+    "ungroupMembers": "Розгрупувати"
   },
   "date": {
     "year": "Рік",
@@ -493,6 +494,8 @@
     "is_percent": "Форматувати як відсотки",
     "true_value": "так",
     "false_value": "ні",
+    "confirm_title": "У вас є деякі незбережені зміни",
+    "confirm_message": "Форматування не буде застосовано. </br> Будь ласка, підтвердьте, що хочете перемкнути значення.",
     "conditional": "Умовне форматування",
     "less_than": "Менше",
     "less_than_or_equal": "Менше або дорівнює",
@@ -531,8 +534,6 @@
       "add_condition": "Додати умову",
       "remove_condition": "Видалити умову",
       "cp_text_color": "Колір тексту"
-    },
-    "confirm_title": "У вас є деякі незбережені зміни",
-    "confirm_message": "Форматування не буде застосовано. </br> Будь ласка, підтвердьте, що хочете перемкнути значення."
+    }
   }
 }

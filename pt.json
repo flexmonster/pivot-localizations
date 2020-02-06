@@ -207,15 +207,15 @@
       "totalCaption": "% de Linha de {0}",
       "grandTotalCaption": "% Total da linha de {0}"
     },
-    "percentOfParentColumnTotal": {
-      "caption": "% de Coluna Pai",
-      "totalCaption": "% de Coluna Pai de {0}",
-      "grandTotalCaption": "% de Coluna Pai de {0}"
-    },
     "percentOfParentRowTotal": {
       "caption": "% de Linha Pai",
       "totalCaption": "%  de Linha Pai de {0}",
       "grandTotalCaption": "%  de Linha Pai de {0}"
+    },
+    "percentOfParentColumnTotal": {
+      "caption": "% de Coluna Pai",
+      "totalCaption": "% de Coluna Pai de {0}",
+      "grandTotalCaption": "% de Coluna Pai de {0}"
     },
     "runningTotals": {
       "caption": "Totais em execução",
@@ -297,7 +297,8 @@
     "cantExpandTitle": "O conjunto de dados é muito grande",
     "selectFile": "Selecionar arquivo .CSV para carregar",
     "flatTableIsNotSupported": "A tabela simples não é suportada para a origem de dados {0}.",
-    "enterGroupNamePrompt": "Por favor, insira o nome do grupo:"
+    "enterGroupNamePrompt": "Por favor, insira o nome do grupo:",
+    "exportFontLoadingError": "Failed to load the font. An unexpected error occurred."
   },
   "kpis": {
     "kpis": "KPIs",
@@ -322,25 +323,25 @@
     "drillThrough": "Perfurar",
     "expand": "Expandir",
     "openFilter": "Filtro aberto",
+    "filterBy": "Filtrar por <b>{0}</b>",
+    "removeField": "Remover campo",
+    "removeMeasure": "Remover valor",
     "sortColumnAsc": "Ordenar coluna asc",
     "sortColumnDesc": "Ordenar coluna desc",
     "sortRowAsc": "Ordenar linha asc",
     "sortRowDesc": "Ordenar linha desc",
     "aggregation": "Agregação",
     "properties": "Propriedades",
-    "hideProperty": "Ocultar <b>{0}</b>",
-    "groupMembers": "Membros do grupo",
-    "ungroupMembers": "Desagrupar membros",
-    "conditionalFormatting": "Formatação condicional",
-    "numberFormatting": "Formatar celulas",
-    "filterBy": "Filtrar por <b>{0}</b>",
-    "removeField": "Remover campo",
-    "removeMeasure": "Remover valor",
-    "showProperty": "Exposição <b>{0}</b>",
     "editFormula": "Editar <b>{0}</b>",
     "moveToRows": "Mover para linhas",
     "moveToColumns": "Mover para colunas",
-    "moveToReportFilters": "Mover para filtros"
+    "moveToReportFilters": "Mover para filtros",
+    "conditionalFormatting": "Formatação condicional",
+    "numberFormatting": "Formatar celulas",
+    "showProperty": "Exposição <b>{0}</b>",
+    "hideProperty": "Ocultar <b>{0}</b>",
+    "groupMembers": "Membros do grupo",
+    "ungroupMembers": "Desagrupar membros"
   },
   "date": {
     "year": "Ano",
@@ -493,6 +494,8 @@
     "is_percent": "Formatar como porcentagem",
     "true_value": "verdade",
     "false_value": "falso",
+    "confirm_title": "Você tem algumas alterações não salvas",
+    "confirm_message": "Sua formatação não será aplicada. </ br> Por favor, confirme que você quer mudar o valor de qualquer maneira.",
     "conditional": "Condicional",
     "less_than": "Menos que",
     "less_than_or_equal": "Menos que ou igual a",
@@ -531,8 +534,6 @@
       "add_condition": "Adicionar condição",
       "remove_condition": "Remover condição",
       "cp_text_color": "Cor do texto"
-    },
-    "confirm_title": "Você tem algumas alterações não salvas",
-    "confirm_message": "Sua formatação não será aplicada. </ br> Por favor, confirme que você quer mudar o valor de qualquer maneira."
+    }
   }
 }

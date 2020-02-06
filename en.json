@@ -207,15 +207,15 @@
       "totalCaption": "% of Row of {0}",
       "grandTotalCaption": "Total % of Row of {0}"
     },
-    "percentOfParentColumnTotal": {
-      "caption": "% of Parent Column Total",
-      "totalCaption": "% of Parent Column Total of {0}",
-      "grandTotalCaption": "% of Parent Column Total of {0}"
-    },
     "percentOfParentRowTotal": {
       "caption": "% of Parent Row Total",
       "totalCaption": "% of Parent Row Total of {0}",
       "grandTotalCaption": "% of Parent Row Total of {0}"
+    },
+    "percentOfParentColumnTotal": {
+      "caption": "% of Parent Column Total",
+      "totalCaption": "% of Parent Column Total of {0}",
+      "grandTotalCaption": "% of Parent Column Total of {0}"
     },
     "runningTotals": {
       "caption": "Running Totals",
@@ -232,9 +232,9 @@
     }
   },
   "messages": {
-    "error": "Error!",
-    "warning": "Warning!",
-    "limitation": "Limitation!",
+    "error": "Error",
+    "warning": "Warning",
+    "limitation": "Limitation",
     "browse": "Browse",
     "confirmation": "Confirmation",
     "reportFileType": "Flexmonster report file",
@@ -243,7 +243,7 @@
     "loadingData": "Loading data...",
     "waiting": "Waiting for the response {0} sec.",
     "progress": "{0} rows",
-    "progressKnown": "loaded {0} KB of {1} KB",
+    "progressKnown": "loaded {0} KB of {1} KB ({2}%)",
     "progressUnknown": "loaded {0} KB",
     "sortingMembers": "Sorting members...",
     "analyzing": "Analyzing data...",
@@ -258,14 +258,14 @@
     "loadingLevels": "Loading levels...",
     "loadingProperties": "Loading properties...",
     "fullscreen": "Open report in full screen?",
-    "exportComplete": "Export data is created, please click \"Save\" button to save the _data.",
+    "exportComplete": "Export data is created, please click \"Save\" button to save the data.",
     "exportProgress": "Export in progress...",
     "exportError": "Failed to export. An unexpected error occurred.",
     "generatingPDF": "Generating PDF",
     "pleaseWait": "Please wait.",
     "pagesWereGenerated": "pages were generated.",
     "uploading": "Uploading...",
-    "cantSaveFile": "Cannot save file. <br/> Details: {0}",
+    "cantSaveFile": "Cannot save file. <br/>Details: {0}",
     "cantSaveToClipboard": "Error: Cannot write to the clipboard.",
     "saveReportToFile": "Report is ready to be saved to file, please click \"Save\" button to save the report.",
     "loadReportFromFile": "Select report file to be loaded.",
@@ -297,7 +297,8 @@
     "cantExpandTitle": "Dataset is too large",
     "selectFile": "Select data file to upload.",
     "flatTableIsNotSupported": "Flat table is not supported for {0} data source.",
-    "enterGroupNamePrompt": "Please enter group name:"
+    "enterGroupNamePrompt": "Please enter group name:",
+    "exportFontLoadingError": "Failed to load the font. An unexpected error occurred."
   },
   "kpis": {
     "kpis": "KPIs",
@@ -322,25 +323,25 @@
     "drillThrough": "Drill through",
     "expand": "Expand",
     "openFilter": "Open filter",
+    "filterBy": "Filter by <b>{0}</b>",
+    "removeField": "Remove Field",
+    "removeMeasure": "Remove Measure",
     "sortColumnAsc": "Sort column asc",
     "sortColumnDesc": "Sort column desc",
     "sortRowAsc": "Sort row asc",
     "sortRowDesc": "Sort row desc",
     "aggregation": "Aggregation",
     "properties": "Properties",
-    "hideProperty": "Hide <b>{0}</b>",
-    "groupMembers": "Group members",
-    "ungroupMembers": "Ungroup members",
-    "conditionalFormatting": "Conditional Formatting",
-    "numberFormatting": "Number Formatting",
-    "filterBy": "Filter by <b>{0}</b>",
-    "removeField": "Remove Field",
-    "removeMeasure": "Remove Measure",
-    "showProperty": "Show <b>{0}</b>",
     "editFormula": "Edit <b>{0}</b>",
     "moveToRows": "Move to Rows",
     "moveToColumns": "Move to Columns",
-    "moveToReportFilters": "Move to Report Filters"
+    "moveToReportFilters": "Move to Report Filters",
+    "conditionalFormatting": "Conditional Formatting",
+    "numberFormatting": "Number Formatting",
+    "showProperty": "Show <b>{0}</b>",
+    "hideProperty": "Hide <b>{0}</b>",
+    "groupMembers": "Group members",
+    "ungroupMembers": "Ungroup members"
   },
   "date": {
     "year": "Year",
@@ -493,6 +494,8 @@
     "is_percent": "Format as percent",
     "true_value": "true",
     "false_value": "false",
+    "confirm_title": "You have some unsaved changes",
+    "confirm_message": "Your formatting will not be applied. </br> Please confirm you want to switch value anyway.",
     "conditional": "Conditional",
     "less_than": "Less than",
     "less_than_or_equal": "Less than or equal to",
@@ -531,8 +534,6 @@
       "add_condition": "Add condition",
       "remove_condition": "Remove condition",
       "cp_text_color": "Text color"
-    },
-    "confirm_title": "You have some unsaved changes",
-    "confirm_message": "Your formatting will not be applied. </br> Please confirm you want to switch value anyway."
+    }
   }
 }
