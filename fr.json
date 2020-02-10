@@ -203,9 +203,19 @@
       "grandTotalCaption": "Pourcentage total de la colonne {0}"
     },
     "percentOfRow": {
-      "caption": "% of Row",
-      "totalCaption": "% of Row of {0}",
-      "grandTotalCaption": "Total % of Row of {0}"
+      "caption": "Pour cent de ligne",
+      "totalCaption": "Pour cent de ligne {0}",
+      "grandTotalCaption": "Pour cent de ligne au total {0}"
+    },
+    "percentOfParentRowTotal": {
+      "caption": "% de ligne de parent",
+      "totalCaption": "% de ligne de parent {0}",
+      "grandTotalCaption": "% de ligne de parent {0}"
+    },
+    "percentOfParentColumnTotal": {
+      "caption": "% de la colonne de parent",
+      "totalCaption": "% de la colonne de parent {0}",
+      "grandTotalCaption": "% de la colonne de parent {0}"
     },
     "runningTotals": {
       "caption": "Totaux cumulés",
@@ -287,7 +297,8 @@
     "cantExpandTitle": "Le jeu de données est trop volumineux",
     "selectFile": "Sélectionnez le fichier à télécharger",
     "flatTableIsNotSupported": "La table plate n'est pas prise en charge pour la source de données {0}.",
-    "enterGroupNamePrompt": "S'il vous plaît entrer le nom du groupe:"
+    "enterGroupNamePrompt": "S'il vous plaît entrer le nom du groupe:",
+    "exportFontLoadingError": "Failed to load the font. An unexpected error occurred."
   },
   "kpis": {
     "kpis": "ICP",
@@ -312,25 +323,25 @@
     "drillThrough": "Percer à travers",
     "expand": "Développer",
     "openFilter": "Ouvrir les filtres",
+    "filterBy": "Filtré <b>{0}</b>",
+    "removeField": "Retirer de champ",
+    "removeMeasure": "Retirer de mesure",
     "sortColumnAsc": "Trier colonnes asc",
     "sortColumnDesc": "Trier colonnes desc",
     "sortRowAsc": "Trier lignes asc",
     "sortRowDesc": "Trier lignes desc",
     "aggregation": "Agrégation",
     "properties": "Propriétés",
-    "hideProperty": "Cacher <b>{0}</b>",
-    "groupMembers": "Les membres du groupe",
-    "ungroupMembers": "Dissocier les membres",
-    "conditionalFormatting": "Mise en forme conditionnelle",
-    "numberFormatting": "Formater des cellules",
-    "filterBy": "Filtré <b>{0}</b>",
-    "removeField": "Retirer de champ",
-    "removeMeasure": "Retirer de mesure",
-    "showProperty": "Spectacle <b>{0}</b>",
     "editFormula": "Modifier <b>{0}</b>",
     "moveToRows": "Passer aux les lignes",
     "moveToColumns": "Passer aux les colonnes",
-    "moveToReportFilters": "Passer aux les filtres"
+    "moveToReportFilters": "Passer aux les filtres",
+    "conditionalFormatting": "Mise en forme conditionnelle",
+    "numberFormatting": "Formater des cellules",
+    "showProperty": "Spectacle <b>{0}</b>",
+    "hideProperty": "Cacher <b>{0}</b>",
+    "groupMembers": "Les membres du groupe",
+    "ungroupMembers": "Dissocier les membres"
   },
   "date": {
     "year": "Année",
@@ -483,6 +494,8 @@
     "is_percent": "Format en pourcentage",
     "true_value": "vrai",
     "false_value": "faux",
+    "confirm_title": "Vous avez des modifications non enregistrées",
+    "confirm_message": "Votre mise en forme ne sera pas appliquée. </ br> S'il vous plaît, confirmez que vous souhaitez quand même changer de valeur.",
     "conditional": "Conditionnel",
     "less_than": "Moins que",
     "less_than_or_equal": "Inférieur ou égal à",
@@ -521,8 +534,6 @@
       "add_condition": "Ajouter une condition",
       "remove_condition": "Supprimer la condition",
       "cp_text_color": "Couleur du texte"
-    },
-    "confirm_title": "Vous avez des modifications non enregistrées",
-    "confirm_message": "Votre mise en forme ne sera pas appliquée. </ br> S'il vous plaît, confirmez que vous souhaitez quand même changer de valeur."
+    }
   }
 }

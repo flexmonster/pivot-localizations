@@ -198,14 +198,24 @@
       "grandTotalCaption": "Total Porcentaje de {0}"
     },
     "percentOfColumn": {
-      "caption": "Porcentaje de columna",
-      "totalCaption": "Porcentaje de columna {0}",
-      "grandTotalCaption": "Total Porcentaje de columna {0}"
+      "caption": "% de columna",
+      "totalCaption": "% de columna {0}",
+      "grandTotalCaption": "Total % de columna {0}"
     },
     "percentOfRow": {
-      "caption": "% of Row",
-      "totalCaption": "% of Row of {0}",
-      "grandTotalCaption": "Total % of Row of {0}"
+      "caption": "% de Fila",
+      "totalCaption": "% de Fila de {0}",
+      "grandTotalCaption": "Total % de Fila de {0}"
+    },
+    "percentOfParentRowTotal": {
+      "caption": "% de Fila Padre",
+      "totalCaption": "% de Fila Padre {0}",
+      "grandTotalCaption": "% de Fila Padre {0}"
+    },
+    "percentOfParentColumnTotal": {
+      "caption": "% de Columna Padre",
+      "totalCaption": "% de Columna Padre {0}",
+      "grandTotalCaption": "% de Columna Padre {0}"
     },
     "runningTotals": {
       "caption": "Totales acumulados",
@@ -287,7 +297,8 @@
     "cantExpandTitle": "El conjunto de datos es demasiado grande",
     "selectFile": "Seleccione el fichero .CSV para cargar",
     "flatTableIsNotSupported": "La tabla plana no es compatible con el origen de datos {0}.",
-    "enterGroupNamePrompt": "Por favor ingrese el nombre del grupo:"
+    "enterGroupNamePrompt": "Por favor ingrese el nombre del grupo:",
+    "exportFontLoadingError": "Failed to load the font. An unexpected error occurred."
   },
   "kpis": {
     "kpis": "KPIs",
@@ -312,25 +323,25 @@
     "drillThrough": "Perforar a través",
     "expand": "Expandir",
     "openFilter": "Filtro abierto",
+    "filterBy": "Filter by <b>{0}</b>",
+    "removeField": "Remove Field",
+    "removeMeasure": "Remove Measure",
     "sortColumnAsc": "Ordenar columna asc",
     "sortColumnDesc": "Ordenar columna desc",
     "sortRowAsc": "Ordenar fila asc",
     "sortRowDesc": "Ordenar fila desc",
     "aggregation": "Agregación",
     "properties": "Propiedades",
-    "hideProperty": "Esconder <b>{0}</b>",
-    "groupMembers": "Miembros del grupo",
-    "ungroupMembers": "Desagrupar miembros",
-    "conditionalFormatting": "Conditional Formatting",
-    "numberFormatting": "Number Formatting",
-    "filterBy": "Filter by <b>{0}</b>",
-    "removeField": "Remove Field",
-    "removeMeasure": "Remove Measure",
-    "showProperty": "Mostrar <b>{0}</b>",
     "editFormula": "Edit <b>{0}</b>",
     "moveToRows": "Move to Rows",
     "moveToColumns": "Move to Columns",
-    "moveToReportFilters": "Move to Report Filters"
+    "moveToReportFilters": "Move to Report Filters",
+    "conditionalFormatting": "Conditional Formatting",
+    "numberFormatting": "Number Formatting",
+    "showProperty": "Mostrar <b>{0}</b>",
+    "hideProperty": "Esconder <b>{0}</b>",
+    "groupMembers": "Miembros del grupo",
+    "ungroupMembers": "Desagrupar miembros"
   },
   "date": {
     "year": "Año",
@@ -483,6 +494,8 @@
     "is_percent": "Formato como porcentaje",
     "true_value": "cierto",
     "false_value": "falso",
+    "confirm_title": "Tienes algunos cambios sin guardar",
+    "confirm_message": "Su formato no será aplicado. </br> Por favor, confirme que desea cambiar el valor de todos modos.",
     "conditional": "Condicional",
     "less_than": "Menos que",
     "less_than_or_equal": "Menos que o igual a",
@@ -521,8 +534,6 @@
       "add_condition": "Añadir condición",
       "remove_condition": "Quitar condición",
       "cp_text_color": "Color de texto"
-    },
-    "confirm_title": "Tienes algunos cambios sin guardar",
-    "confirm_message": "Su formato no será aplicado. </br> Por favor, confirme que desea cambiar el valor de todos modos."
+    }
   }
 }
