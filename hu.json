@@ -283,7 +283,7 @@
     "excelCsvChartsExportError": "Diagramok Microsoft Excel vagy CSV formátumba történő kinyerése nem megengedett",
     "excelPdfExportLimitation": "Microsoft Excel vagy PDF fájlba történő exportálás ebben a verzióban nem elérhető",
     "excelExportLimitation": "Exportálás ebben a verzióban nem elérhető",
-    "noDataAvailable": "Az adatforrás üres, kérem, ellenőrizze a CSV fájlt!",
+    "noDataAvailable": "Az adatforrás üres, kérem.",
     "saveDataToFile": "Az adatok mentésre készek, a mentéshez kattintson a \"Mentés\" gombra!",
     "dataWasUpdated": "A szerveren található adatforrás frissült. Szeretné frissíteni a riportot?",
     "cantConnectToAccelerator": "Nem sikerült kapcsolódni az adatforráshoz. Kérem, ellenőrizze, hogy a \"Flexmonster Accelerator\" fut-e!",
