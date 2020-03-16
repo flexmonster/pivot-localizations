@@ -283,7 +283,7 @@
     "excelCsvChartsExportError": "Export to Microsoft Excel or CSV is not available for charts.",
     "excelPdfExportLimitation": "Export to Microsoft Excel or PDF is not available in the current edition.",
     "excelExportLimitation": "Export is not available in the current edition.",
-    "noDataAvailable": "Data source is empty. Please check the CSV file.",
+    "noDataAvailable": "Data source is empty.",
     "saveDataToFile": "Los datos están listos para ser guardados en un archivo, haga clic en el botón \"Guardar\" para guardar el archivo.",
     "dataWasUpdated": "Data source has been updated on the server. Refresh the report?",
     "cantConnectToAccelerator": "Cannot connect to data source. Please check if Flexmonster Accelerator is running.",
