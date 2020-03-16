@@ -283,7 +283,7 @@
     "excelCsvChartsExportError": "图表不能以Excel或CSV格式导出，请选择图像格式导出。",
     "excelPdfExportLimitation": "当前版本中不提供导出到Microsoft Excel或PDF。",
     "excelExportLimitation": "当前版本不提供导出功能。",
-    "noDataAvailable": "数据源为空。 请检查CSV文件。",
+    "noDataAvailable": "数据源为空。",
     "saveDataToFile": "数据已准备好保存到文件中，请单击“保存”按钮保存文件。",
     "dataWasUpdated": "数据源已在服务器上更新。 刷新报告？",
     "cantConnectToAccelerator": "无法连接到数据源。 请检查Flexmonster Accelerator是否正在运行。",
