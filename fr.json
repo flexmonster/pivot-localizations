@@ -283,7 +283,7 @@
     "excelCsvChartsExportError": "L'exportation vers Microsoft Excel ou CSV n'est pas disponible pour les graphiques.",
     "excelPdfExportLimitation": "L'exportation vers Microsoft Excel ou PDF n'est pas disponible dans l'édition actuelle.",
     "excelExportLimitation": "L'exportation n'est pas disponible dans l'édition actuelle.",
-    "noDataAvailable": "La source de données est vide. Vérifiez le fichier CSV.",
+    "noDataAvailable": "La source de données est vide.",
     "saveDataToFile": "Les données sont prêtes à être sauvegardé dans un fichier, merci de cliquer sur  le bouton \"Sauvegarder\" pour sauvegarder le fichier.",
     "dataWasUpdated": "La source de données a été mise à jour sur le serveur. Actualiser le rapport?",
     "cantConnectToAccelerator": "Impossible de se connecter à la source de données. Vérifiez si Flexmonster Accelerator est en cours d'exécution.",
