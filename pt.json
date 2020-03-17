@@ -126,10 +126,11 @@
     "collapseIcon": "Clique para fechar",
     "drillDown": "Clique para detalhar",
     "drillUp": "Clique para perfurar",
-    "sortIcon": "Click para ordernar por ordem decrescente",
-    "sortedDescIcon": "Click para ordernar por ordem crescente",
-    "sortedAscIcon": "Click para ordernar por ordem decrescente",
-    "close": "Clique para fechar"
+    "sortIcon": "Clique para classificar",
+    "sortedDescIcon": "Clique para ordernar por ordem decrescente",
+    "sortedAscIcon": "Clique para ordernar por ordem crescente",
+    "close": "Clique para fechar",
+    "unsortedIcon": "Clique para cancelar a ordenação"
   },
   "aggregations": {
     "sum": {

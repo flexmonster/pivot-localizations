@@ -126,10 +126,11 @@
     "collapseIcon": "Kattintson az összecsukáshoz",
     "drillDown": "Lejjebb lépés egy hierarchiai szinttel",
     "drillUp": "Feljebb lépés egy hierarchiai szinttel",
-    "sortIcon": "Csökkenő sorrendbe rendezés",
-    "sortedDescIcon": "Növekvő sorrendbe rendezés",
-    "sortedAscIcon": "Csökkenő sorrendbe rendezés",
-    "close": "Bezárás"
+    "sortIcon": "Kattintson a rendezéshez",
+    "sortedDescIcon": "Csökkenő sorrendbe rendezés",
+    "sortedAscIcon": "Növekvő sorrendbe rendezés",
+    "close": "Bezárás",
+    "unsortedIcon": "Kattintson a szortírozáshoz"
   },
   "aggregations": {
     "sum": {

@@ -126,10 +126,11 @@
     "collapseIcon": "Згорнути",
     "drillDown": "Click to drill down",
     "drillUp": "Click to drill up",
-    "sortIcon": "Сортувати у порядку спадання",
-    "sortedDescIcon": "Сортувати у висхідному порядку",
-    "sortedAscIcon": "Сортувати у порядку спадання",
-    "close": "Клацніть щоб закрити"
+    "sortIcon": "Сортувати",
+    "sortedDescIcon": "Сортувати по спаданню",
+    "sortedAscIcon": "Сортувати по зростанню",
+    "close": "Клацніть щоб закрити",
+    "unsortedIcon": "Не сортувати"
   },
   "aggregations": {
     "sum": {

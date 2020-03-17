@@ -126,10 +126,11 @@
     "collapseIcon": "按一下可折叠",
     "drillDown": "点击下钻",
     "drillUp": "点击上钻",
-    "sortIcon": "点击降序排序",
-    "sortedDescIcon": "单击\"升序排序",
-    "sortedAscIcon": "点击降序排序",
-    "close": "点击关闭"
+    "sortIcon": "点击排序",
+    "sortedDescIcon": "点击降序排序",
+    "sortedAscIcon": "单击\"升序排序",
+    "close": "点击关闭",
+    "unsortedIcon": "点击取消排序"
   },
   "aggregations": {
     "sum": {

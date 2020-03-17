@@ -126,10 +126,11 @@
     "collapseIcon": "Click to collapse",
     "drillDown": "Click to drill down",
     "drillUp": "Click to drill up",
-    "sortIcon": "Click to sort Desc",
-    "sortedDescIcon": "Click to sort Asc",
-    "sortedAscIcon": "Click to sort Desc",
-    "close": "Click to close"
+    "sortIcon": "Click to sort",
+    "sortedDescIcon": "Click to sort Desc",
+    "sortedAscIcon": "Click to sort Asc",
+    "close": "Click to close",
+    "unsortedIcon": "Click to unsort"
   },
   "aggregations": {
     "sum": {

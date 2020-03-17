@@ -126,10 +126,11 @@
     "collapseIcon": "Cliquer pour réduire",
     "drillDown": "Cliquez pour explorer",
     "drillUp": "Click to drill up",
-    "sortIcon": "Cliquer pour trier Desc",
-    "sortedDescIcon": "Cliquer pour trier Asc",
-    "sortedAscIcon": "Cliquer pour trier Desc",
-    "close": "Cliquer pour fermer"
+    "sortIcon": "Cliquez pour trier",
+    "sortedDescIcon": "Cliquez pour trier Desc",
+    "sortedAscIcon": "Cliquez pour trier Asc",
+    "close": "Cliquer pour fermer",
+    "unsortedIcon": "Cliquez pour annuler le tri"
   },
   "aggregations": {
     "sum": {
