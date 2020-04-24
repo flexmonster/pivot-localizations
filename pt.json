@@ -299,7 +299,20 @@
     "selectFile": "Selecionar arquivo .CSV para carregar",
     "flatTableIsNotSupported": "A tabela simples não é suportada para a origem de dados {0}.",
     "enterGroupNamePrompt": "Por favor, insira o nome do grupo:",
-    "exportFontLoadingError": "Failed to load the font. An unexpected error occurred."
+    "exportFontLoadingError": "Failed to load the font. An unexpected error occurred.",
+    "api": {
+      "incorrectUrl": "API dell'origine dati personalizzata: tipo errato del parametro 'url'. <br/> <br/>",
+      "errorZeroStatus": "Impossibile connettersi all'endpoint dell'API dell'origine dati personalizzata '<u> <a href='{0}'> {0} </a> </u>'. <br/> <br/> Verifica quanto segue per risolvere: <br/> - assicurati che l'URL sia corretto <br/> - abilita CORS <br/> - controlla la console del browser per eventuali errori",
+      "error404Status": "Impossibile connettersi all'endpoint dell'API dell'origine dati personalizzata '<u> <a href='{0}'> {0} </a> </u>'. <br/> <br/> Verifica quanto segue per risolvere: <br/> - assicurati che l'URL sia corretto <br/> - verifica che l'endpoint stia elaborando le richieste POST",
+      "error400Status": "API dell'origine dati personalizzata: errore richiesta su '<u> <a href='{0}'> {0} </a> </u> '. <br/> <br/>",
+      "error500Status": "API dell'origine dati personalizzata: errore del server su '<u> <a href='{0}'> {0} </a> </u> '. <br/> <br/>",
+      "selectRequestError": "API dell'origine dati personalizzata: selezionare la richiesta. <br/> <br/> La risposta dell'endpoint '<u> <a href='{0}'> {0} </a> </u>' ha un formato errato .",
+      "selectDrillThroughError": "API dell'origine dati personalizzata: selezionare la richiesta per la visualizzazione drill-through. <br/> <br/> L'endpoint '<u> <a href='{0}'> {0} </a> </u>' response è in un formato errato.",
+      "serverOutdated": "API dell'origine dati personalizzata: le versioni di flexmonster.js e dell'API del server non sono compatibili. <br/> <br/> L'API del server non è aggiornata. Aggiorna l'API del server '<u> <a href='{0}'> {0} </a> </u>' alla versione minima richiesta: {1}",
+      "clientOutdated": "API dell'origine dati personalizzata: le versioni di flexmonster.js e dell'API del server non sono compatibili. <br/> <br/> Flexmonster.js non è aggiornato. Aggiorna flexmonster.js alla versione minima richiesta: {0}",
+      "fieldsRequestError": "API dell'origine dati personalizzata: campi richiesti. <br/> <br/> La risposta dell'endpoint '<u> <a href='{0}'> {0} </a> </u>' ha un formato errato.",
+      "membersRequestError": "API dell'origine dati personalizzata: richiesta dei membri. <br/> <br/> L'endpoint '<u> <a href='{0}'> {0} </a> </u>' ha un formato errato."
+    }
   },
   "kpis": {
     "kpis": "KPIs",

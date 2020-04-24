@@ -299,7 +299,20 @@
     "selectFile": "Оберіть, будь ласка, файл для завантаження",
     "flatTableIsNotSupported": "Flat table is not supported for {0} data source.",
     "enterGroupNamePrompt": "Введіть назву для групи:",
-    "exportFontLoadingError": "Виникла помилка під час завантаження файлу з шрифтом."
+    "exportFontLoadingError": "Виникла помилка під час завантаження файлу з шрифтом.",
+    "api": {
+      "incorrectUrl": "Custom data source API: некоректний тип параметру 'url'.<br/><br/>",
+      "errorZeroStatus": "Не в змозі під'єднатися до custom data source API '<u><a href='{0}'>{0}</a></u>'.<br/><br/>Перевірте будь-ласка наступне:<br/>- переконайтеся що URL введено правильно<br/>- налаштуйте CORS<br/>- перевірте консоль браузера на наявність помилок",
+      "error404Status": "Не в змозі під'єднатися до custom data source API '<u><a href='{0}'>{0}</a></u>'.<br/><br/>Перевірте будь-ласка наступне:<br/>- переконайтеся що URL введено правильно<br/>- перевірте, що сервер правильно оброблює POST запити",
+      "error400Status": "Custom data source API: помилка запиту на '<u><a href='{0}'>{0}</a></u>'.<br/><br/>",
+      "error500Status": "Custom data source API: помилка на сервері '<u><a href='{0}'>{0}</a></u>'.<br/><br/>",
+      "selectRequestError": "Custom data source API: помилка в select запиті.<br/><br/>Відповідь з '<u><a href='{0}'>{0}</a></u>' має некоректний формат.",
+      "selectDrillThroughError": "Custom data source API: помилка з select запитом для drill-through.<br/><br/>Відповідь з '<u><a href='{0}'>{0}</a></u>' має некоректний формат.",
+      "serverOutdated": "Custom data source API: версія flexmonster.js та версія API сервера не сумісні.<br/><br/>Версія API сервера застаріла. Будь-ласка оновіть API сервера '<u><a href='{0}'>{0}</a></u>' до мінімальної суміної версії: {1}",
+      "clientOutdated": "Custom data source API: версія flexmonster.js та версія API сервера не сумісні.<br/><br/>Файл flexmonster.js застарів. Будь-ласка оновіть flexmonster.js до мінімальної суміної версії: {0}",
+      "fieldsRequestError": "Custom data source API: запит на fields.<br/><br/>Відповідь з '<u><a href='{0}'>{0}</a></u>' має некоректний формат.",
+      "membersRequestError": "Custom data source API: запит на members.<br/><br/>Відповідь з '<u><a href='{0}'>{0}</a></u>' має некоректний формат."
+    }
   },
   "kpis": {
     "kpis": "KPIs",

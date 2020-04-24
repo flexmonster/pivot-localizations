@@ -299,7 +299,20 @@
     "selectFile": "Sélectionnez le fichier à télécharger",
     "flatTableIsNotSupported": "La table plate n'est pas prise en charge pour la source de données {0}.",
     "enterGroupNamePrompt": "S'il vous plaît entrer le nom du groupe:",
-    "exportFontLoadingError": "Failed to load the font. An unexpected error occurred."
+    "exportFontLoadingError": "Failed to load the font. An unexpected error occurred.",
+    "api": {
+      "incorrectUrl": "API de source de données personnalisée: type incorrect du paramètre 'url'. <br/> <br/>",
+      "errorZeroStatus": "Impossible de se connecter au point de terminaison de l'API de source de données personnalisée '<u> <a href='{0}'> {0} </a> </u>'. <br/> <br/> Vérifiez les points suivants pour résoudre: <br/> - assurez-vous que l'URL est correcte <br/> - activez CORS <br/> - vérifiez la console du navigateur pour toute erreur",
+      "error404Status": "Impossible de se connecter au point de terminaison de l'API de source de données personnalisée '<u> <a href='{0}'> {0} </a> </u>'. <br/> <br/> Vérifiez les points suivants pour résoudre: <br/> - assurez-vous que l'URL est correcte <br/> - vérifiez que le point final traite les requêtes POST",
+      "error400Status": "API de source de données personnalisée: erreur de demande sur '<u> <a href='{0}'> {0} </a> </u>'. <br/> <br/>",
+      "error500Status": "API de source de données personnalisée: erreur de serveur sur '<u> <a href='{0}'> {0} </a> </u>'. <br/> <br/>",
+      "selectRequestError": "API de source de données personnalisée: sélectionnez la demande. <br/> <br/> La réponse du point de terminaison '<u> <a href='{0}'> {0} </a> </u>' est dans un format incorrect .",
+      "selectDrillThroughError": "API de source de données personnalisée: sélectionnez la demande pour la vue d'accès au détail. <br/> <br/> La réponse '<u> <a href='{0}'> {0} </a> </u>' du noeud final est dans un format incorrect.",
+      "serverOutdated": "API de source de données personnalisée: les versions de flexmonster.js et de l'API serveur ne sont pas compatibles. <br/> <br/> L'API serveur est obsolète. Veuillez mettre à jour l'API du serveur '<u> <a href='{0}'> {0} </a> </u>' vers la version minimale requise: {1}",
+      "clientOutdated": "API de source de données personnalisée: les versions de flexmonster.js et de l'API serveur ne sont pas compatibles. <br/> <br/> Le flexmonster.js est obsolète. Veuillez mettre à jour flexmonster.js vers la version minimale requise: {0}",
+      "fieldsRequestError": "API de source de données personnalisée: demande de champs. <br/> <br/> La réponse du point de terminaison '<u> <a href='{0}'> {0} </a> </u>' est dans un format incorrect .",
+      "membersRequestError": "API de source de données personnalisée: demande des membres. <br/> <br/> La réponse du point de terminaison '<u> <a href='{0}'> {0} </a> </u>' est dans un format incorrect ."
+    }
   },
   "kpis": {
     "kpis": "ICP",
