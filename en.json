@@ -129,8 +129,8 @@
     "sortIcon": "Click to sort",
     "sortedDescIcon": "Click to sort Desc",
     "sortedAscIcon": "Click to sort Asc",
-    "close": "Click to close",
-    "unsortedIcon": "Click to unsort"
+    "unsortedIcon": "Click to unsort",
+    "close": "Click to close"
   },
   "aggregations": {
     "sum": {
@@ -299,7 +299,20 @@
     "selectFile": "Select data file to upload.",
     "flatTableIsNotSupported": "Flat table is not supported for {0} data source.",
     "enterGroupNamePrompt": "Please enter group name:",
-    "exportFontLoadingError": "Failed to load the font. An unexpected error occurred."
+    "exportFontLoadingError": "Failed to load the font. An unexpected error occurred.",
+    "api": {
+      "incorrectUrl": "Custom data source API: incorrect type of the 'url' parameter.<br/><br/>",
+      "errorZeroStatus": "Unable to connect to custom data source API endpoint '<u><a href='{0}'>{0}</a></u>'.<br/><br/>Check the following to resolve:<br/>- make sure that the URL is correct<br/>- enable CORS<br/>- check the browser console for any errors",
+      "error404Status": "Unable to connect to custom data source API endpoint '<u><a href='{0}'>{0}</a></u>'.<br/><br/>Check the following to resolve:<br/>- make sure that the URL is correct<br/>- check that the endpoint is processing POST requests",
+      "error400Status": "Custom data source API: request error on '<u><a href='{0}'>{0}</a></u>'.<br/><br/>",
+      "error500Status": "Custom data source API: server error on '<u><a href='{0}'>{0}</a></u>'.<br/><br/>",
+      "selectRequestError": "Custom data source API: select request.<br/><br/>The endpoint '<u><a href='{0}'>{0}</a></u>' response is in an incorrect format.",
+      "selectDrillThroughError": "Custom data source API: select request for drill-through view.<br/><br/>The endpoint '<u><a href='{0}'>{0}</a></u>' response is in an incorrect format.",
+      "serverOutdated": "Custom data source API: the versions of flexmonster.js and server API are not compatible.<br/><br/>The server API is outdated. Please update the server API '<u><a href='{0}'>{0}</a></u>' to the minimum required version: {1}",
+      "clientOutdated": "Custom data source API: the versions of flexmonster.js and server API are not compatible.<br/><br/>The flexmonster.js is outdated. Please update flexmonster.js to the minimum required version: {0}",
+      "fieldsRequestError": "Custom data source API: fields request.<br/><br/>The endpoint '<u><a href='{0}'>{0}</a></u>' response is in an incorrect format.",
+      "membersRequestError": "Custom data source API: members request.<br/><br/>The endpoint '<u><a href='{0}'>{0}</a></u>' response is in an incorrect format."
+    }
   },
   "kpis": {
     "kpis": "KPIs",

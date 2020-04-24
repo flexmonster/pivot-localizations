@@ -299,7 +299,20 @@
     "selectFile": "Seleccione el fichero .CSV para cargar",
     "flatTableIsNotSupported": "La tabla plana no es compatible con el origen de datos {0}.",
     "enterGroupNamePrompt": "Por favor ingrese el nombre del grupo:",
-    "exportFontLoadingError": "Failed to load the font. An unexpected error occurred."
+    "exportFontLoadingError": "Failed to load the font. An unexpected error occurred.",
+    "api": {
+      "incorrectUrl": "Custom data source API: tipo incorrecto del parámetro 'url'.<br/><br/>",
+      "errorZeroStatus": "No se puede conectar al punto final de la API de origen de datos personalizado '<u> <a href='{0}'> {0} </a> </u>'. <br/> <br/> Compruebe lo siguiente para resolverlo: <br/> - asegúrese de que la URL sea correcta <br/> - active CORS <br/> - revise la consola del navegador para ver si hay algún error",
+      "error404Status": "No se puede conectar al punto final de la API de origen de datos personalizado '<u> <a href='{0}'> {0} </a> </u>'. <br/> <br/> Compruebe lo siguiente para resolverlo: <br/> - asegúrese de que la URL sea correcta <br/> - verifique que el punto final esté procesando solicitudes POST",
+      "error400Status": "API de fuente de datos personalizada: error de solicitud en '<u> <a href='{0}'> {0} </a> </u>'. <br/> <br/>",
+      "error500Status": "API de fuente de datos personalizada: error del servidor en '<u> <a href='{0}'> {0} </a> </u>'. <br/> <br/>",
+      "selectRequestError": "API de fuente de datos personalizada: seleccione solicitud. <br/> <br/> La respuesta del punto final '<u> <a href='{0}'> {0} </a> </u>' está en un formato incorrecto .",
+      "selectDrillThroughError": "API de fuente de datos personalizada: seleccione la solicitud para la vista de obtención de detalles. <br/> <br/> El punto final '<u> <a href='{0}'> {0} </a> </u>' respuesta Está en un formato incorrecto.",
+      "serverOutdated": "API de fuente de datos personalizada: las versiones de flexmonster.js y la API del servidor no son compatibles. <br/> <br/> La API del servidor está desactualizada. Actualice la API del servidor '<u> <a href='{0}'> {0} </a> </u>' a la versión mínima requerida: {1}",
+      "clientOutdated": "API de fuente de datos personalizada: las versiones de flexmonster.js y la API del servidor no son compatibles. <br/> <br/> El flexmonster.js está desactualizado. Actualice flexmonster.js a la versión mínima requerida: {0}",
+      "fieldsRequestError": "API de fuente de datos personalizada: solicitud de campos. <br/> <br/> La respuesta del punto final '<u> <a href='{0}'> {0} </a> </u>' está en un formato incorrecto.",
+      "membersRequestError": "API de fuente de datos personalizada: solicitud de los miembros. <br/> <br/> La respuesta del punto final '<u> <a href='{0}'> {0} </a> </u>' está en un formato incorrecto ."
+    }
   },
   "kpis": {
     "kpis": "KPIs",

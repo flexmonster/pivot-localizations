@@ -299,7 +299,20 @@
     "selectFile": "Válassza ki a feltöltendő adatfájlt.",
     "flatTableIsNotSupported": "A lapos tábla nem támogatott {0} adatforráshoz.",
     "enterGroupNamePrompt": "Kérjük, adja meg a csoport nevét:",
-    "exportFontLoadingError": "Failed to load the font. An unexpected error occurred."
+    "exportFontLoadingError": "Failed to load the font. An unexpected error occurred.",
+    "api": {
+      "incorrectUrl": "Egyéni adatforrás API: az 'url' paraméter hibás típusa. <br/> <br/>",
+      "errorZeroStatus": "Nem lehet csatlakozni az '<u> <a> <a href='{0}'> {0} </a> </u>' egyéni adatforrás API végponthoz. <br/> <br/> Ellenőrizze az alábbiakat: <br/> - ellenőrizze, hogy az URL helyes-e <br/> - engedélyezze a CORS-t <br/> - ellenőrizze a böngésző konzolján esetleges hibákat",
+      "error404Status": "Nem lehet csatlakozni az '<u> <a> <a href='{0}'> {0} </a> </u>' egyéni adatforrás API végponthoz. <br/> <br/> Ellenőrizze az alábbiakat: <br/> - ellenőrizze, hogy az URL helyes-e. <br/> - ellenőrizze, hogy a végpont feldolgozza a POST kéréseket",
+      "error400Status": "Egyéni adatforrás API: hiba kérés a '<u> <a href='{0}'> {0} </a> </u>' oldalon. <br/> <br/>",
+      "error500Status": "Egyéni adatforrás API: szerverhiba a '<u> <a href='{0}'> {0} </a> </u>' -on. <br/> <br/>",
+      "selectRequestError": "Egyéni adatforrás API: válassza ki a kérelmet. <br/> <br/> A végpont '<u> <a href='{0}'> {0} </a> </u>' válasz nem megfelelő formátumban van.",
+      "selectDrillThroughError": "Egyéni adatforrás API: válasszon átfedési nézetet. <br/> <br/> A végpont '<u> <a href='{0}'> {0} </a> </u>' válasz helytelen formátumban van.",
+      "serverOutdated": "Egyéni adatforrás API: a flexmonster.js és a szerver API verziói nem kompatibilisek. <br/> <br/> A szerver API elavult. Kérjük, frissítse a '<u> <a href='{0}'> {0} </a> </u>' kiszolgáló API-ját a minimálisan szükséges verzióra: {1}",
+      "clientOutdated": "Egyéni adatforrás API: a flexmonster.js és a szerver API verziói nem kompatibilisek. <br/> <br/> A flexmonster.js elavult. Kérjük, frissítse a flexmonster.js fájlt a minimálisan szükséges verzióra: {0}",
+      "fieldsRequestError": "Egyéni adatforrás API: mezők kérése. <br/> <br/> A végpont '<u> <a href='{0}'> {0} </a> </u>' válasz hibás formátumban van.",
+      "membersRequestError": "Egyéni adatforrás API: a tagok kérik. <br/> <br/> A végpont '<u> <a href='{0}'> {0} </a> </u>' válasz nem megfelelő formátumban van."
+    }
   },
   "kpis": {
     "kpis": "KPI-ok",

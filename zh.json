@@ -299,7 +299,20 @@
     "selectFile": "选择要载入的CSV文件",
     "flatTableIsNotSupported": "{0}数据源不支持平面表。",
     "enterGroupNamePrompt": "请输入群组名称:",
-    "exportFontLoadingError": "Failed to load the font. An unexpected error occurred."
+    "exportFontLoadingError": "Failed to load the font. An unexpected error occurred.",
+    "api": {
+      "incorrectUrl": "Custom data source API: 'url'参数的类型错误。<br/> <br/>",
+      "errorZeroStatus": "无法连接到自定义数据源API端点'<u> <a href='{0}'> {0} </a> </ u>'。<br/> <br/>检查以下内容以解决： <br/>-确保URL正确<br/>-启用CORS <br/>-检查浏览器控制台中是否有任何错误",
+      "error404Status": "无法连接到自定义数据源API端点'<u> <a href='{0}'> {0} </a> </ u>'。<br/> <br/>检查以下内容以解决： <br/>-确保URL正确<br/>-检查端点是否正在处理POST请求",
+      "error400Status": "Custom data source API: 请求错误 '<u><a href='{0}'>{0}</a></u>'.<br/><br/>",
+      "error500Status": "Custom data source API: 服务器错误 '<u><a href='{0}'>{0}</a></u>'.<br/><br/>",
+      "selectRequestError": "Custom data source API: 选择要求.<br/><br/>端点'<u> <a href='{0}'> {0} </a> </ u>'响应的格式不正确。",
+      "selectDrillThroughError": "Custom data source API: 选择请求以获得追溯视图.<br/><br/>端点'<u> <a href='{0}'> {0} </a> </ u>'响应的格式不正确。",
+      "serverOutdated": "Custom data source API: flexmonster.js和服务器API的版本不兼容.<br/><br/>服务器API已过时。 请将服务器API'<u> <a href='{0}'> {0} </a> </ u>'更新为所需的最低版本：{1}",
+      "clientOutdated": "Custom data source API: flexmonster.js和服务器API的版本不兼容.<br/><br/>flexmonster.js已过时。 请更新flexmonster.js到最低要求的版本：{0}",
+      "fieldsRequestError": "Custom data source API: 字段请求.<br/><br/>端点'<u> <a href='{0}'> {0} </a> </ u>'响应的格式不正确.",
+      "membersRequestError": "Custom data source API: 会员要求.<br/><br/>端点'<u> <a href='{0}'> {0} </a> </ u>'响应的格式不正确."
+    }
   },
   "kpis": {
     "kpis": "KPIs",
