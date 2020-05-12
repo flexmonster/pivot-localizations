@@ -503,6 +503,7 @@
     "currency_symbol": "Symbole de la monnaie",
     "positive_currency_format": "Format de devise positif",
     "negative_currency_format": "Format de devise négatif",
+    "negative_number_format": "Format de nombre négatif",
     "currency_align": "Monnaie alignée",
     "null_value": "Valeur nulle",
     "is_percent": "Format en pourcentage",

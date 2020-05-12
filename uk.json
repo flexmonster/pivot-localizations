@@ -503,6 +503,7 @@
     "currency_symbol": "Символ валюти",
     "positive_currency_format": "Позитивний формат валюти",
     "negative_currency_format": "Негативний формат валюти",
+    "negative_number_format": "Форматування від'ємних чисел",
     "currency_align": "Вирівнювання валюти",
     "null_value": "Нульове значеня",
     "is_percent": "Форматувати як відсотки",

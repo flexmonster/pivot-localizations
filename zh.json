@@ -503,6 +503,7 @@
     "currency_symbol": "货币符号",
     "positive_currency_format": "正面货币格式",
     "negative_currency_format": "负面货币格式",
+    "negative_number_format": "负数格式",
     "currency_align": "货币对齐",
     "null_value": "空值",
     "is_percent": "格式为百分比",

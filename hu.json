@@ -503,6 +503,7 @@
     "currency_symbol": "Mértékegység",
     "positive_currency_format": "Pozitív pénznemformátum",
     "negative_currency_format": "Negatív pénznemformátum",
+    "negative_number_format": "Negatív számformátum",
     "currency_align": "Mértékegység helye",
     "null_value": "Hiányzó érték",
     "is_percent": "Százalékban mutat",
