@@ -148,15 +148,25 @@
       "totalCaption": "Distinct Count of {0}",
       "grandTotalCaption": "Total Distinct Count of {0}"
     },
-    "difference": {
-      "caption": "Difference",
-      "totalCaption": "Difference of {0}",
-      "grandTotalCaption": "Difference of {0}"
+    "differenceOfColumn": {
+      "caption": "Difference of Column",
+      "totalCaption": "Difference of Column of {0}",
+      "grandTotalCaption": "Difference of Column of {0}"
     },
-    "percentDifference": {
-      "caption": "% Difference",
-      "totalCaption": "% Difference of {0}",
-      "grandTotalCaption": "% Difference of {0}"
+    "differenceOfRow": {
+      "caption": "Difference of Row",
+      "totalCaption": "Difference of Row of {0}",
+      "grandTotalCaption": "Difference of Row of {0}"
+    },
+    "percentDifferenceOfColumn": {
+      "caption": "% Difference of Column",
+      "totalCaption": "% Difference of Column of {0}",
+      "grandTotalCaption": "% Difference of Column of {0}"
+    },
+    "percentDifferenceOfRow": {
+      "caption": "% Difference of Row",
+      "totalCaption": "% Difference of Row of {0}",
+      "grandTotalCaption": "% Difference of Row of {0}"
     },
     "average": {
       "caption": "Average",
@@ -218,10 +228,15 @@
       "totalCaption": "% of Parent Column Total of {0}",
       "grandTotalCaption": "% of Parent Column Total of {0}"
     },
-    "runningTotals": {
-      "caption": "Running Totals",
-      "totalCaption": "Running Totals of {0}",
-      "grandTotalCaption": "Running Totals of {0}"
+    "runningTotalsOfColumn": {
+      "caption": "Running Totals of Column",
+      "totalCaption": "Running Totals of Column of {0}",
+      "grandTotalCaption": "Running Totals of Column of {0}"
+    },
+    "runningTotalsOfRow": {
+      "caption": "Running Totals of Row",
+      "totalCaption": "Running Totals of Row of {0}",
+      "grandTotalCaption": "Running Totals of Row of {0}"
     },
     "index": {
       "caption": "Index",

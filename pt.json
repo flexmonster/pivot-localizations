@@ -129,8 +129,8 @@
     "sortIcon": "Clique para classificar",
     "sortedDescIcon": "Clique para ordernar por ordem decrescente",
     "sortedAscIcon": "Clique para ordernar por ordem crescente",
-    "close": "Clique para fechar",
-    "unsortedIcon": "Clique para cancelar a ordenação"
+    "unsortedIcon": "Clique para cancelar a ordenação",
+    "close": "Clique para fechar"
   },
   "aggregations": {
     "sum": {
@@ -148,15 +148,25 @@
       "totalCaption": "Contagem distinta de {0}",
       "grandTotalCaption": "Total Contagem distinta de {0}"
     },
-    "difference": {
-      "caption": "Diferença",
-      "totalCaption": "Diferença de {0}",
-      "grandTotalCaption": "Diferença total de {0}"
+    "differenceOfColumn": {
+      "caption": "Diferença de Coluna",
+      "totalCaption": "Diferença de Coluna de {0}",
+      "grandTotalCaption": "Diferença total de Coluna de {0}"
     },
-    "percentDifference": {
-      "caption": "Por cento de Diferença",
-      "totalCaption": "Por cento de Diferença {0}",
-      "grandTotalCaption": "Porcentagem total de Diferença {0}"
+    "differenceOfRow": {
+      "caption": "Diferença de Linha",
+      "totalCaption": "Diferença de Linha de {0}",
+      "grandTotalCaption": "Diferença total de Linha de {0}"
+    },
+    "percentDifferenceOfColumn": {
+      "caption": "% Diferença de Coluna",
+      "totalCaption": "% Diferença de Coluna de {0}",
+      "grandTotalCaption": "% Diferença total de Coluna de {0}"
+    },
+    "percentDifferenceOfRow": {
+      "caption": "% Diferença de Linha",
+      "totalCaption": "% Diferença de Linha de {0}",
+      "grandTotalCaption": "% Diferença total de Linha de {0}"
     },
     "average": {
       "caption": "Média",
@@ -199,29 +209,34 @@
       "grandTotalCaption": "Porcentagem total de {0}"
     },
     "percentOfColumn": {
-      "caption": "Por cento de Coluna",
-      "totalCaption": "Por cento de Coluna {0}",
-      "grandTotalCaption": "Porcentagem total de Coluna {0}"
+      "caption": "% de Coluna",
+      "totalCaption": "% de Coluna {0}",
+      "grandTotalCaption": "% Total de Coluna de {0}"
     },
     "percentOfRow": {
       "caption": "% de Linha",
       "totalCaption": "% de Linha de {0}",
-      "grandTotalCaption": "% Total da linha de {0}"
+      "grandTotalCaption": "% Total de Linha de {0}"
     },
     "percentOfParentRowTotal": {
       "caption": "% de Linha Pai",
-      "totalCaption": "%  de Linha Pai de {0}",
-      "grandTotalCaption": "%  de Linha Pai de {0}"
+      "totalCaption": "% de Linha Pai de {0}",
+      "grandTotalCaption": "% de Linha Pai de {0}"
     },
     "percentOfParentColumnTotal": {
       "caption": "% de Coluna Pai",
       "totalCaption": "% de Coluna Pai de {0}",
       "grandTotalCaption": "% de Coluna Pai de {0}"
     },
-    "runningTotals": {
-      "caption": "Totais em execução",
-      "totalCaption": "Totais em execução de {0}",
-      "grandTotalCaption": "Totais em execução de {0}"
+    "runningTotalsOfColumn": {
+      "caption": "Totais em execução de Coluna",
+      "totalCaption": "Totais em execução de Coluna de {0}",
+      "grandTotalCaption": "Totais em execução de Coluna de {0}"
+    },
+    "runningTotalsOfRow": {
+      "caption": "Totais em execução de Linha",
+      "totalCaption": "Totais em execução de Linha de {0}",
+      "grandTotalCaption": "Totais em execução de Linha de {0}"
     },
     "index": {
       "caption": "Índice",

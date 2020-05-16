@@ -129,8 +129,8 @@
     "sortIcon": "Kattintson a rendezéshez",
     "sortedDescIcon": "Csökkenő sorrendbe rendezés",
     "sortedAscIcon": "Növekvő sorrendbe rendezés",
-    "close": "Bezárás",
-    "unsortedIcon": "Kattintson a szortírozáshoz"
+    "unsortedIcon": "Kattintson a szortírozáshoz",
+    "close": "Bezárás"
   },
   "aggregations": {
     "sum": {
@@ -148,15 +148,25 @@
       "totalCaption": "{0} egyedi elemek darabszáma",
       "grandTotalCaption": "{0} egyedi elemek teljes darabszáma"
     },
-    "difference": {
-      "caption": "Különbség",
-      "totalCaption": "{0} különbsége",
-      "grandTotalCaption": "{0} teljes különbsége"
+    "differenceOfColumn": {
+      "caption": "Oszlopok különbsége",
+      "totalCaption": "{0} oszlopok különbsége",
+      "grandTotalCaption": "{0} teljes oszlopok különbsége"
     },
-    "percentDifference": {
-      "caption": "Különbség százalékban",
-      "totalCaption": "{0} különbsége százalékban",
-      "grandTotalCaption": "{0} különbsége százalékban"
+    "differenceOfRow": {
+      "caption": "Sorok különbsége",
+      "totalCaption": "{0} sorok különbsége",
+      "grandTotalCaption": "{0} teljes sorok különbsége"
+    },
+    "percentDifferenceOfColumn": {
+      "caption": "Oszlopok különbség százalékban",
+      "totalCaption": "{0} oszlopok különbség százalékban",
+      "grandTotalCaption": "{0} oszlopok különbség százalékban"
+    },
+    "percentDifferenceOfRow": {
+      "caption": "Sorok különbsége százalékban",
+      "totalCaption": "{0} sorok különbsége százalékban",
+      "grandTotalCaption": "{0} teljes sorok különbsége százalékban"
     },
     "average": {
       "caption": "Átlag",
@@ -218,10 +228,15 @@
       "totalCaption": "a szülő oszlop százaléka {0}",
       "grandTotalCaption": "a szülő oszlop százaléka {0}"
     },
-    "runningTotals": {
-      "caption": "Futó összesítések",
-      "totalCaption": "{0} futó összesítések",
-      "grandTotalCaption": "{0} futó összesítések"
+    "runningTotalsOfColumn": {
+      "caption": "Oszlopok futó összesítések",
+      "totalCaption": "{0} oszlopok futó összesítések",
+      "grandTotalCaption": "{0} oszlopok futó összesítések"
+    },
+    "runningTotalsOfRow": {
+      "caption": "Sorok futó összesítések",
+      "totalCaption": "{0} sorok futó összesítések",
+      "grandTotalCaption": "{0} sorok futó összesítések"
     },
     "index": {
       "caption": "Mutató",

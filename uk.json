@@ -129,8 +129,8 @@
     "sortIcon": "Сортувати",
     "sortedDescIcon": "Сортувати по спаданню",
     "sortedAscIcon": "Сортувати по зростанню",
-    "close": "Клацніть щоб закрити",
-    "unsortedIcon": "Не сортувати"
+    "unsortedIcon": "Не сортувати",
+    "close": "Клацніть щоб закрити"
   },
   "aggregations": {
     "sum": {
@@ -148,15 +148,25 @@
       "totalCaption": "Чітка кількість {0}",
       "grandTotalCaption": "Загальна чітка кількість {0}"
     },
-    "difference": {
-      "caption": "Різниця",
-      "totalCaption": "Різниця {0}",
-      "grandTotalCaption": "Різниця по всіх {0}"
-    },
-    "percentDifference": {
+    "differenceOfColumn": {
       "caption": "Різниця у колонці",
       "totalCaption": "Різниця у колонці {0}",
       "grandTotalCaption": "Різниця у колонці по всіх {0}"
+    },
+    "differenceOfRow": {
+      "caption": "Різниця у рядку",
+      "totalCaption": "Різниця у рядку {0}",
+      "grandTotalCaption": "Різниця у рядку по всіх {0}"
+    },
+    "percentDifferenceOfColumn": {
+      "caption": "% різниці у колонці",
+      "totalCaption": "% різниці у колонці {0}",
+      "grandTotalCaption": "% різниці у колонці по всіх {0}"
+    },
+    "percentDifferenceOfRow": {
+      "caption": "% різниці у рядку",
+      "totalCaption": "% різниці у рядку {0}",
+      "grandTotalCaption": "% різниці у рядку по всіх {0}"
     },
     "average": {
       "caption": "Середнє",
@@ -199,9 +209,9 @@
       "grandTotalCaption": "Відсоток по всіх {0}"
     },
     "percentOfColumn": {
-      "caption": "Відсоток у колонці",
-      "totalCaption": "Відсоток у колонці {0}",
-      "grandTotalCaption": "Відсоток у колонці по всіх {0}"
+      "caption": "% у колонці",
+      "totalCaption": "% у колонці {0}",
+      "grandTotalCaption": "% у колонці по всіх {0}"
     },
     "percentOfRow": {
       "caption": "% у рядку",
@@ -218,10 +228,15 @@
       "totalCaption": "% у батьківській колонці {0}",
       "grandTotalCaption": "% у батьківській колонці {0}"
     },
-    "runningTotals": {
-      "caption": "Зростаючий підсумок",
-      "totalCaption": "Зростаючий підсумок по {0}",
-      "grandTotalCaption": "Зростаючий підсумок по {0}"
+    "runningTotalsOfColumn": {
+      "caption": "Зростаючий підсумок у колонці",
+      "totalCaption": "Зростаючий підсумок у колонці по {0}",
+      "grandTotalCaption": "Зростаючий підсумок у колонці по {0}"
+    },
+    "runningTotalsOfRow": {
+      "caption": "Зростаючий підсумок у рядку",
+      "totalCaption": "Зростаючий підсумок у рядку по {0}",
+      "grandTotalCaption": "Зростаючий підсумок у рядку по {0}"
     },
     "index": {
       "caption": "Індекс",

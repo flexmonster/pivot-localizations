@@ -129,8 +129,8 @@
     "sortIcon": "Clicca per ordinare",
     "sortedDescIcon": "Clicca per ordinare Decrescente",
     "sortedAscIcon": "Clicca per ordinare Ascendente",
-    "close": "Clicca per chiudere",
-    "unsortedIcon": "Clicca per annullare l'ordine"
+    "unsortedIcon": "Clicca per annullare l'ordine",
+    "close": "Clicca per chiudere"
   },
   "aggregations": {
     "sum": {
@@ -148,15 +148,25 @@
       "totalCaption": "Conteggio Distinti di {0}",
       "grandTotalCaption": "Totale Conteggio Distinti di {0}"
     },
-    "difference": {
-      "caption": "Differenza",
-      "totalCaption": "Differenza di {0}",
-      "grandTotalCaption": "Differenza di {0}"
+    "differenceOfColumn": {
+      "caption": "Differenza di Colonna",
+      "totalCaption": "Differenza di Colonna di {0}",
+      "grandTotalCaption": "Differenza di Colonna di {0}"
     },
-    "percentDifference": {
-      "caption": "% Differenza",
-      "totalCaption": "% Differenza di {0}",
-      "grandTotalCaption": "% Differenza di {0}"
+    "differenceOfRow": {
+      "caption": "Differenza di Riga",
+      "totalCaption": "Differenza di Riga di {0}",
+      "grandTotalCaption": "Differenza di Riga di {0}"
+    },
+    "percentDifferenceOfColumn": {
+      "caption": "% Differenza di Colonna",
+      "totalCaption": "% Differenza di Colonna di {0}",
+      "grandTotalCaption": "% Differenza di Colonna di {0}"
+    },
+    "percentDifferenceOfRow": {
+      "caption": "% Differenza di Riga",
+      "totalCaption": "% Differenza di Riga di {0}",
+      "grandTotalCaption": "% Differenza di Riga di {0}"
     },
     "average": {
       "caption": "Media",
@@ -218,10 +228,15 @@
       "totalCaption": "% di Colonna Totale di {0}",
       "grandTotalCaption": "% di Colonna Totale di {0}"
     },
-    "runningTotals": {
-      "caption": "Totali Incrementali",
-      "totalCaption": "Totali Incrementali di {0}",
-      "grandTotalCaption": "Totali Incrementali di {0}"
+    "runningTotalsOfColumn": {
+      "caption": "Totali Incrementali di Colonna",
+      "totalCaption": "Totali Incrementali di Colonna di {0}",
+      "grandTotalCaption": "Totali Incrementali di Colonna di {0}"
+    },
+    "runningTotalsOfRow": {
+      "caption": "Totali Incrementali di Riga",
+      "totalCaption": "Totali Incrementali di Riga di {0}",
+      "grandTotalCaption": "Totali Incrementali di Riga di {0}"
     },
     "index": {
       "caption": "Indice",

@@ -129,8 +129,8 @@
     "sortIcon": "Cliquez pour trier",
     "sortedDescIcon": "Cliquez pour trier Desc",
     "sortedAscIcon": "Cliquez pour trier Asc",
-    "close": "Cliquer pour fermer",
-    "unsortedIcon": "Cliquez pour annuler le tri"
+    "unsortedIcon": "Cliquez pour annuler le tri",
+    "close": "Cliquer pour fermer"
   },
   "aggregations": {
     "sum": {
@@ -144,29 +144,39 @@
       "grandTotalCaption": "Compte total de {0}"
     },
     "distinctCount": {
-      "caption": "Comptage Distinctes",
-      "totalCaption": "Comptage Distinctes de {0}",
-      "grandTotalCaption": "Comptage Distinctes Totale de {0}"
+      "caption": "Comptage distinctes",
+      "totalCaption": "Comptage distinctes de {0}",
+      "grandTotalCaption": "Comptage distinctes totale de {0}"
     },
-    "difference": {
-      "caption": "Différence",
-      "totalCaption": "Différence de {0}",
-      "grandTotalCaption": "Total différence of {0}"
+    "differenceOfColumn": {
+      "caption": "Différence de la colonne",
+      "totalCaption": "Différence de la colonne de {0}",
+      "grandTotalCaption": "Différence de la colonne de {0}"
     },
-    "percentDifference": {
-      "caption": "Pour cent de la différence",
-      "totalCaption": "Pour cent de la différence {0}",
-      "grandTotalCaption": "Pourcentage total de la différence {0}"
+    "differenceOfRow": {
+      "caption": "Différence de ligne",
+      "totalCaption": "Différence de ligne de {0}",
+      "grandTotalCaption": "Différence de ligne de {0}"
+    },
+    "percentDifferenceOfColumn": {
+      "caption": "% différence de la colonne",
+      "totalCaption": "% différence de la colonne de {0}",
+      "grandTotalCaption": "% différence de la colonne de {0}"
+    },
+    "percentDifferenceOfRow": {
+      "caption": "% différence de ligne",
+      "totalCaption": "% différence de ligne de {0}",
+      "grandTotalCaption": "% différence de ligne de {0}"
     },
     "average": {
       "caption": "Moyenne",
       "totalCaption": "Moyenne de {0}",
-      "grandTotalCaption": "Total moyen des {0}"
+      "grandTotalCaption": "Total moyen de {0}"
     },
     "median": {
       "caption": "Médiane",
       "totalCaption": "Médiane de {0}",
-      "grandTotalCaption": "Total Médiane des {0}"
+      "grandTotalCaption": "Total médiane de {0}"
     },
     "stdevp": {
       "caption": "Population StDev",
@@ -186,7 +196,7 @@
     "min": {
       "caption": "Minimum",
       "totalCaption": "Minimum de {0}",
-      "grandTotalCaption": "totale minimale de {0}"
+      "grandTotalCaption": "Total minimale de {0}"
     },
     "max": {
       "caption": "Maximum",
@@ -196,17 +206,17 @@
     "percent": {
       "caption": "Pour cent",
       "totalCaption": "Percent ot {0}",
-      "grandTotalCaption": "OT pour cent au total {0}"
+      "grandTotalCaption": "Total% du total général {0}"
     },
     "percentOfColumn": {
-      "caption": "Pour cent de la colonne",
-      "totalCaption": "Pour cent de la colonne {0}",
-      "grandTotalCaption": "Pourcentage total de la colonne {0}"
+      "caption": "% de la colonne",
+      "totalCaption": "% de la colonne {0}",
+      "grandTotalCaption": "Total% de la colonne {0}"
     },
     "percentOfRow": {
-      "caption": "Pour cent de ligne",
-      "totalCaption": "Pour cent de ligne {0}",
-      "grandTotalCaption": "Pour cent de ligne au total {0}"
+      "caption": "% de ligne",
+      "totalCaption": "% de ligne {0}",
+      "grandTotalCaption": "Total% de ligne {0}"
     },
     "percentOfParentRowTotal": {
       "caption": "% de ligne de parent",
@@ -218,10 +228,15 @@
       "totalCaption": "% de la colonne de parent {0}",
       "grandTotalCaption": "% de la colonne de parent {0}"
     },
-    "runningTotals": {
-      "caption": "Totaux cumulés",
-      "totalCaption": "Totaux cumulés de {0}",
-      "grandTotalCaption": "Totaux cumulés de {0}"
+    "runningTotalsOfColumn": {
+      "caption": "Totaux cumulés de la colonne",
+      "totalCaption": "Totaux cumulés de la colonne de {0}",
+      "grandTotalCaption": "Totaux cumulés de la colonne de {0}"
+    },
+    "runningTotalsOfRow": {
+      "caption": "Totaux cumulés de ligne",
+      "totalCaption": "Totaux cumulés de ligne de {0}",
+      "grandTotalCaption": "Totaux cumulés de ligne de {0}"
     },
     "index": {
       "caption": "Indice",

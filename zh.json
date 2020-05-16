@@ -129,8 +129,8 @@
     "sortIcon": "点击排序",
     "sortedDescIcon": "点击降序排序",
     "sortedAscIcon": "单击\"升序排序",
-    "close": "点击关闭",
-    "unsortedIcon": "点击取消排序"
+    "unsortedIcon": "点击取消排序",
+    "close": "点击关闭"
   },
   "aggregations": {
     "sum": {
@@ -148,15 +148,25 @@
       "totalCaption": "{0}的不重复计数",
       "grandTotalCaption": "{0}的总不重复计数"
     },
-    "difference": {
-      "caption": "差额",
-      "totalCaption": "{0}的差额",
-      "grandTotalCaption": "{0}的总差额"
+    "differenceOfColumn": {
+      "caption": "立柱差异",
+      "totalCaption": "{0}列的差异",
+      "grandTotalCaption": "{0}列的差异"
     },
-    "percentDifference": {
-      "caption": "差额百分比",
-      "totalCaption": "{0}的差额百分比",
-      "grandTotalCaption": "{0}的总差额百分比"
+    "differenceOfRow": {
+      "caption": "行的差异",
+      "totalCaption": "{0}行的差异",
+      "grandTotalCaption": "{0}行的差异"
+    },
+    "percentDifferenceOfColumn": {
+      "caption": "列差异百分比",
+      "totalCaption": "{0}列的差异百分比",
+      "grandTotalCaption": "{0}列的差异百分比"
+    },
+    "percentDifferenceOfRow": {
+      "caption": "行差异百分比",
+      "totalCaption": "{0}行的差异百分比",
+      "grandTotalCaption": "{0}行的差异百分比"
     },
     "average": {
       "caption": "平均",
@@ -218,10 +228,15 @@
       "totalCaption": "{0}列百分比",
       "grandTotalCaption": "{0}列百分比"
     },
-    "runningTotals": {
-      "caption": "运行总计",
-      "totalCaption": "{0}运行总计",
-      "grandTotalCaption": "{0}运行总计"
+    "runningTotalsOfColumn": {
+      "caption": "列的运行总计",
+      "totalCaption": "{0}列的运行总计",
+      "grandTotalCaption": "{0}列的运行总计"
+    },
+    "runningTotalsOfRow": {
+      "caption": "行的总计",
+      "totalCaption": "{0}行的运行总计",
+      "grandTotalCaption": "{0}行的运行总计"
     },
     "index": {
       "caption": "指数",
