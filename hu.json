@@ -257,6 +257,7 @@
     "loading": "Töltés...",
     "loadingConfiguration": "",
     "loadingData": "Adatok betöltése...",
+    "loadingMapping": "Térkép betöltése...",
     "waiting": "Válaszra vár {0} másodperce.",
     "progress": "{0}K",
     "progressKnown": "Betöltve {0} KB a(z) {1} KB",

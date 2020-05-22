@@ -257,6 +257,7 @@
     "loading": "Loading...",
     "loadingConfiguration": "",
     "loadingData": "Loading data...",
+    "loadingMapping": "Loading mapping...",
     "waiting": "Waiting for the response {0} sec.",
     "progress": "{0} rows",
     "progressKnown": "loaded {0} KB of {1} KB ({2}%)",

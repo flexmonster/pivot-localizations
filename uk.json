@@ -257,6 +257,7 @@
     "loading": "Завантаження ...",
     "loadingConfiguration": "Завантаження установок...",
     "loadingData": "Завантаження даних...",
+    "loadingMapping": "Завантаження мепінгу...",
     "waiting": "Очікується відповідь сервера",
     "progress": "{0} рядків",
     "progressKnown": "завантажено {0} KB з {1} KB",

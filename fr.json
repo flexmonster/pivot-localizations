@@ -257,6 +257,7 @@
     "loading": "Chargement ...",
     "loadingConfiguration": "Chargement de la configuration...",
     "loadingData": "Chargement des Données...",
+    "loadingMapping": "Chargement du mappage ...",
     "waiting": "Attente de la réponse du serveur",
     "progress": "{0} rangées",
     "progressKnown": "{0} KB de {1} KB",

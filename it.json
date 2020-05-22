@@ -257,6 +257,7 @@
     "loading": "Caricamento...",
     "loadingConfiguration": "",
     "loadingData": "Caricamento dati...",
+    "loadingMapping": "Caricamento mappatura in corso ...",
     "waiting": "Attendo risposta da {0} sec.",
     "progress": "{0} riga",
     "progressKnown": "caricati {0} KB di {1} KB",

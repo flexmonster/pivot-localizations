@@ -257,6 +257,7 @@
     "loading": "Cargando...",
     "loadingConfiguration": "Cargando configuración...",
     "loadingData": "Cargando datos...",
+    "loadingMapping": "Cargando mapeo ...",
     "waiting": "{0} seg",
     "progress": "{0} filas",
     "progressKnown": "leído {0} КB de {1} KB",
