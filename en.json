@@ -328,7 +328,8 @@
       "clientOutdated": "Custom data source API: the versions of flexmonster.js and server API are not compatible.<br/><br/>The flexmonster.js is outdated. Please update flexmonster.js to the minimum required version: {0}",
       "fieldsRequestError": "Custom data source API: fields request.<br/><br/>The endpoint '<u><a href='{0}'>{0}</a></u>' response is in an incorrect format.",
       "membersRequestError": "Custom data source API: members request.<br/><br/>The endpoint '<u><a href='{0}'>{0}</a></u>' response is in an incorrect format."
-    }
+    },
+    "wrongFormulaRecursive": "The formula for <b>'{0}'</b> measure calls itself recursively. Please consider removing recursion from the formula."
   },
   "kpis": {
     "kpis": "KPIs",

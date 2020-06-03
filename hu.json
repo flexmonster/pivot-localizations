@@ -328,7 +328,8 @@
       "clientOutdated": "Egyéni adatforrás API: a flexmonster.js és a szerver API verziói nem kompatibilisek. <br/> <br/> A flexmonster.js elavult. Kérjük, frissítse a flexmonster.js fájlt a minimálisan szükséges verzióra: {0}",
       "fieldsRequestError": "Egyéni adatforrás API: mezők kérése. <br/> <br/> A végpont '<u> <a href='{0}'> {0} </a> </u>' válasz hibás formátumban van.",
       "membersRequestError": "Egyéni adatforrás API: a tagok kérik. <br/> <br/> A végpont '<u> <a href='{0}'> {0} </a> </u>' válasz nem megfelelő formátumban van."
-    }
+    },
+    "wrongFormulaRecursive": "A <b>'{0}'</b> mérési képlet rekurzív módon nevezi magát. Kérjük, fontolja meg a rekurzió eltávolítását a képletből."
   },
   "kpis": {
     "kpis": "KPI-ok",

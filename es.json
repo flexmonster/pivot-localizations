@@ -328,7 +328,8 @@
       "clientOutdated": "API de fuente de datos personalizada: las versiones de flexmonster.js y la API del servidor no son compatibles. <br/> <br/> El flexmonster.js está desactualizado. Actualice flexmonster.js a la versión mínima requerida: {0}",
       "fieldsRequestError": "API de fuente de datos personalizada: solicitud de campos. <br/> <br/> La respuesta del punto final '<u> <a href='{0}'> {0} </a> </u>' está en un formato incorrecto.",
       "membersRequestError": "API de fuente de datos personalizada: solicitud de los miembros. <br/> <br/> La respuesta del punto final '<u> <a href='{0}'> {0} </a> </u>' está en un formato incorrecto ."
-    }
+    },
+    "wrongFormulaRecursive": "La fórmula para la <b>'{0}'</b> medida se llama recursivamente. Considere eliminar la recursividad de la fórmula."
   },
   "kpis": {
     "kpis": "KPIs",

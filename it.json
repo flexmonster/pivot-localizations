@@ -328,7 +328,8 @@
       "clientOutdated": "API dell'origine dati personalizzata: le versioni di flexmonster.js e dell'API del server non sono compatibili. <br/> <br/> Flexmonster.js non è aggiornato. Aggiorna flexmonster.js alla versione minima richiesta: {0}",
       "fieldsRequestError": "API dell'origine dati personalizzata: campi richiesti. <br/> <br/> La risposta dell'endpoint '<u> <a href='{0}'> {0} </a> </u>' ha un formato errato .",
       "membersRequestError": "API dell'origine dati personalizzata: richiesta dei membri. <br/> <br/> L'endpoint '<u> <a href='{0}'> {0} </a> </u>' ha un formato errato ."
-    }
+    },
+    "wrongFormulaRecursive": "La formula per la <b>'{0}'</b> misura si chiama ricorsivamente. Si prega di considerare la rimozione della ricorsione dalla formula."
   },
   "kpis": {
     "kpis": "KPI",
