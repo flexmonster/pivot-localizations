@@ -329,7 +329,8 @@
       "fieldsRequestError": "Custom data source API: fields request.<br/><br/>The endpoint '<u><a href='{0}'>{0}</a></u>' response is in an incorrect format.",
       "membersRequestError": "Custom data source API: members request.<br/><br/>The endpoint '<u><a href='{0}'>{0}</a></u>' response is in an incorrect format."
     },
-    "wrongFormulaRecursive": "The formula for <b>'{0}'</b> measure calls itself recursively. Please consider removing recursion from the formula."
+    "wrongFormulaRecursive": "The formula for <b>'{0}'</b> measure calls itself recursively. Please consider removing recursion from the formula.",
+    "wrongFormulaAggregation": "The aggregation <b>'{0}'</b> in the <b>'{1}'</b> formula is not valid."
   },
   "kpis": {
     "kpis": "KPIs",

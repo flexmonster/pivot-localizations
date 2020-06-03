@@ -329,7 +329,8 @@
       "fieldsRequestError": "Egyéni adatforrás API: mezők kérése. <br/> <br/> A végpont '<u> <a href='{0}'> {0} </a> </u>' válasz hibás formátumban van.",
       "membersRequestError": "Egyéni adatforrás API: a tagok kérik. <br/> <br/> A végpont '<u> <a href='{0}'> {0} </a> </u>' válasz nem megfelelő formátumban van."
     },
-    "wrongFormulaRecursive": "A <b>'{0}'</b> mérési képlet rekurzív módon nevezi magát. Kérjük, fontolja meg a rekurzió eltávolítását a képletből."
+    "wrongFormulaRecursive": "A <b>'{0}'</b> mérési képlet rekurzív módon nevezi magát. Kérjük, fontolja meg a rekurzió eltávolítását a képletből.",
+    "wrongFormulaAggregation": "A (z) <b>'{0}'</b> képletben a <b>'{1}'</b> aggregáció nem érvényes."
   },
   "kpis": {
     "kpis": "KPI-ok",

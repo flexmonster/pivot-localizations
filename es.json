@@ -329,7 +329,8 @@
       "fieldsRequestError": "API de fuente de datos personalizada: solicitud de campos. <br/> <br/> La respuesta del punto final '<u> <a href='{0}'> {0} </a> </u>' está en un formato incorrecto.",
       "membersRequestError": "API de fuente de datos personalizada: solicitud de los miembros. <br/> <br/> La respuesta del punto final '<u> <a href='{0}'> {0} </a> </u>' está en un formato incorrecto ."
     },
-    "wrongFormulaRecursive": "La fórmula para la <b>'{0}'</b> medida se llama recursivamente. Considere eliminar la recursividad de la fórmula."
+    "wrongFormulaRecursive": "La fórmula para la <b>'{0}'</b> medida se llama recursivamente. Considere eliminar la recursividad de la fórmula.",
+    "wrongFormulaAggregation": "La agregación <b>'{0}'</b> en la fórmula<b>'{1}'</b> no es válida."
   },
   "kpis": {
     "kpis": "KPIs",

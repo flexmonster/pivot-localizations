@@ -329,7 +329,8 @@
       "fieldsRequestError": "Custom data source API: запит на fields.<br/><br/>Відповідь з '<u><a href='{0}'>{0}</a></u>' має некоректний формат.",
       "membersRequestError": "Custom data source API: запит на members.<br/><br/>Відповідь з '<u><a href='{0}'>{0}</a></u>' має некоректний формат."
     },
-    "wrongFormulaRecursive": "Формула для <b>'{0}'</b> викликає себе рекурсивно. Будь ласка, приберіть рекурсію з формули."
+    "wrongFormulaRecursive": "Формула для <b>'{0}'</b> викликає себе рекурсивно. Будь ласка, приберіть рекурсію з формули.",
+    "wrongFormulaAggregation": "Агрегація <b>'{0}'</b> у формулі <b>'{0}'</b> недійсна."
   },
   "kpis": {
     "kpis": "KPIs",

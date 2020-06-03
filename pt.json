@@ -329,7 +329,8 @@
       "fieldsRequestError": "API dell'origine dati personalizzata: campi richiesti. <br/> <br/> La risposta dell'endpoint '<u> <a href='{0}'> {0} </a> </u>' ha un formato errato.",
       "membersRequestError": "API dell'origine dati personalizzata: richiesta dei membri. <br/> <br/> L'endpoint '<u> <a href='{0}'> {0} </a> </u>' ha un formato errato."
     },
-    "wrongFormulaRecursive": "A fórmula para a <b>'{0}'</b> medida se chama recursivamente. Por favor, considere remover a recursão da fórmula."
+    "wrongFormulaRecursive": "A fórmula para a <b>'{0}'</b> medida se chama recursivamente. Por favor, considere remover a recursão da fórmula.",
+    "wrongFormulaAggregation": "A agregação <b>'{0}'</b> na fórmula <b>'{1}'</b> não é válida."
   },
   "kpis": {
     "kpis": "KPIs",

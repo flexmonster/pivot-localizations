@@ -329,7 +329,8 @@
       "fieldsRequestError": "Custom data source API: 字段请求.<br/><br/>端点'<u> <a href='{0}'> {0} </a> </ u>'响应的格式不正确.",
       "membersRequestError": "Custom data source API: 会员要求.<br/><br/>端点'<u> <a href='{0}'> {0} </a> </ u>'响应的格式不正确."
     },
-    "wrongFormulaRecursive": "<b>'{0}'</b>度量公式递归地调用自身。请考虑从公式中删除递归。"
+    "wrongFormulaRecursive": "<b>'{0}'</b>度量公式递归地调用自身。请考虑从公式中删除递归。",
+    "wrongFormulaAggregation": "<b>'{1}'</b>公式中的聚合<b>'{0}'</b>无效。"
   },
   "kpis": {
     "kpis": "KPIs",
