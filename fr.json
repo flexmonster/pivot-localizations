@@ -327,7 +327,8 @@
       "serverOutdated": "API de source de données personnalisée: les versions de flexmonster.js et de l'API serveur ne sont pas compatibles. <br/> <br/> L'API serveur est obsolète. Veuillez mettre à jour l'API du serveur '<u> <a href='{0}'> {0} </a> </u>' vers la version minimale requise: {1}",
       "clientOutdated": "API de source de données personnalisée: les versions de flexmonster.js et de l'API serveur ne sont pas compatibles. <br/> <br/> Le flexmonster.js est obsolète. Veuillez mettre à jour flexmonster.js vers la version minimale requise: {0}",
       "fieldsRequestError": "API de source de données personnalisée: demande de champs. <br/> <br/> La réponse du point de terminaison '<u> <a href='{0}'> {0} </a> </u>' est dans un format incorrect .",
-      "membersRequestError": "API de source de données personnalisée: demande des membres. <br/> <br/> La réponse du point de terminaison '<u> <a href='{0}'> {0} </a> </u>' est dans un format incorrect ."
+      "membersRequestError": "API de source de données personnalisée: demande des membres. <br/> <br/> La réponse du point de terminaison '<u> <a href='{0}'> {0} </a> </u>' est dans un format incorrect .",
+      "noGridChartsMode": "Le mode grille et graphiques n'est pas pris en charge sous forme plate avec la source de données API."
     },
     "wrongFormulaRecursive": "La formule de <b>'{0}'</b> mesure s'appelle récursivement. Veuillez envisager de supprimer la récursivité de la formule.",
     "wrongFormulaAggregation": "L'agrégation <b>'{0}'</b> dans la formule <b>'{1}'</b> n'est pas valide."

@@ -327,7 +327,8 @@
       "serverOutdated": "API dell'origine dati personalizzata: le versioni di flexmonster.js e dell'API del server non sono compatibili. <br/> <br/> L'API del server non è aggiornata. Aggiorna l'API del server '<u> <a href='{0}'> {0} </a> </u>' alla versione minima richiesta: {1}",
       "clientOutdated": "API dell'origine dati personalizzata: le versioni di flexmonster.js e dell'API del server non sono compatibili. <br/> <br/> Flexmonster.js non è aggiornato. Aggiorna flexmonster.js alla versione minima richiesta: {0}",
       "fieldsRequestError": "API dell'origine dati personalizzata: campi richiesti. <br/> <br/> La risposta dell'endpoint '<u> <a href='{0}'> {0} </a> </u>' ha un formato errato .",
-      "membersRequestError": "API dell'origine dati personalizzata: richiesta dei membri. <br/> <br/> L'endpoint '<u> <a href='{0}'> {0} </a> </u>' ha un formato errato ."
+      "membersRequestError": "API dell'origine dati personalizzata: richiesta dei membri. <br/> <br/> L'endpoint '<u> <a href='{0}'> {0} </a> </u>' ha un formato errato .",
+      "noGridChartsMode": "La modalità griglia e grafici non è supportata in forma piatta con origine dati API."
     },
     "wrongFormulaRecursive": "La formula per la <b>'{0}'</b> misura si chiama ricorsivamente. Si prega di considerare la rimozione della ricorsione dalla formula.",
     "wrongFormulaAggregation": "L'aggregazione <b>'{0}'</b> nella formula <b>'{1}'</b> non è valida."

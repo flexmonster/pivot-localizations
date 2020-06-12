@@ -327,7 +327,8 @@
       "serverOutdated": "Custom data source API: версія flexmonster.js та версія API сервера не сумісні.<br/><br/>Версія API сервера застаріла. Будь-ласка оновіть API сервера '<u><a href='{0}'>{0}</a></u>' до мінімальної суміної версії: {1}",
       "clientOutdated": "Custom data source API: версія flexmonster.js та версія API сервера не сумісні.<br/><br/>Файл flexmonster.js застарів. Будь-ласка оновіть flexmonster.js до мінімальної суміної версії: {0}",
       "fieldsRequestError": "Custom data source API: запит на fields.<br/><br/>Відповідь з '<u><a href='{0}'>{0}</a></u>' має некоректний формат.",
-      "membersRequestError": "Custom data source API: запит на members.<br/><br/>Відповідь з '<u><a href='{0}'>{0}</a></u>' має некоректний формат."
+      "membersRequestError": "Custom data source API: запит на members.<br/><br/>Відповідь з '<u><a href='{0}'>{0}</a></u>' має некоректний формат.",
+      "noGridChartsMode": "Режим таблиць та графіків не підтримується для flat таблиць разом з API data source."
     },
     "wrongFormulaRecursive": "Формула для <b>'{0}'</b> викликає себе рекурсивно. Будь ласка, приберіть рекурсію з формули.",
     "wrongFormulaAggregation": "Агрегація <b>'{0}'</b> у формулі <b>'{0}'</b> недійсна."

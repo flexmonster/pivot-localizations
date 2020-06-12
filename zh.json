@@ -327,7 +327,8 @@
       "serverOutdated": "Custom data source API: flexmonster.js和服务器API的版本不兼容.<br/><br/>服务器API已过时。 请将服务器API'<u> <a href='{0}'> {0} </a> </ u>'更新为所需的最低版本：{1}",
       "clientOutdated": "Custom data source API: flexmonster.js和服务器API的版本不兼容.<br/><br/>flexmonster.js已过时。 请更新flexmonster.js到最低要求的版本：{0}",
       "fieldsRequestError": "Custom data source API: 字段请求.<br/><br/>端点'<u> <a href='{0}'> {0} </a> </ u>'响应的格式不正确.",
-      "membersRequestError": "Custom data source API: 会员要求.<br/><br/>端点'<u> <a href='{0}'> {0} </a> </ u>'响应的格式不正确."
+      "membersRequestError": "Custom data source API: 会员要求.<br/><br/>端点'<u> <a href='{0}'> {0} </a> </ u>'响应的格式不正确.",
+      "noGridChartsMode": "API数据源不以平面形式支持表格和图表模式."
     },
     "wrongFormulaRecursive": "<b>'{0}'</b>度量公式递归地调用自身。请考虑从公式中删除递归。",
     "wrongFormulaAggregation": "<b>'{1}'</b>公式中的聚合<b>'{0}'</b>无效。"
