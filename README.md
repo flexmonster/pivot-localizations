@@ -12,6 +12,9 @@ Website: www.flexmonster.com
 - [Italian](/it.json)
 - [Portuguese](/pt.json)
 - [Ukrainian](/uk.json)
+- [German](/de.json)
+- [Dutch](/nl.json)
+- [Turkish](/tr.json)
 
 ## Usage
 ```javaScript
