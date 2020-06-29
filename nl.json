@@ -10,7 +10,7 @@
     "addCalculatedMeasure": "Voeg berekende waarde toe",
     "expandAll": "Alles Uitklappen",
     "collapseAll": "Alles Inklappen",
-    "formulasGroupName": "Berekende waardes",
+    "formulasGroupName": "Berekende Waardes",
     "allFields": "Alle Velden",
     "rows": "Rijen",
     "columns": "Kolommen",
@@ -426,7 +426,7 @@
     "seventh": "Zaterdag"
   },
   "weekdaysShort": {
-   	"first": "Zon",
+    "first": "Zon",
     "second": "Maa",
     "third": "Din",
     "fourth": "Woe",
@@ -452,7 +452,7 @@
     "remote_report": "Extern rapport",
     "remote_report_mobile": "Rapport",
     "save": "Opslaan",
-	  "load_json": "JSON rapport",
+    "load_json": "JSON rapport",
     "grid": "Grid",
     "grid_flat": "Plat",
     "grid_classic": "Klassiek",
