@@ -26,7 +26,7 @@
     "selectAllResults": "Alle Ergebnisse auswählen",
     "top": "Anfang",
     "bottom": "Ende",
-    "ascSort": "Das",
+    "ascSort": "Az",
     "descSort": "zA",
     "measuresPrompt": "Wert auswählen",
     "search": "Suchen",
@@ -98,7 +98,7 @@
     "total": "Summe",
     "totals": "Summen",
     "grandTotal": "Gesamtsumme",
-    "blankMember": "(lesen)",
+    "blankMember": "(leer)",
     "dateInvalidCaption": "Ungültiges Datum",
     "reportInformation": "Informationen melden"
   },
@@ -194,7 +194,7 @@
       "grandTotalCaption": "Gesamtprodukt von {0}"
     },
     "min": {
-      "caption": "Mindest",
+      "caption": "Min",
       "totalCaption": "Min von {0}",
       "grandTotalCaption": "Gesamt Min von {0}"
     },
@@ -267,7 +267,7 @@
     "analyzingProgress": "{0} Datensaätze von {1} ({2}%)",
     "analyzingRecords": "{0}% Datensätze",
     "saving": "Speichere...",
-    "loadingDimensions": "Lass die Dimension ...",
+    "loadingDimensions": "Lade die Dimension ...",
     "loadingHierarchies": "Lade Hierarchien...",
     "loadingMeasures": "Lade Werte...",
     "loadingKPIs": "Laden von KPIs ...",
@@ -347,7 +347,7 @@
     "save": "Speichern",
     "clear": "Löschen",
     "select": "Auswählen",
-    "yes": "Und",
+    "yes": "Ja",
     "no": "Nein"
   },
   "contextMenu": {
@@ -380,7 +380,7 @@
     "year": "Jahr",
     "quarter": "Quartal",
     "month": "Monat",
-    "day": "Etikett"
+    "day": "Tag"
   },
   "quarters": {
     "q1": "1. Quartal",
@@ -393,7 +393,7 @@
     "february": "Februar",
     "march": "März",
     "april": "April",
-    "may": "Kann",
+    "may": "Mai",
     "june": "Juni",
     "july": "Juli",
     "august": "August",
@@ -403,18 +403,18 @@
     "december": "Dezember"
   },
   "monthsShort": {
-    "january": "Jan.",
-    "february": "Feb.",
-    "march": "Mär",
-    "april": "Apr.",
-    "may": "Kann",
-    "june": "Jun",
-    "july": "Jul",
-    "august": "Aug.",
-    "september": "Sep.",
-    "october": "Okt.",
-    "november": "Nov.",
-    "december": "Zehn"
+    "january": "Jan",	
+    "february": "Feb",	
+    "march": "Mär",	
+    "april": "Apr",	
+    "may": "Mai",	
+    "june": "Jun",	
+    "july": "Jul",	
+    "august": "Aug",	
+    "september": "Sep",	
+    "october": "Okt",	
+    "november": "Nov",	
+    "december": "Dez"
   },
   "weekdays": {
     "first": "sonntag",
@@ -426,20 +426,20 @@
     "seventh": "Samstag"
   },
   "weekdaysShort": {
-    "first": "So",
-    "second": "Mo.",
-    "third": "Von",
-    "fourth": "Mich",
-    "fifth": "Machen",
-    "sixth": "Fr.",
-    "seventh": "Zu"
+    "first": "So",	
+    "second": "Mo",	
+    "third": "Di",	
+    "fourth": "Mi",	
+    "fifth": "Do",	
+    "sixth": "Fr",	
+    "seventh": "Sa"
   },
   "toolbar": {
     "connect": "Verbinden",
     "connect_local_csv": "Mit lokalem CSV",
     "connect_local_ocsv": "Mit lokalem OCSV",
     "connect_local_json": "Mit lokalem JSON",
-    "connect_remote_csv": "Mit CSV auf dem Server",
+    "connect_remote_csv": "Mit CSV am Server",
     "connect_remote_csv_mobile": "CSV",
     "connect_remote_json": "Mit JSON am Server",
     "connect_remote_json_mobile": "JSON",
@@ -450,9 +450,9 @@
     "open": "Öffnen",
     "local_report": "Lokaler Bericht",
     "remote_report": "Bericht am Server",
-    "remote_report_mobile": "Botschaft",
+    "remote_report_mobile": "Bericht",
     "save": "Speichern",
-    "load_json": "JSON-Nachricht",
+    "load_json": "JSON Bericht",
     "grid": "Raster",
     "grid_flat": "Flach",
     "grid_classic": "Klassisch",
@@ -491,8 +491,8 @@
     "delete": "Löschen",
     "if": "Wenn",
     "then": "Dann",
-    "open_remote_csv": "Öffnen Sie CSV auf dem Server",
-    "open_remote_json": "Öffnen Sie JSON auf dem Server",
+    "open_remote_csv": "CSV am Server öffnen",	
+    "open_remote_json": "JSON am Server öffnen",
     "csv": "CSV",
     "olap_connection_tool": "OLAP-Verbindungstool",
     "select_data_source": "Datenquelle auswählen",
@@ -512,7 +512,7 @@
     "open_remote_report": "Bericht am Server öffnen",
     "choose_value": "Wert auswählen",
     "text_align": "Textausrichtung",
-    "align_left": "Links",
+    "align_left": "links",
     "align_right": "rechts",
     "none": "Kein",
     "space": "(Leerzeichen)",
@@ -538,7 +538,7 @@
     "equal_to": "Gleich wie",
     "not_equal_to": "Ungleich wie",
     "between": "Zwischen",
-    "is_empty": "Lesen",
+    "is_empty": "Leer",
     "all_values": "Alle Werte",
     "and": "und",
     "and_symbole": "&",
