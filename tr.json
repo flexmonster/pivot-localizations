@@ -25,11 +25,11 @@
     "selectAll": "Hepsini Seç",
     "selectAllResults": "Bütün Sonuçları Seç",
     "top": "Üst",
-    "bottom": "her şey",
-    "ascSort": "",
+    "bottom": "Alt",
+    "ascSort": "Az",
     "descSort": "zA",
     "measuresPrompt": "Değer seç",
-    "search": "Görmek",
+    "search": "Ara",
     "amountSelected": "{0}/{1} seçildi",
     "amountFound": "{1} sonuçtan {0} tanesi seçildi",
     "sort": "Sırala:",
@@ -139,7 +139,7 @@
       "grandTotalCaption": "{0} Toplamı"
     },
     "count": {
-      "caption": "Numara",
+      "caption": "Sayı",
       "totalCaption": "{0} Sayısı",
       "grandTotalCaption": "{0} Sayısı"
     },
@@ -195,8 +195,8 @@
     },
     "min": {
       "caption": "En Az",
-      "totalCaption": "{0} En azından",
-      "grandTotalCaption": "{0} En azından"
+      "totalCaption": "{0} En azı",
+      "grandTotalCaption": "{0} En azı"
     },
     "max": {
       "caption": "En Çok",
@@ -240,8 +240,8 @@
     },
     "index": {
       "caption": "Sıra",
-      "totalCaption": "{0} Dizi",
-      "grandTotalCaption": "{0} Dizi"
+      "totalCaption": "{0} Sırası",
+      "grandTotalCaption": "{0} Sırası"
     },
     "none": {
       "caption": "Hesaplama Yok"
@@ -379,7 +379,7 @@
   "date": {
     "year": "Yıl",
     "quarter": "Çeyrek",
-    "month": "evet",
+    "month": "Ay",
     "day": "Gün"
   },
   "quarters": {
@@ -402,37 +402,37 @@
     "november": "Kasım",
     "december": "Aralık"
   },
-  "monthsShort": {
-    "january": "baba",
-    "february": "Şbt",
-    "march": "Deniz",
-    "april": "Başlat",
-    "may": "Mayıs",
-    "june": "Yapmak",
-    "july": "Vardır",
-    "august": "Ağu",
-    "september": "Eyl",
-    "october": "eki",
-    "november": "Ne",
-    "december": "Görmek"
-  },
-  "weekdays": {
-    "first": "Pazar",
-    "second": "Pazartesi",
-    "third": "Salı",
-    "fourth": "Çarşamba",
-    "fifth": "Perşembe",
-    "sixth": "Sadece",
-    "seventh": "Cumartesi"
-  },
-  "weekdaysShort": {
-    "first": "Barış",
-    "second": "Pzt",
-    "third": "tuz",
-    "fourth": "dört",
-    "fifth": "İçin",
-    "sixth": "toplam",
-    "seventh": "cmt"
+  "monthsShort": {	
+    "january": "Oca",	
+    "february": "Şbt",	
+    "march": "Mar",	
+    "april": "Nis",	
+    "may": "May",	
+    "june": "Haz",	
+    "july": "Tem",	
+    "august": "Ağu",	
+    "september": "Eyl",	
+    "october": "Eki",	
+    "november": "Kas",	
+    "december": "Ara"	
+  },	
+  "weekdays": {	
+    "first": "Pazar",	
+    "second": "Pazartesi",	
+    "third": "Salı",	
+    "fourth": "Çarşamba",	
+    "fifth": "Perşembe",	
+    "sixth": "Cuma",	
+    "seventh": "Cumartesi"	
+  },	
+  "weekdaysShort": {	
+    "first": "Paz",	
+    "second": "Pzt",	
+    "third": "Sal",	
+    "fourth": "Çar",	
+    "fifth": "Per",	
+    "sixth": "Sum",	
+    "seventh": "Cmt"	
   },
   "toolbar": {
     "connect": "Bağlan",
@@ -453,8 +453,8 @@
     "remote_report_mobile": "Rapor",
     "save": "Kaydet",
     "load_json": "JSON raporu",
-    "grid": "Kafes",
-    "grid_flat": "Düz",
+    "grid": "Grid",
+    "grid_flat": "Flat",
     "grid_classic": "Klasik",
     "grid_compact": "Kompakt",
     "charts": "Grafikler",
@@ -474,8 +474,8 @@
     "conditional_formatting_mobile": "Koşullu",
     "options": "Seçenekler",
     "fullscreen": "Tam ekran",
-    "minimize": "çeşitlilik",
-    "export": "Daha",
+    "minimize": "Ufalt",
+    "export": "Aktar",
     "export_print": "Yazdır",
     "export_html": "Html'e",
     "export_csv": "CSV'ye",
@@ -512,7 +512,7 @@
     "open_remote_report": "Dış rapor aç",
     "choose_value": "Değer seç",
     "text_align": "Metin hizalama",
-    "align_left": "Güneş",
+    "align_left": "sol",
     "align_right": "sağ",
     "none": "Yok",
     "space": "(Boşluk)",
@@ -550,7 +550,7 @@
     "layout": "Düzen",
     "compact_view": "Kompakt form",
     "classic_view": "Klasik form",
-    "flat_view": "Düz form",
+    "flat_view": "Flat form",
     "grand_totals": "Genel toplamlar",
     "grand_totals_off": "Genel toplamları gösterme",
     "grand_totals_on": "Genel toplamları göster",
