@@ -514,6 +514,7 @@
     "text_align": "Вирівнювання тексту",
     "align_left": "наліво",
     "align_right": "направо",
+    "align_center": "центр",
     "none": "-",
     "space": "(пропуск)",
     "thousand_separator": "Роздільник тисяч",

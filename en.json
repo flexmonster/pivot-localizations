@@ -514,6 +514,7 @@
     "text_align": "Text align",
     "align_left": "left",
     "align_right": "right",
+    "align_center": "center",
     "none": "None",
     "space": "(Space)",
     "thousand_separator": "Thousand separator",

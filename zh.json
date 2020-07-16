@@ -514,6 +514,7 @@
     "text_align": "文字居中",
     "align_left": "居左",
     "align_right": "居右",
+    "align_center": "中央",
     "none": "不设置",
     "space": "(空格)",
     "thousand_separator": "千位分隔符",

@@ -514,6 +514,7 @@
     "text_align": "Metin hizalama",
     "align_left": "sol",
     "align_right": "sağ",
+    "align_center": "merkez",
     "none": "Yok",
     "space": "(Boşluk)",
     "thousand_separator": "Binlik ayıraç",

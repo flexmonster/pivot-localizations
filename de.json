@@ -514,6 +514,7 @@
     "text_align": "Textausrichtung",
     "align_left": "links",
     "align_right": "rechts",
+    "align_center": "center",
     "none": "Kein",
     "space": "(Leerzeichen)",
     "thousand_separator": "Tausendertrennzeichen",

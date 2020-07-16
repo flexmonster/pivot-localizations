@@ -514,6 +514,7 @@
     "text_align": "Texto alineado",
     "align_left": "izquierda",
     "align_right": "derecho",
+    "align_center": "centrar",
     "none": "Ninguna",
     "space": "(Espacio)",
     "thousand_separator": "Mil separadores",

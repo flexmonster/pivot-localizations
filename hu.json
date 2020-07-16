@@ -514,6 +514,7 @@
     "text_align": "Szöveg igazítása",
     "align_left": "balra",
     "align_right": "jobbra",
+    "align_center": "központ",
     "none": "nincs",
     "space": "(szóköz)",
     "thousand_separator": "Ezres helyiérték elválasztó",

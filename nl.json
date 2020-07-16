@@ -514,6 +514,7 @@
     "text_align": "Tekstuitlijning",
     "align_left": "links",
     "align_right": "rechts",
+    "align_center": "centrum",
     "none": "Geen",
     "space": "(Spatie)",
     "thousand_separator": "Duizendtal scheidingsteken",
