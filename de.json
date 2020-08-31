@@ -76,7 +76,7 @@
     "clearValueFilter": "Wertefilter löschen"
   },
   "drillThrough": {
-    "title": "Details",
+    "title": "Einzelheiten",
     "row": "Zeile: <b>{0}</b>",
     "column": "Spalte: <b>{0}</b>",
     "value": "{0}: <b>{1}</b>"
