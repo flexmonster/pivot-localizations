@@ -17,7 +17,20 @@
     "filters": "Rapor Filtreleri",
     "dropField": "Alanı buraya bırak",
     "title": "Alanlar",
-    "subtitle": "Düzenlemek için alanları sürükleyip bırakın"
+    "subtitle": "Düzenlemek için alanları sürükleyip bırakın",
+    "actions": {
+      "select": "Seçiniz",
+      "deselect": "Seçimi kaldır",
+      "expand": "Genişlet",
+      "collapse": "Çöküş",
+      "move_to_rows": "Satırlara git",
+      "move_to_columns": "Sütunlara git",
+      "move_to_filters": "Rapor filtrelerine git",
+      "move_to_values": "Değerlere git",
+      "move_up": "Yukarı taşı",
+      "move_down": "Aşağı inmek",
+      "edit_calculated_value": "Hesaplanan değeri düzenleyin"
+    }
   },
   "filter": {
     "all": "Hepsi",
@@ -92,7 +105,10 @@
     "removeValueTitle": "Kaldır {0}?",
     "removeValueMessage": "Bu hesaplanan değeri kaldırmak istediğinizden emin misiniz?",
     "header": "Hesaplanmış değer ekle",
-    "allValues": "Bütün Değerler"
+    "allValues": "Bütün Değerler",
+    "actions": {
+      "add_to_formula": "Formüle ekle"
+    }
   },
   "grid": {
     "total": "Toplam",
@@ -402,37 +418,37 @@
     "november": "Kasım",
     "december": "Aralık"
   },
-  "monthsShort": {	
-    "january": "Oca",	
-    "february": "Şbt",	
-    "march": "Mar",	
-    "april": "Nis",	
-    "may": "May",	
-    "june": "Haz",	
-    "july": "Tem",	
-    "august": "Ağu",	
-    "september": "Eyl",	
-    "october": "Eki",	
-    "november": "Kas",	
-    "december": "Ara"	
-  },	
-  "weekdays": {	
-    "first": "Pazar",	
-    "second": "Pazartesi",	
-    "third": "Salı",	
-    "fourth": "Çarşamba",	
-    "fifth": "Perşembe",	
-    "sixth": "Cuma",	
-    "seventh": "Cumartesi"	
-  },	
-  "weekdaysShort": {	
-    "first": "Paz",	
-    "second": "Pzt",	
-    "third": "Sal",	
-    "fourth": "Çar",	
-    "fifth": "Per",	
-    "sixth": "Sum",	
-    "seventh": "Cmt"	
+  "monthsShort": {
+    "january": "Oca",
+    "february": "Şbt",
+    "march": "Mar",
+    "april": "Nis",
+    "may": "May",
+    "june": "Haz",
+    "july": "Tem",
+    "august": "Ağu",
+    "september": "Eyl",
+    "october": "Eki",
+    "november": "Kas",
+    "december": "Ara"
+  },
+  "weekdays": {
+    "first": "Pazar",
+    "second": "Pazartesi",
+    "third": "Salı",
+    "fourth": "Çarşamba",
+    "fifth": "Perşembe",
+    "sixth": "Cuma",
+    "seventh": "Cumartesi"
+  },
+  "weekdaysShort": {
+    "first": "Paz",
+    "second": "Pzt",
+    "third": "Sal",
+    "fourth": "Çar",
+    "fifth": "Per",
+    "sixth": "Sum",
+    "seventh": "Cmt"
   },
   "toolbar": {
     "connect": "Bağlan",

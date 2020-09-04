@@ -17,7 +17,20 @@
     "filters": "Filtres",
     "dropField": "Glissez déposez ici",
     "title": "Champs",
-    "subtitle": "Glissez déposez les champs pour organiser"
+    "subtitle": "Glissez déposez les champs pour organiser",
+    "actions": {
+      "select": "Sélectionner",
+      "deselect": "Désélectionner",
+      "expand": "Développer",
+      "collapse": "Effondrer",
+      "move_to_rows": "Déplacer vers les lignes",
+      "move_to_columns": "Déplacer vers les colonnes",
+      "move_to_filters": "Déplacer vers les filtres de rapport",
+      "move_to_values": "Passer aux valeurs",
+      "move_up": "Déplacer vers le haut",
+      "move_down": "Descendre",
+      "edit_calculated_value": "Modifier la valeur calculée"
+    }
   },
   "filter": {
     "all": "Tous les éléments",
@@ -92,7 +105,10 @@
     "removeValueTitle": "Retirer {0}?",
     "removeValueMessage": "Êtes-vous sûr de vouloir supprimer cette valeur calculée?",
     "header": "Ajouter une valeur calculée",
-    "allValues": "Toutes les valeurs"
+    "allValues": "Toutes les valeurs",
+    "actions": {
+      "add_to_formula": "Ajouter à la formule"
+    }
   },
   "grid": {
     "total": "Total",

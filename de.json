@@ -17,7 +17,20 @@
     "filters": "Berichtsfilter",
     "dropField": "Feld hier ablegen",
     "title": "Felder",
-    "subtitle": "Felder ziehen und ablegen um sie anzuordnen"
+    "subtitle": "Felder ziehen und ablegen um sie anzuordnen",
+    "actions": {
+      "select": "Wählen",
+      "deselect": "Abwählen",
+      "expand": "Erweitern",
+      "collapse": "Zusammenbruch",
+      "move_to_rows": "In Zeilen verschieben",
+      "move_to_columns": "In Spalten verschieben",
+      "move_to_filters": "Bewegen Sie sich, um Filter zu melden",
+      "move_to_values": "Zu Werten wechseln",
+      "move_up": "Bewegen Sie sich nach oben",
+      "move_down": "Sich abwärts bewegen",
+      "edit_calculated_value": "Berechneten Wert bearbeiten"
+    }
   },
   "filter": {
     "all": "Alle",
@@ -92,7 +105,10 @@
     "removeValueTitle": "{0} entfernen?",
     "removeValueMessage": "Sind sie sicher, dass sie den berechneten Wert entfernen wollen?",
     "header": "Berechneten Wert hinzufügen",
-    "allValues": "Alle Werte"
+    "allValues": "Alle Werte",
+    "actions": {
+      "add_to_formula": "Zur Formel hinzufügen"
+    }
   },
   "grid": {
     "total": "Summe",
@@ -403,17 +419,17 @@
     "december": "Dezember"
   },
   "monthsShort": {
-    "january": "Jan",	
-    "february": "Feb",	
-    "march": "Mär",	
-    "april": "Apr",	
-    "may": "Mai",	
-    "june": "Jun",	
-    "july": "Jul",	
-    "august": "Aug",	
-    "september": "Sep",	
-    "october": "Okt",	
-    "november": "Nov",	
+    "january": "Jan",
+    "february": "Feb",
+    "march": "Mär",
+    "april": "Apr",
+    "may": "Mai",
+    "june": "Jun",
+    "july": "Jul",
+    "august": "Aug",
+    "september": "Sep",
+    "october": "Okt",
+    "november": "Nov",
     "december": "Dez"
   },
   "weekdays": {
@@ -426,12 +442,12 @@
     "seventh": "Samstag"
   },
   "weekdaysShort": {
-    "first": "So",	
-    "second": "Mo",	
-    "third": "Di",	
-    "fourth": "Mi",	
-    "fifth": "Do",	
-    "sixth": "Fr",	
+    "first": "So",
+    "second": "Mo",
+    "third": "Di",
+    "fourth": "Mi",
+    "fifth": "Do",
+    "sixth": "Fr",
     "seventh": "Sa"
   },
   "toolbar": {
@@ -491,7 +507,7 @@
     "delete": "Löschen",
     "if": "Wenn",
     "then": "Dann",
-    "open_remote_csv": "CSV am Server öffnen",	
+    "open_remote_csv": "CSV am Server öffnen",
     "open_remote_json": "JSON am Server öffnen",
     "csv": "CSV",
     "olap_connection_tool": "OLAP-Verbindungstool",

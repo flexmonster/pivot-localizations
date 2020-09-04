@@ -17,7 +17,20 @@
     "filters": "Фільтри",
     "dropField": "Перетягніть поля",
     "title": "Виміри",
-    "subtitle": "Перетягніть виміри"
+    "subtitle": "Перетягніть виміри",
+    "actions": {
+      "select": "Вибрати",
+      "deselect": "Скасувати вибір",
+      "expand": "Розгорнути",
+      "collapse": "Згорнути",
+      "move_to_rows": "Перемістити до рядків",
+      "move_to_columns": "Перемістити до колонок",
+      "move_to_filters": "Перемістити до фільтрів",
+      "move_to_values": "Перемістити до мір",
+      "move_up": "Перемістити вгору",
+      "move_down": "Перемістити вниз",
+      "edit_calculated_value": "Редагувати міру"
+    }
   },
   "filter": {
     "all": "Всі елементи",
@@ -92,7 +105,10 @@
     "removeValueTitle": "Видалити {0}?",
     "removeValueMessage": "Ви впевнені що бажаєте видалити цю міру?",
     "header": "Додати міру",
-    "allValues": "Всі міри"
+    "allValues": "Всі міри",
+    "actions": {
+      "add_to_formula": "Додати до формули"
+    }
   },
   "grid": {
     "total": "",

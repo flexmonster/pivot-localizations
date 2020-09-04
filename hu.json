@@ -17,7 +17,20 @@
     "filters": "Szűrők",
     "dropField": "Húzza ide a mezőket!",
     "title": "Kimutatásmezők",
-    "subtitle": "Húzza be, és rendezze a mezőket!"
+    "subtitle": "Húzza be, és rendezze a mezőket!",
+    "actions": {
+      "select": "Válassza a lehetőséget",
+      "deselect": "Törölje a kijelölést",
+      "expand": "Kiterjed",
+      "collapse": "Összeomlás",
+      "move_to_rows": "Ugrás sorokra",
+      "move_to_columns": "Ugrás az oszlopokra",
+      "move_to_filters": "Ugrás jelentésszűrőkhöz",
+      "move_to_values": "Ugrás az értékekre",
+      "move_up": "Menj felfelé",
+      "move_down": "Mozogj lefelé",
+      "edit_calculated_value": "Számított érték szerkesztése"
+    }
   },
   "filter": {
     "all": "Minden",
@@ -92,7 +105,10 @@
     "removeValueTitle": "Törli a {0}-t?",
     "removeValueMessage": "Biztos benne, hogy töröli ezt a kalkulált értéket?",
     "header": "Kalkulált érték hozzáadása",
-    "allValues": "Minden érték"
+    "allValues": "Minden érték",
+    "actions": {
+      "add_to_formula": "Hozzáadás a képlethez"
+    }
   },
   "grid": {
     "total": "Összeg",

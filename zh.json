@@ -17,7 +17,20 @@
     "filters": "报表筛选",
     "dropField": "从这里移除字段",
     "title": "字段",
-    "subtitle": "拖拽和移除字段来重排"
+    "subtitle": "拖拽和移除字段来重排",
+    "actions": {
+      "select": "选择",
+      "deselect": "取消选择",
+      "expand": "扩大",
+      "collapse": "坍方",
+      "move_to_rows": "移至列",
+      "move_to_columns": "移至栏",
+      "move_to_filters": "移至报告过滤器",
+      "move_to_values": "转向价值观",
+      "move_up": "提升",
+      "move_down": "下移",
+      "edit_calculated_value": "编辑计算值"
+    }
   },
   "filter": {
     "all": "所有",
@@ -92,7 +105,10 @@
     "removeValueTitle": "移除 {0}?",
     "removeValueMessage": "您确定要移除该已计算值吗?",
     "header": "增加已计算值",
-    "allValues": "所有值"
+    "allValues": "所有值",
+    "actions": {
+      "add_to_formula": "添加到公式"
+    }
   },
   "grid": {
     "total": "小计",

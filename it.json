@@ -17,7 +17,20 @@
     "filters": "Filtri Report",
     "dropField": "Rilascia il campo qui",
     "title": "Campi",
-    "subtitle": "Trascina e rilascia i campi per organizzare"
+    "subtitle": "Trascina e rilascia i campi per organizzare",
+    "actions": {
+      "select": "Selezionare",
+      "deselect": "Deseleziona",
+      "expand": "Espandere",
+      "collapse": "Crollo",
+      "move_to_rows": "Sposta nelle righe",
+      "move_to_columns": "Passa alle colonne",
+      "move_to_filters": "Passa ai filtri dei rapporti",
+      "move_to_values": "Passa ai valori",
+      "move_up": "Andare avanti",
+      "move_down": "Abbassati",
+      "edit_calculated_value": "Modifica il valore calcolato"
+    }
   },
   "filter": {
     "all": "Tutti",
@@ -92,7 +105,10 @@
     "removeValueTitle": "Rimuovere {0}?",
     "removeValueMessage": "Sei sicuro di voler rimuovere questo valore calcolato?",
     "header": "Aggiungi valore calcolato",
-    "allValues": "Tutti i valori"
+    "allValues": "Tutti i valori",
+    "actions": {
+      "add_to_formula": "Aggiungi alla formula"
+    }
   },
   "grid": {
     "total": "Totale",

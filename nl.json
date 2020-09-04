@@ -17,7 +17,20 @@
     "filters": "Rapport Filters",
     "dropField": "Drop veld hier",
     "title": "Velden",
-    "subtitle": "Drag-en-drop velden om te ordenen"
+    "subtitle": "Drag-en-drop velden om te ordenen",
+    "actions": {
+      "select": "Selecteer",
+      "deselect": "Selectie ongedaan maken",
+      "expand": "Uitbreiden",
+      "collapse": "Ineenstorting",
+      "move_to_rows": "Verplaats naar rijen",
+      "move_to_columns": "Verplaats naar kolommen",
+      "move_to_filters": "Ga naar rapportfilters",
+      "move_to_values": "Ga naar waarden",
+      "move_up": "Ga naar boven",
+      "move_down": "Naar beneden verplaatsen",
+      "edit_calculated_value": "Bewerk de berekende waarde"
+    }
   },
   "filter": {
     "all": "Alle",
@@ -92,7 +105,10 @@
     "removeValueTitle": "Verwijder {0}?",
     "removeValueMessage": "Weet u zeker dat u deze berekende waarde wilt verwijderen?",
     "header": "Voeg berekende waarde toe",
-    "allValues": "Alle waardes"
+    "allValues": "Alle waardes",
+    "actions": {
+      "add_to_formula": "Toevoegen aan formule"
+    }
   },
   "grid": {
     "total": "Totaal",

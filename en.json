@@ -17,7 +17,20 @@
     "filters": "Report Filters",
     "dropField": "Drop field here",
     "title": "Fields",
-    "subtitle": "Drag and drop fields to arrange"
+    "subtitle": "Drag and drop fields to arrange",
+    "actions": {
+      "select": "Select",
+      "deselect": "Deselect",
+      "expand": "Expand",
+      "collapse": "Collapse",
+      "move_to_rows": "Move to rows",
+      "move_to_columns": "Move to columns",
+      "move_to_filters": "Move to report filters",
+      "move_to_values": "Move to values",
+      "move_up": "Move up",
+      "move_down": "Move down",
+      "edit_calculated_value": "Edit calculated value"
+    }
   },
   "filter": {
     "all": "All",
@@ -92,7 +105,10 @@
     "removeValueTitle": "Remove {0}?",
     "removeValueMessage": "Are you sure you want to remove this calculated value?",
     "header": "Add calculated value",
-    "allValues": "All values"
+    "allValues": "All values",
+    "actions": {
+      "add_to_formula": "Add to formula"
+    }
   },
   "grid": {
     "total": "Total",
