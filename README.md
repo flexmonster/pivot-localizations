@@ -37,4 +37,4 @@ To learn more about localization files, refer to [our documentation](https://www
 See our [live Localization demo](https://www.flexmonster.com/demos/localization/).
 
 ## Contribution
-If you noticed a mistake or want to add a new language you are free to contribute. Please create a pull request with your changes, we will review them and merge to our repository.
+If you noticed a mistake or want to add a new language, you are free to contribute. Please create a pull request with your changes, we will review them and merge to our repository.
