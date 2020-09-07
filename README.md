@@ -1,6 +1,16 @@
 # Localization files for Flexmonster Pivot Table & Charts
-[![Flexmonster Pivot Table & Charts](https://s3.amazonaws.com/flexmonster/github/fm-github-cover.png)](http://flexmonster.com)
+[![Flexmonster Pivot Table & Charts](https://www.flexmonster.com/fm_uploads/2020/06/GitHub_fm.png)](https://flexmonster.com)
 Website: www.flexmonster.com
+
+## Flexmonster Pivot Table & Charts
+Flexmonster Pivot is a powerful JavaScript tool for interactive web reporting. It allows you to visualize and analyze data from JSON, CSV, SQL, NoSQL, Elasticsearch, and OLAP data sources fast and conveniently. Flexmonster is designed to integrate seamlessly with any client-side framework and can be easily embedded into your application.
+
+This repository holds the localization files for Flexmonster Pivot, which allow easily localize the component:
+
+* [Available localizations](#available-localizations)
+* [Usage](#usage)
+* [Example](#example)
+* [Contribution](#contribution)
 
 ## Available localizations
 
@@ -17,15 +27,14 @@ Website: www.flexmonster.com
 - [Turkish](/tr.json)
 
 ## Usage
-```javaScript
-var pivot = new Flexmonster({
-  container: "#pivot-container",
-  global: {
-    localization: "es.json"
-  }
-});
-```
-[Documentation](http://www.flexmonster.com/doc/localizing-component/) | [Live demo](http://www.flexmonster.com/demos/localization/)
+
+For details on how to set localization for the component, see the [localization guide](https://www.flexmonster.com/doc/localizing-component/#!set-localization).
+
+To learn more about localization files, refer to [our documentation](https://www.flexmonster.com/doc/localizing-component/#!create-localization-file).
+
+## Example
+
+See our [live Localization demo](https://www.flexmonster.com/demos/localization/).
 
 ## Contribution
 If you noticed a mistake or want to add a new language you are free to contribute. Please create a pull request with your changes, we will review them and merge to our repository.
