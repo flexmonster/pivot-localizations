@@ -347,7 +347,8 @@
       "noGridChartsMode": "El modo de cuadrícula y gráficos no se admite en forma plana con la fuente de datos API."
     },
     "wrongFormulaRecursive": "La fórmula para la <b>'{0}'</b> medida se llama recursivamente. Considere eliminar la recursividad de la fórmula.",
-    "wrongFormulaAggregation": "La agregación <b>'{0}'</b> en la fórmula<b>'{1}'</b> no es válida."
+    "wrongFormulaAggregation": "La agregación <b>'{0}'</b> en la fórmula<b>'{1}'</b> no es válida.",
+    "wrongFormulaEmpty": "La fórmula no debe estar vacía."
   },
   "kpis": {
     "kpis": "KPIs",

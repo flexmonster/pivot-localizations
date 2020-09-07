@@ -347,7 +347,8 @@
       "noGridChartsMode": "Raster- en diagrammodus wordt niet ondersteund in platte vorm met API-gegevensbron."
     },
     "wrongFormulaRecursive": "De formule voor <b>&#39;{0}&#39;</b> meet noemt zichzelf recursief. Overweeg om recursie uit de formule te verwijderen.",
-    "wrongFormulaAggregation": "De aggregatie <b>&#39;{0}&#39;</b> in de formule <b>&#39;{1}&#39;</b> is niet geldig."
+    "wrongFormulaAggregation": "De aggregatie <b>&#39;{0}&#39;</b> in de formule <b>&#39;{1}&#39;</b> is niet geldig.",
+    "wrongFormulaEmpty": "De formule mag niet leeg zijn."
   },
   "kpis": {
     "kpis": "KPI's",

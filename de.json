@@ -347,7 +347,8 @@
       "noGridChartsMode": "Der Raster- und Diagrammmodus wird in flacher Form mit API-Datenquelle nicht unterstützt."
     },
     "wrongFormulaRecursive": "Die Formel für <b>die</b> Kennzahl <b>&#39;{0}&#39;</b> ruft sich rekursiv auf. Bitte entfernen Sie die Rekursion aus der Formel.",
-    "wrongFormulaAggregation": "Die Aggregation <b>&#39;{0}&#39;</b> in der Formel <b>&#39;{1}&#39;</b> ist ungültig."
+    "wrongFormulaAggregation": "Die Aggregation <b>&#39;{0}&#39;</b> in der Formel <b>&#39;{1}&#39;</b> ist ungültig.",
+    "wrongFormulaEmpty": "Die Formel sollte nicht leer sein."
   },
   "kpis": {
     "kpis": "KPIs",

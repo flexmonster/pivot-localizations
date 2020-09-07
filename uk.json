@@ -19,17 +19,17 @@
     "title": "Виміри",
     "subtitle": "Перетягніть виміри",
     "actions": {
-      "select": "Вибрати",
+      "select": "Виберіть",
       "deselect": "Скасувати вибір",
       "expand": "Розгорнути",
       "collapse": "Згорнути",
-      "move_to_rows": "Перемістити до рядків",
-      "move_to_columns": "Перемістити до колонок",
-      "move_to_filters": "Перемістити до фільтрів",
-      "move_to_values": "Перемістити до мір",
-      "move_up": "Перемістити вгору",
-      "move_down": "Перемістити вниз",
-      "edit_calculated_value": "Редагувати міру"
+      "move_to_rows": "Переміщення в рядки",
+      "move_to_columns": "Перейти до стовпців",
+      "move_to_filters": "Перейти до фільтрів звітів",
+      "move_to_values": "Перехід до значень",
+      "move_up": "Рухатися вгору",
+      "move_down": "Рухатися вниз",
+      "edit_calculated_value": "Відредагуйте розраховане значення"
     }
   },
   "filter": {
@@ -347,7 +347,8 @@
       "noGridChartsMode": "Режим таблиць та графіків не підтримується для flat таблиць разом з API data source."
     },
     "wrongFormulaRecursive": "Формула для <b>'{0}'</b> викликає себе рекурсивно. Будь ласка, приберіть рекурсію з формули.",
-    "wrongFormulaAggregation": "Агрегація <b>'{0}'</b> у формулі <b>'{0}'</b> недійсна."
+    "wrongFormulaAggregation": "Агрегація <b>'{0}'</b> у формулі <b>'{0}'</b> недійсна.",
+    "wrongFormulaEmpty": "Формула не повинна бути порожньою."
   },
   "kpis": {
     "kpis": "KPIs",

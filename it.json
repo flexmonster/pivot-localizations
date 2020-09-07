@@ -347,7 +347,8 @@
       "noGridChartsMode": "La modalità griglia e grafici non è supportata in forma piatta con origine dati API."
     },
     "wrongFormulaRecursive": "La formula per la <b>'{0}'</b> misura si chiama ricorsivamente. Si prega di considerare la rimozione della ricorsione dalla formula.",
-    "wrongFormulaAggregation": "L'aggregazione <b>'{0}'</b> nella formula <b>'{1}'</b> non è valida."
+    "wrongFormulaAggregation": "L'aggregazione <b>'{0}'</b> nella formula <b>'{1}'</b> non è valida.",
+    "wrongFormulaEmpty": "La formula non dovrebbe essere vuota."
   },
   "kpis": {
     "kpis": "KPI",

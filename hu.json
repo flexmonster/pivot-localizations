@@ -347,7 +347,8 @@
       "noGridChartsMode": "A rács- és diagramm módot nem támogatják sík formában az API-adatforrás."
     },
     "wrongFormulaRecursive": "A <b>'{0}'</b> mérési képlet rekurzív módon nevezi magát. Kérjük, fontolja meg a rekurzió eltávolítását a képletből.",
-    "wrongFormulaAggregation": "A (z) <b>'{0}'</b> képletben a <b>'{1}'</b> aggregáció nem érvényes."
+    "wrongFormulaAggregation": "A (z) <b>'{0}'</b> képletben a <b>'{1}'</b> aggregáció nem érvényes.",
+    "wrongFormulaEmpty": "A képlet nem lehet üres."
   },
   "kpis": {
     "kpis": "KPI-ok",

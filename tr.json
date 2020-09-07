@@ -347,7 +347,8 @@
       "noGridChartsMode": "Izgara ve grafikler modu, API veri kaynağıyla düz biçimde desteklenmez."
     },
     "wrongFormulaRecursive": "<b>&#39;{0}&#39;</b> ölçüsü formülü kendini yinelemeli olarak çağırıyor. Lütfen formüldeki özyinelemeyi kaldırmayı düşünün.",
-    "wrongFormulaAggregation": "<b>&#39;{1}&#39;</b> formülündeki <b>&#39;{0}&#39;</b> toplama geçerli değil."
+    "wrongFormulaAggregation": "<b>&#39;{1}&#39;</b> formülündeki <b>&#39;{0}&#39;</b> toplama geçerli değil.",
+    "wrongFormulaEmpty": "Formül boş bırakılmamalıdır."
   },
   "kpis": {
     "kpis": "APG",

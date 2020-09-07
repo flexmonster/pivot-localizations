@@ -347,7 +347,8 @@
       "noGridChartsMode": "Grid and charts mode is not supported in flat form with API data source."
     },
     "wrongFormulaRecursive": "The formula for <b>'{0}'</b> measure calls itself recursively. Please consider removing recursion from the formula.",
-    "wrongFormulaAggregation": "The aggregation <b>'{0}'</b> in the <b>'{1}'</b> formula is not valid."
+    "wrongFormulaAggregation": "The aggregation <b>'{0}'</b> in the <b>'{1}'</b> formula is not valid.",
+    "wrongFormulaEmpty": "The formula should not be empty."
   },
   "kpis": {
     "kpis": "KPIs",

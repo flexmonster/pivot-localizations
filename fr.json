@@ -347,7 +347,8 @@
       "noGridChartsMode": "Le mode grille et graphiques n'est pas pris en charge sous forme plate avec la source de données API."
     },
     "wrongFormulaRecursive": "La formule de <b>'{0}'</b> mesure s'appelle récursivement. Veuillez envisager de supprimer la récursivité de la formule.",
-    "wrongFormulaAggregation": "L'agrégation <b>'{0}'</b> dans la formule <b>'{1}'</b> n'est pas valide."
+    "wrongFormulaAggregation": "L'agrégation <b>'{0}'</b> dans la formule <b>'{1}'</b> n'est pas valide.",
+    "wrongFormulaEmpty": "La formule ne doit pas être vide."
   },
   "kpis": {
     "kpis": "ICP",

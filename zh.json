@@ -347,7 +347,8 @@
       "noGridChartsMode": "API数据源不以平面形式支持表格和图表模式."
     },
     "wrongFormulaRecursive": "<b>'{0}'</b>度量公式递归地调用自身。请考虑从公式中删除递归。",
-    "wrongFormulaAggregation": "<b>'{1}'</b>公式中的聚合<b>'{0}'</b>无效。"
+    "wrongFormulaAggregation": "<b>'{1}'</b>公式中的聚合<b>'{0}'</b>无效。",
+    "wrongFormulaEmpty": "公式不能为空。"
   },
   "kpis": {
     "kpis": "KPIs",
