@@ -391,7 +391,9 @@
     "showProperty": "Показати <b>{0}</b>",
     "hideProperty": "Сховати <b>{0}</b>",
     "groupMembers": "Групувати",
-    "ungroupMembers": "Розгрупувати"
+    "ungroupMembers": "Розгрупувати",
+    "showSubtotals": "Показати проміжні підсумки",
+    "hideSubtotals": "Приховати проміжні підсумки"
   },
   "date": {
     "year": "Рік",

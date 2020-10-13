@@ -391,7 +391,9 @@
     "showProperty": "Spectacle <b>{0}</b>",
     "hideProperty": "Cacher <b>{0}</b>",
     "groupMembers": "Les membres du groupe",
-    "ungroupMembers": "Dissocier les membres"
+    "ungroupMembers": "Dissocier les membres",
+    "showSubtotals": "Afficher les sous-totaux",
+    "hideSubtotals": "Masquer les sous-totaux"
   },
   "date": {
     "year": "Année",

@@ -391,7 +391,9 @@
     "showProperty": "<b>{0} weergeven</b>",
     "hideProperty": "<b>{0}</b> verbergen",
     "groupMembers": "Groepsleden",
-    "ungroupMembers": "Groepering van leden opheffen"
+    "ungroupMembers": "Groepering van leden opheffen",
+    "showSubtotals": "Toon subtotalen",
+    "hideSubtotals": "Verberg subtotalen"
   },
   "date": {
     "year": "Jaar",

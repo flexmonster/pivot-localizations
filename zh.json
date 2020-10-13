@@ -391,7 +391,9 @@
     "showProperty": "显示 <b>{0}</b>",
     "hideProperty": "隐藏<b>{0}</b>",
     "groupMembers": "小组成员",
-    "ungroupMembers": "取消组合成员"
+    "ungroupMembers": "取消组合成员",
+    "showSubtotals": "显示小计",
+    "hideSubtotals": "隐藏小计"
   },
   "date": {
     "year": "年",

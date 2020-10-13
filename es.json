@@ -391,7 +391,9 @@
     "showProperty": "Mostrar <b>{0}</b>",
     "hideProperty": "Esconder <b>{0}</b>",
     "groupMembers": "Miembros del grupo",
-    "ungroupMembers": "Desagrupar miembros"
+    "ungroupMembers": "Desagrupar miembros",
+    "showSubtotals": "Mostrar subtotales",
+    "hideSubtotals": "Ocultar subtotales"
   },
   "date": {
     "year": "Año",

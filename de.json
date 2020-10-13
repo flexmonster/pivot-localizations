@@ -391,7 +391,9 @@
     "showProperty": "Zeige <b>{0}</b>",
     "hideProperty": "<b>{0}</b> ausblenden",
     "groupMembers": "Gruppenmitglieder",
-    "ungroupMembers": "Mitglieder aus der Gruppe entfernen"
+    "ungroupMembers": "Mitglieder aus der Gruppe entfernen",
+    "showSubtotals": "Zwischensummen anzeigen",
+    "hideSubtotals": "Zwischensummen ausblenden"
   },
   "date": {
     "year": "Jahr",

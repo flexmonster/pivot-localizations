@@ -391,7 +391,9 @@
     "showProperty": "<b>{0}</b> göster",
     "hideProperty": "<b>{0}</b> gizle",
     "groupMembers": "Grup üyeleri",
-    "ungroupMembers": "Grup üyelerini çöz"
+    "ungroupMembers": "Grup üyelerini çöz",
+    "showSubtotals": "Alt toplamları göster",
+    "hideSubtotals": "Alt toplamları gizle"
   },
   "date": {
     "year": "Yıl",

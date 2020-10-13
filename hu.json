@@ -391,7 +391,9 @@
     "showProperty": "Előadás <b>{0}</b>",
     "hideProperty": "Elrejt <b>{0}</b>",
     "groupMembers": "Csoporttagok",
-    "ungroupMembers": "A tagok csoportosítása"
+    "ungroupMembers": "A tagok csoportosítása",
+    "showSubtotals": "Részösszegek megjelenítése",
+    "hideSubtotals": "Részösszegek elrejtése"
   },
   "date": {
     "year": "Év",
