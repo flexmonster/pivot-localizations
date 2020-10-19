@@ -393,7 +393,9 @@
     "groupMembers": "Groepsleden",
     "ungroupMembers": "Groepering van leden opheffen",
     "showSubtotals": "Toon subtotalen",
-    "hideSubtotals": "Verberg subtotalen"
+    "hideSubtotals": "Verberg subtotalen",
+    "drillUp": "Boor op",
+    "drillDown": "Boor naar beneden"
   },
   "date": {
     "year": "Jaar",

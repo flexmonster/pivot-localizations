@@ -393,7 +393,9 @@
     "groupMembers": "Групувати",
     "ungroupMembers": "Розгрупувати",
     "showSubtotals": "Показати проміжні підсумки",
-    "hideSubtotals": "Приховати проміжні підсумки"
+    "hideSubtotals": "Приховати проміжні підсумки",
+    "drillUp": "Розгорнути рівень",
+    "drillDown": "Згорнути рівень"
   },
   "date": {
     "year": "Рік",

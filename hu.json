@@ -393,7 +393,9 @@
     "groupMembers": "Csoporttagok",
     "ungroupMembers": "A tagok csoportosítása",
     "showSubtotals": "Részösszegek megjelenítése",
-    "hideSubtotals": "Részösszegek elrejtése"
+    "hideSubtotals": "Részösszegek elrejtése",
+    "drillUp": "Fúrja fel",
+    "drillDown": "Fúrja le"
   },
   "date": {
     "year": "Év",

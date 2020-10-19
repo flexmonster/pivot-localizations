@@ -393,7 +393,9 @@
     "groupMembers": "Gruppenmitglieder",
     "ungroupMembers": "Mitglieder aus der Gruppe entfernen",
     "showSubtotals": "Zwischensummen anzeigen",
-    "hideSubtotals": "Zwischensummen ausblenden"
+    "hideSubtotals": "Zwischensummen ausblenden",
+    "drillUp": "Drill up",
+    "drillDown": "Aufreißen"
   },
   "date": {
     "year": "Jahr",

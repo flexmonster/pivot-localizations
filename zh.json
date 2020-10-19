@@ -393,7 +393,9 @@
     "groupMembers": "小组成员",
     "ungroupMembers": "取消组合成员",
     "showSubtotals": "显示小计",
-    "hideSubtotals": "隐藏小计"
+    "hideSubtotals": "隐藏小计",
+    "drillUp": "向上钻",
+    "drillDown": "下钻"
   },
   "date": {
     "year": "年",

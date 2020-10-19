@@ -393,7 +393,9 @@
     "groupMembers": "Raggruppa membri",
     "ungroupMembers": "Non raggruppare membri",
     "showSubtotals": "Mostra i subtotali",
-    "hideSubtotals": "Nascondi i totali parziali"
+    "hideSubtotals": "Nascondi i totali parziali",
+    "drillUp": "Drill up",
+    "drillDown": "Scavare a fondo"
   },
   "date": {
     "year": "Anno",

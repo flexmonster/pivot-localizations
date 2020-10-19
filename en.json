@@ -393,7 +393,9 @@
     "groupMembers": "Group members",
     "ungroupMembers": "Ungroup members",
     "showSubtotals": "Show subtotals",
-    "hideSubtotals": "Hide subtotals"
+    "hideSubtotals": "Hide subtotals",
+    "drillUp": "Drill up",
+    "drillDown": "Drill down"
   },
   "date": {
     "year": "Year",

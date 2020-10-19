@@ -393,7 +393,9 @@
     "groupMembers": "Grup üyeleri",
     "ungroupMembers": "Grup üyelerini çöz",
     "showSubtotals": "Alt toplamları göster",
-    "hideSubtotals": "Alt toplamları gizle"
+    "hideSubtotals": "Alt toplamları gizle",
+    "drillUp": "Detaylara git",
+    "drillDown": "Derinlemesine"
   },
   "date": {
     "year": "Yıl",
