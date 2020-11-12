@@ -116,7 +116,8 @@
     "grandTotal": "Gran Totale",
     "blankMember": "(vuoto)",
     "dateInvalidCaption": "Data non valida",
-    "reportInformation": "Informazioni Report"
+    "reportInformation": "Informazioni Report",
+    "dateNullCaption": "null"
   },
   "charts": {
     "showLegend": "Mostra legenda",

@@ -116,7 +116,8 @@
     "grandTotal": "Somme finale",
     "blankMember": "(blanc)",
     "dateInvalidCaption": "Date invalide",
-    "reportInformation": "Rapport d'informations"
+    "reportInformation": "Rapport d'informations",
+    "dateNullCaption": "null"
   },
   "charts": {
     "showLegend": "Afficher la légende",

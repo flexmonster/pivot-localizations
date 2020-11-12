@@ -116,7 +116,8 @@
     "grandTotal": "Gesamtsumme",
     "blankMember": "(leer)",
     "dateInvalidCaption": "Ungültiges Datum",
-    "reportInformation": "Informationen melden"
+    "reportInformation": "Informationen melden",
+    "dateNullCaption": "null"
   },
   "charts": {
     "showLegend": "Legende anzeigen",

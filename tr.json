@@ -116,7 +116,8 @@
     "grandTotal": "Genel Toplam",
     "blankMember": "(boş)",
     "dateInvalidCaption": "Geçersiz tarih",
-    "reportInformation": "Rapor Bilgisi"
+    "reportInformation": "Rapor Bilgisi",
+    "dateNullCaption": "null"
   },
   "charts": {
     "showLegend": "Göstergeyi göster",

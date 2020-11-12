@@ -116,7 +116,8 @@
     "grandTotal": "Eindtotaal",
     "blankMember": "(leeg)",
     "dateInvalidCaption": "Ongeldige datum",
-    "reportInformation": "Rapport Informatie"
+    "reportInformation": "Rapport Informatie",
+    "dateNullCaption": "null"
   },
   "charts": {
     "showLegend": "Legenda weergeven",
