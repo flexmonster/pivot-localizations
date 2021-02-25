@@ -86,7 +86,8 @@
     "clearLabelFilter": "Etiket filtresini temizle",
     "clearNumberFilter": "Etiket filtresini temizle",
     "clearTimeFilter": "Zaman filtresini temizle",
-    "clearValueFilter": "Değer filtresini temizle"
+    "clearValueFilter": "Değer filtresini temizle",
+    "noAvailableValues": "Kullanılabilir değer yok"
   },
   "drillThrough": {
     "title": "Detay",

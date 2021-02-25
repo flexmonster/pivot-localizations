@@ -86,7 +86,8 @@
     "clearLabelFilter": "清除标签过滤器",
     "clearNumberFilter": "清除标签过滤器",
     "clearTimeFilter": "清除时间过滤器",
-    "clearValueFilter": "清除值过滤器"
+    "clearValueFilter": "清除值过滤器",
+    "noAvailableValues": "无可用值"
   },
   "drillThrough": {
     "title": "详情",

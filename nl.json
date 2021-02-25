@@ -86,7 +86,8 @@
     "clearLabelFilter": "Labelfilter wissen",
     "clearNumberFilter": "Labelfilter wissen",
     "clearTimeFilter": "Tijdfilter wissen",
-    "clearValueFilter": "Waardefilter wissen"
+    "clearValueFilter": "Waardefilter wissen",
+    "noAvailableValues": "Geen beschikbare waarden"
   },
   "drillThrough": {
     "title": "Details",

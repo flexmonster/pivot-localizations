@@ -86,7 +86,8 @@
     "clearLabelFilter": "Clear label filter",
     "clearNumberFilter": "Clear label filter",
     "clearTimeFilter": "Clear time filter",
-    "clearValueFilter": "Clear value filter"
+    "clearValueFilter": "Clear value filter",
+    "noAvailableValues": "No available values"
   },
   "drillThrough": {
     "title": "Details",

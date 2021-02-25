@@ -86,7 +86,8 @@
     "clearLabelFilter": "Effacer le filtre de l'étiquette",
     "clearNumberFilter": "Effacer le filtre de l'étiquette",
     "clearTimeFilter": "Effacer le filtre temporel",
-    "clearValueFilter": "Effacer le filtre de valeur"
+    "clearValueFilter": "Effacer le filtre de valeur",
+    "noAvailableValues": "Aucune valeur disponible"
   },
   "drillThrough": {
     "title": "Détails",

@@ -86,7 +86,8 @@
     "clearLabelFilter": "Видалити фільр по назвах",
     "clearNumberFilter": "Видалити фільр по датах",
     "clearTimeFilter": "Видалити фільр по часу",
-    "clearValueFilter": "Видалити фільр по значеннях"
+    "clearValueFilter": "Видалити фільр по значеннях",
+    "noAvailableValues": "Немає доступних значень"
   },
   "drillThrough": {
     "title": "Деталі",

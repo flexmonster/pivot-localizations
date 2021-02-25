@@ -86,7 +86,8 @@
     "clearLabelFilter": "Törölje a címke szűrőt",
     "clearNumberFilter": "Törölje a címke szűrőt",
     "clearTimeFilter": "Tiszta időszűrő",
-    "clearValueFilter": "Tiszta érték szűrő"
+    "clearValueFilter": "Tiszta érték szűrő",
+    "noAvailableValues": "Nincs elérhető érték"
   },
   "drillThrough": {
     "title": "Részletek",
