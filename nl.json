@@ -564,6 +564,7 @@
     "between": "Tussen",
     "is_empty": "Leeg",
     "all_values": "Alle waardes",
+    "default_value": "Standaardwaarde",
     "and": "en",
     "and_symbole": "&",
     "no_active_conditions": "Er zijn geen actieve voorwaarden.",

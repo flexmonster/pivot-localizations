@@ -564,6 +564,7 @@
     "between": "Tra",
     "is_empty": "Vuoto",
     "all_values": "Tutti i valori",
+    "default_value": "Valore di default",
     "and": "e",
     "and_symbole": "&",
     "no_active_conditions": "Non ci sono condizioni attive.",

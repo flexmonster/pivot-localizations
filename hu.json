@@ -564,6 +564,7 @@
     "between": "két érték között",
     "is_empty": "hiányzó érték",
     "all_values": "minden érték",
+    "default_value": "Alapértelmezett érték",
     "and": "és",
     "and_symbole": "&",
     "no_active_conditions": "Nincsenek aktív feltételek.",

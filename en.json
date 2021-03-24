@@ -564,6 +564,7 @@
     "between": "Between",
     "is_empty": "Empty",
     "all_values": "All values",
+    "default_value": "Default value",
     "and": "and",
     "and_symbole": "&",
     "no_active_conditions": "There are no active conditions.",

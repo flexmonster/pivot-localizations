@@ -564,6 +564,7 @@
     "between": "Arasında",
     "is_empty": "Boş",
     "all_values": "Bütün değerler",
+    "default_value": "Varsayılan değer",
     "and": "ve",
     "and_symbole": "&",
     "no_active_conditions": "Aktif koşul yoktur.",
