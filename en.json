@@ -301,6 +301,7 @@
     "pagesWereGenerated": "pages were generated.",
     "uploading": "Uploading...",
     "cantSaveFile": "Cannot save file. <br/>Details: {0}",
+    "cantSaveFileNoDetails": "Cannot save file.",
     "cantSaveToClipboard": "Error: Cannot write to the clipboard.",
     "saveReportToFile": "Report is ready to be saved to file, please click \"Save\" button to save the report.",
     "loadReportFromFile": "Select report file to be loaded.",

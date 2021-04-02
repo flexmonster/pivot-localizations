@@ -301,6 +301,7 @@
     "pagesWereGenerated": "sayfalar oluşturuldu.",
     "uploading": "Yükleniyor...",
     "cantSaveFile": "Dosya kaydedilemedi. <br/>Detay: {0}",
+    "cantSaveFileNoDetails": "Dosya kaydedilemedi.",
     "cantSaveToClipboard": "Hata: Panoya yazılamıyor.",
     "saveReportToFile": "\"Rapor dosyaya kaydedilmeye hazır, lütfen raporu kaydetmek için \"Kaydet\" düğmesini tıklayın.\"",
     "loadReportFromFile": "Yüklenecek rapor dosyasını seçin.",

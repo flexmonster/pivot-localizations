@@ -301,6 +301,7 @@
     "pagesWereGenerated": "pagina's zijn gegenereerd.",
     "uploading": "Uploaden...",
     "cantSaveFile": "Kan bestand niet opslaan. <br/>Details: {0}",
+    "cantSaveFileNoDetails": "Kan bestand niet opslaan.",
     "cantSaveToClipboard": "Fout: Kan niet schrijven naar klipbord.",
     "saveReportToFile": "Rapport is klaar om opgeslagen te worden als bestand, klik de \"Opslaan\" knop om het rapport op te slaan.",
     "loadReportFromFile": "Selecteer rapport om in te laden.",

@@ -301,6 +301,7 @@
     "pagesWereGenerated": "页面已生成.",
     "uploading": "上传中...",
     "cantSaveFile": "不能保存文件. <br/>详情: {0}",
+    "cantSaveFileNoDetails": "不能保存文件.",
     "cantSaveToClipboard": "错误:无法写入剪切板.",
     "saveReportToFile": "报告已准备保存到文件,请单击\"保存\"按钮保存报表.",
     "loadReportFromFile": "选择报表文件加载.",

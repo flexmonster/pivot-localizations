@@ -301,6 +301,7 @@
     "pagesWereGenerated": "pagine sono state generate.",
     "uploading": "Caricando...",
     "cantSaveFile": "Non posso salvare il file. <br/> Dettagli: {0}",
+    "cantSaveFileNoDetails": "Non posso salvare il file.",
     "cantSaveToClipboard": "Errore: Non riesco ad accedere agli appunti.",
     "saveReportToFile": "Il report e' pronto per essere salvato su file, prego cliccare sul bottone \"Salva\" per procedere al salvataggio.",
     "loadReportFromFile": "Seleziona il report da caricare.",

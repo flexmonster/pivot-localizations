@@ -301,6 +301,7 @@
     "pagesWereGenerated": "Seiten wurden erzeugt.",
     "uploading": "Hochladen...",
     "cantSaveFile": "Datei kann nicht gespeichert werden. <br/> Details: {0}",
+    "cantSaveFileNoDetails": "Datei kann nicht gespeichert werden.",
     "cantSaveToClipboard": "Fehler: Daten können nicht in Zwischenablage gespeichert werden.",
     "saveReportToFile": "Der Bericht ist fertig um gespeichertzu werden, bitte Klicken sie \"Speichern\" um ihn abzuspecihern",
     "loadReportFromFile": "Berichtsdatei auswählen, die geladen werden soll.",
