@@ -588,7 +588,7 @@
     "subtotals_on_rows": "仅在行显示小计",
     "text_align": "文字居中",
     "then": "那么",
-    "thousand_separator": "千位分隔符",
+    "thousands_separator": "千位分隔符",
     "tooltips": {
       "add_condition": "增加条件",
       "condition": "状况",

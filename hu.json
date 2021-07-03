@@ -589,7 +589,7 @@
     "subtotals_on_rows": "Részösszegek csak sorokra vonatkozóan",
     "text_align": "Szöveg igazítása",
     "then": "Akkor",
-    "thousand_separator": "Ezres helyiérték elválasztó",
+    "thousands_separator": "Ezres helyiérték elválasztó",
     "tooltips": {
       "add_condition": "Feltétel hozzáadaása",
       "condition": "Feltétel",

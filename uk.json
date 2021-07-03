@@ -589,7 +589,7 @@
     "subtotals_on_rows": "Show subtotal rows only",
     "text_align": "Вирівнювання тексту",
     "then": "То",
-    "thousand_separator": "Роздільник тисяч",
+    "thousands_separator": "Роздільник тисяч",
     "tooltips": {
       "add_condition": "Додати умову",
       "condition": "Хвороба",

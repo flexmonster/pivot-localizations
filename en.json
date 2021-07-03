@@ -589,7 +589,7 @@
     "subtotals_on_rows": "Show subtotal rows only",
     "text_align": "Text align",
     "then": "Then",
-    "thousand_separator": "Thousand separator",
+    "thousands_separator": "Thousand separator",
     "tooltips": {
       "add_condition": "Add condition",
       "condition": "Condition",

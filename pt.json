@@ -589,7 +589,7 @@
     "subtotals_on_rows": "Mostrar apenas as linhas de subtotal",
     "text_align": "Alinhamento de texto",
     "then": "Então",
-    "thousand_separator": "Mil separadores",
+    "thousands_separator": "Mil separadores",
     "tooltips": {
       "add_condition": "Adicionar condição",
       "condition": "Doença",

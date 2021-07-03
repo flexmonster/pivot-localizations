@@ -589,7 +589,7 @@
     "subtotals_on_rows": "Mostra subtotali solo righe",
     "text_align": "Allinea testo",
     "then": "Allora",
-    "thousand_separator": "Separatore migliaia",
+    "thousands_separator": "Separatore migliaia",
     "tooltips": {
       "add_condition": "Aggiungi condizione",
       "condition": "Condizione",

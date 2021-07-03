@@ -589,7 +589,7 @@
     "subtotals_on_rows": "Mostrar solo filas subtotales",
     "text_align": "Texto alineado",
     "then": "Entonces",
-    "thousand_separator": "Mil separadores",
+    "thousands_separator": "Mil separadores",
     "tooltips": {
       "add_condition": "Añadir condición",
       "condition": "Condición",

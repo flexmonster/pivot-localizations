@@ -589,7 +589,7 @@
     "subtotals_on_rows": "Zwischensummen nur für Zeilen anzeigen",
     "text_align": "Textausrichtung",
     "then": "Dann",
-    "thousand_separator": "Tausendertrennzeichen",
+    "thousands_separator": "Tausendertrennzeichen",
     "tooltips": {
       "add_condition": "Bedingung hinzufügen",
       "condition": "Bedingung",

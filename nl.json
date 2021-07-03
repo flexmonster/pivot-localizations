@@ -589,7 +589,7 @@
     "subtotals_on_rows": "Toon alleen subtotaal rijen",
     "text_align": "Tekstuitlijning",
     "then": "Dan",
-    "thousand_separator": "Duizendtal scheidingsteken",
+    "thousands_separator": "Duizendtal scheidingsteken",
     "tooltips": {
       "add_condition": "Voeg voorwaarde toe",
       "condition": "Staat",
