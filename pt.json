@@ -163,7 +163,7 @@
     "bigDataSetWarning": "O conjunto de dados é muito grande para ser exibido no gráfico. O conjunto de dados será cortado na quantidade ajustada no gráfico.",
     "hideLegend": "Esconder Legenda",
     "noDataTitle": "Nenhum dado a ser exibido.",
-    "noMeasuresTitle": "Nenhuma valores para exibir. Adicione pelo menos uma valor na lista de campos.",
+    "noMeasuresTitle": "Não há valores a exibir. Adicione pelo menos um valor na lista de campos.",
     "selectMeasures": "Selecione medidas",
     "showLegend": "Mostrar Legenda"
   },
