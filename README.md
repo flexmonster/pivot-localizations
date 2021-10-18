@@ -26,6 +26,8 @@ This repository holds the localization files for Flexmonster Pivot, which allow 
 - [German](/de.json)
 - [Dutch](/nl.json)
 - [Turkish](/tr.json)
+- [Thai](/th.json)
+- [Indonesian](/id.json)
 
 ## Usage
 
