@@ -353,6 +353,9 @@
     "csvHeaderParsingError": "CSV başlık ayrıştırma hatası.",
     "dataStreamError": "'{0}' yüklenirken akış hatası oluştu <br/> <br/> <u> <a href = 'https: //www.flexmonster.com/doc/typical-errors/#stream-error' target = ' _blank '> Bu hata hakkında daha fazla bilgi edinin </a> </u>",
     "dataWasUpdated": "Veri kaynağı sunucuda güncellendi. Raporu yenile?",
+    "elastic": {
+      "errorConnection": "'<u><a href='{0}'>{0}</a></u>' Elasticsearch uç noktasına bağlanılamıyor.<br/><br/> Sorunu çözmek için aşağıdaki noktaları kontrol edin:<br/> - URL&#39;nin doğru olduğundan emin olun<br/> - CORS&#39;u etkinleştir<br/> - herhangi bir hata için tarayıcı konsolunu kontrol edin"
+    },
     "error": "Hata",
     "errorTextMessage": "</br> Ayrıntılar: '{0}'",
     "excelCsvChartsExportError": "Microsoft Excel'e veya CSV'ye dışa aktarma grafikler için kullanılamaz.",

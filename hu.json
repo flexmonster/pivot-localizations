@@ -353,6 +353,9 @@
     "csvHeaderParsingError": "CSV header értelmezése\\ felbontása közben hiba lépett fel",
     "dataStreamError": "A '{0}' betöltése során az adatfolyamban hiba lépett fel",
     "dataWasUpdated": "A szerveren található adatforrás frissült. Szeretné frissíteni a riportot?",
+    "elastic": {
+      "errorConnection": "Nem lehet csatlakozni az Elasticsearch végponthoz '<u><a href='{0}'>{0}</a></u>'.<br/><br/> A probléma megoldásához ellenőrizze a következő pontokat:<br/> - győződjön meg arról, hogy az URL helyes<br/> - engedélyezze a CORS-t<br/> - ellenőrizze a böngésző konzolját, hogy nincs-e benne hiba"
+    },
     "error": "Hiba!",
     "errorTextMessage": "</br>Részletek: '{0}'",
     "excelCsvChartsExportError": "Diagramok Microsoft Excel vagy CSV formátumba történő kinyerése nem megengedett",

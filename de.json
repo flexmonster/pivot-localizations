@@ -353,6 +353,9 @@
     "csvHeaderParsingError": "Fehler beim Lesen der CSV-Header.",
     "dataStreamError": "Fehler im datenstrom beim Laden von '{0}'<br/><br/><u><a href='https://www.flexmonster.com/doc/typical-errors/#stream-error' target='_blank'>Mehr Informationen zu diesem Fehler</a></u>",
     "dataWasUpdated": "Die Datenquelle am Server wurde aktualisiert. Soll der Bericht aktualisiert werden?",
+    "elastic": {
+      "errorConnection": "Es kann keine Verbindung zum Elasticsearch-Endpunkt '<u><a href='{0}'>{0}</a></u>' hergestellt werden.<br/><br/> Überprüfen Sie die folgenden Punkte, um das Problem zu beheben:<br/> - Stellen Sie sicher, dass die URL korrekt ist<br/> - CORS aktivieren<br/> - Überprüfen Sie die Browserkonsole auf Fehler"
+    },
     "error": "Fehler",
     "errorTextMessage": "</ br> Details: '{0}'",
     "excelCsvChartsExportError": "Eine Grafik kann nicht nach Microsoft Excel oder CSV ausgegeben werden.",

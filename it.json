@@ -353,6 +353,9 @@
     "csvHeaderParsingError": "Errore nell'interpretazione della testata CSV.",
     "dataStreamError": "Errore nello stream mentre caricavo '{0}'<br/><br/><u><a href='https://www.flexmonster.com/doc/typical-errors/#stream-error' target='_blank'>Dettagli su questo errore</a></u>",
     "dataWasUpdated": "La sorgente dati e' stata aggiornata sul server. Ricaricare il report?",
+    "elastic": {
+      "errorConnection": "Impossibile connettersi all endpoint Elasticsearch '<u><a href='{0}'>{0}</a></u>'.<br/><br/> Controllare i seguenti punti per risolvere il problema:<br/> - assicurati che l&#39;URL sia corretto<br/> - abilita CORS<br/> - controlla la console del browser per eventuali errori"
+    },
     "error": "Errore!",
     "errorTextMessage": "</br>Dettagli: '{0}'",
     "excelCsvChartsExportError": "Esportazione in Microsoft Excel o CSV non e' disponibile per i grafici.",

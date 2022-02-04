@@ -353,6 +353,9 @@
     "csvHeaderParsingError": "CSV header parsing error.",
     "dataStreamError": "Stream error occurred while loading '{0}'<br/><br/><u><a href='https://www.flexmonster.com/doc/typical-errors/#stream-error' target='_blank'>Read more info about this error</a></u>",
     "dataWasUpdated": "Data source has been updated on the server. Refresh the report?",
+    "elastic": {
+      "errorConnection": "Не вдається підключитися до Elasticsearch '<u><a href='{0}'>{0}</a></u>'.<br/><br/> Перевірте наступні пункти, щоб вирішити проблему:<br/> - переконайтеся, що URL-адреса правильна<br/> - увімкніть CORS<br/> - перевірте консоль браузера на наявність помилок"
+    },
     "error": "Помилка!",
     "errorTextMessage": "</br>Деталі: '{0}'",
     "excelCsvChartsExportError": "Export to Microsoft Excel or CSV is not available for charts.",

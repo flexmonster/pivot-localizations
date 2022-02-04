@@ -353,6 +353,9 @@
     "csvHeaderParsingError": "Parseerfout in CSV-header.",
     "dataStreamError": "Stream fout opgetreden tijdens laden '{0}'<br/><br/><u><a href='https://www.flexmonster.com/doc/typical-errors/#stream-error' target='_blank'>Lees meer informatie over deze fout</a></u>",
     "dataWasUpdated": "Data source is geupdate op de server. Rapport verversen?",
+    "elastic": {
+      "errorConnection": "Kan geen verbinding maken met het Elasticsearch-eindpunt '<u><a href='{0}'>{0}</a></u>'.<br/><br/> Controleer de volgende punten om het probleem op te lossen:<br/> - zorg ervoor dat de URL correct is<br/> - schakel CORS . in<br/> - controleer de browserconsole op eventuele fouten"
+    },
     "error": "Fout",
     "errorTextMessage": "</br> Details: '{0}'",
     "excelCsvChartsExportError": "Export naar Microsoft Excel of CSV is niet beschikbaar voor grafieken.",

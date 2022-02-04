@@ -353,6 +353,9 @@
     "csvHeaderParsingError": "Erreur d'analyse d'en-tête CSV.",
     "dataStreamError": "Erreur lors du chargemet du steam de données '{0}'<br/><br/><u><a href='https://www.flexmonster.com/doc/typical-errors/#stream-error' target='_blank'>En savoir plus sur l'erreur</a></u>",
     "dataWasUpdated": "La source de données a été mise à jour sur le serveur. Actualiser le rapport?",
+    "elastic": {
+      "errorConnection": "Impossible de se connecter au point de terminaison Elasticsearch '<u><a href='{0}'> {0}</a></u>'.<br/><br/> Vérifiez les points suivants pour résoudre le problème :<br/> - assurez-vous que l&#39;URL est correcte<br/> - activer CORS<br/> - vérifiez la console du navigateur pour toute erreur"
+    },
     "error": "Erreur!",
     "errorTextMessage": "</br>Détails: '{0}'",
     "excelCsvChartsExportError": "L'exportation vers Microsoft Excel ou CSV n'est pas disponible pour les graphiques.",

@@ -353,6 +353,9 @@
     "csvHeaderParsingError": "Erro de análise do cabeçalho CSV.",
     "dataStreamError": "Erro de transmissão. {0}",
     "dataWasUpdated": "A fonte de dados foi atualizada no servidor. Atualizar o relatório?",
+    "elastic": {
+      "errorConnection": "Não é possível se conectar ao endpoint do Elasticsearch '<u><a href='{0}'>{0}</a></u>'.<br/><br/> Verifique os seguintes pontos para resolver o problema:<br/> - verifique se o URL está correto<br/> - habilitar CORS<br/> - verifique se há erros no console do navegador"
+    },
     "error": "Erro!",
     "errorTextMessage": "</br>Detalhes: '{0}'",
     "excelCsvChartsExportError": "Exportar para o Microsoft Excel ou CSV não está disponível para gráficos.",

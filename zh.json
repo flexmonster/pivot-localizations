@@ -353,6 +353,9 @@
     "csvHeaderParsingError": "CSV页眉解析错误.",
     "dataStreamError": "加载'{0}'时发生数据流错误.<br/><br/><u><a href='https://www.flexmonster.com/doc/typical-errors/#stream-error' target='_blank'>阅读关于这个错误的更多信息</a></u>",
     "dataWasUpdated": "数据源已在服务器上更新。要刷新报表吗?",
+    "elastic": {
+      "errorConnection": "无法连接到 Elasticsearch 端点'<u><a href='{0}'>{0}</a></u>'。<br/><br/>检查以下几点以解决问题：<br/> - 确保 URL 正确<br/>- 启用 CORS<br/> - 检查浏览器控制台是否有任何错误"
+    },
     "error": "错误",
     "errorTextMessage": "</br>细节: '{0}'",
     "excelCsvChartsExportError": "图表无法导出到Microsoft Excel或CSV.",

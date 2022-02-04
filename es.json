@@ -353,6 +353,9 @@
     "csvHeaderParsingError": "Error de análisis del encabezado CSV.",
     "dataStreamError": "Stream error occurred while loading '{0}'<br/><br/><u><a href='https://www.flexmonster.com/doc/typical-errors/#stream-error' target='_blank'>Read more info about this error</a></u>",
     "dataWasUpdated": "Data source has been updated on the server. Refresh the report?",
+    "elastic": {
+      "errorConnection": "No se puede conectar al extremo de Elasticsearch '<u><a href='{0}'>{0}</a></u>'.<br/><br/> Compruebe los siguientes puntos para resolver el problema:<br/> - asegúrese de que la URL sea correcta<br/> - habilitar CORS<br/> - verifique la consola del navegador para ver si hay errores"
+    },
     "error": "Error!",
     "errorTextMessage": "</br>Detalles: '{0}'",
     "excelCsvChartsExportError": "Export to Microsoft Excel or CSV is not available for charts.",
