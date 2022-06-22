@@ -556,7 +556,7 @@
     "thousands_separator": "Роздільник тисяч",
     "tooltips": {
       "add_condition": "Додати умову",
-      "condition": "Хвороба",
+      "condition": "Умова",
       "cp_text_color": "Колір тексту",
       "font": "Шрифт",
       "font_size": "Розмір шрифту",
