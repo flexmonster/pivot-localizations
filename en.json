@@ -504,6 +504,8 @@
     "format_cells": "Format cells",
     "format_cells_mobile": "Format",
     "fullscreen": "Fullscreen",
+    "fullscreenErrorMessage": "It is not permitted to use the fullscreen feature on this page, either because of Feature Policy configuration or other access control features.<br/><br/><u><a href='https://www.flexmonster.com/doc/typical-errors/#cant-enter-fullscreen' target='_blank'>Read more info about this error</a></u>",
+    "fullscreenErrorTitle": "Can't enter fullscreen",
     "grand_totals": "Grand totals",
     "grand_totals_off": "Do not show grand totals",
     "grand_totals_on": "Show grand totals",

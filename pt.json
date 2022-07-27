@@ -504,6 +504,8 @@
     "format_cells": "Formatar celulas",
     "format_cells_mobile": "Formatar",
     "fullscreen": "Tela cheia",
+    "fullscreenErrorMessage": "Não é permitido usar o recurso de tela cheia nesta página, seja devido à configuração da Política de Recursos ou outros recursos de controle de acesso.<br/><br/> <u><a href='https://www.flexmonster.com/doc/typical-errors/#cant-enter-fullscreen' target='_blank'>Leia mais informações sobre este erro</a></u>",
+    "fullscreenErrorTitle": "Não é possível entrar em tela cheia",
     "grand_totals": "Totais gerais",
     "grand_totals_off": "Desligado para linhas e colunas",
     "grand_totals_on": "Ativado para linhas e colunas",

@@ -504,6 +504,8 @@
     "format_cells": "Formatteer cellen",
     "format_cells_mobile": "Formatteer",
     "fullscreen": "Volledig scherm",
+    "fullscreenErrorMessage": "Het is niet toegestaan om de fullscreen-functie op deze pagina te gebruiken, vanwege de configuratie van Feature Policy of andere toegangscontrolefuncties.<br/><br/> <u><a href='https://www.flexmonster.com/doc/typical-errors/#cant-enter-fullscreen' target='_blank'>Lees meer informatie over deze fout</a></u>",
+    "fullscreenErrorTitle": "Kan niet volledig scherm openen",
     "grand_totals": "Eindtotalen",
     "grand_totals_off": "Toon geen eindtotalen",
     "grand_totals_on": "Toon eindtotalen",

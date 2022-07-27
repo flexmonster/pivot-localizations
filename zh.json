@@ -503,6 +503,8 @@
     "format_cells": "格式化单元格",
     "format_cells_mobile": "格式化",
     "fullscreen": "全屏显示",
+    "fullscreenErrorMessage": "由于功能策略配置或其他访问控制功能，不允许在此页面上使用全屏功能。<br/><br/> <u><a href='https://www.flexmonster.com/doc/typical-errors/#cant-enter-fullscreen' target='_blank'>阅读有关此错误的更多信息</a></u>",
+    "fullscreenErrorTitle": "无法进入全屏",
     "grand_totals": "总计",
     "grand_totals_off": "不显示总计",
     "grand_totals_on": "显示总计",

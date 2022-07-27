@@ -504,6 +504,8 @@
     "format_cells": "Zellen formatieren",
     "format_cells_mobile": "Format",
     "fullscreen": "Vollbild",
+    "fullscreenErrorMessage": "Es ist nicht gestattet, die Vollbildfunktion auf dieser Seite zu verwenden, entweder aufgrund der Konfiguration der Funktionsrichtlinie oder anderer Zugriffssteuerungsfunktionen.<br/><br/> <u><a href='https://www.flexmonster.com/doc/typical-errors/#cant-enter-fullscreen' target='_blank'>Lesen Sie weitere Informationen zu diesem Fehler</a></u>",
+    "fullscreenErrorTitle": "Vollbildmodus nicht möglich",
     "grand_totals": "Gesamtsummen",
     "grand_totals_off": "Keine Gesamtsummen anzeigen",
     "grand_totals_on": "Gesamtsummen anzeigen",

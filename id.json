@@ -504,6 +504,8 @@
     "format_cells": "Format sel",
     "format_cells_mobile": "Format",
     "fullscreen": "Layar penuh",
+    "fullscreenErrorMessage": "Tidak diperbolehkan menggunakan fitur layar penuh pada halaman ini, baik karena konfigurasi Kebijakan Fitur atau fitur kontrol akses lainnya.<br/><br/> <u><a href='https://www.flexmonster.com/doc/typical-errors/#cant-enter-fullscreen' target='_blank'>Baca info lebih lanjut tentang kesalahan ini</a></u>",
+    "fullscreenErrorTitle": "Tidak bisa masuk layar penuh",
     "grand_totals": "Total",
     "grand_totals_off": "Jangan tampilkan total",
     "grand_totals_on": "Tampilkan total",

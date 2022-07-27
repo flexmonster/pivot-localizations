@@ -504,6 +504,8 @@
     "format_cells": "จัดรูปแบบเซลล์",
     "format_cells_mobile": "รูปแบบ",
     "fullscreen": "เต็มจอ",
+    "fullscreenErrorMessage": "ไม่อนุญาตให้ใช้คุณลักษณะเต็มหน้าจอในหน้านี้ เนื่องจากการกำหนดค่านโยบายคุณลักษณะหรือคุณลักษณะการควบคุมการเข้าถึงอื่นๆ<br/><br/> <u><a href='https://www.flexmonster.com/doc/typical-errors/#cant-enter-fullscreen' target='_blank'>อ่านข้อมูลเพิ่มเติมเกี่ยวกับข้อผิดพลาดนี้</a></u>",
+    "fullscreenErrorTitle": "เข้าเต็มจอไม่ได้",
     "grand_totals": "ยอดรวมทั้งสิ้น",
     "grand_totals_off": "ไม่แสดงยอดรวมทั้งหมด",
     "grand_totals_on": "แสดงยอดรวมทั้งหมด",

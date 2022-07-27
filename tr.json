@@ -504,6 +504,8 @@
     "format_cells": "Hücreleri biçimlendir",
     "format_cells_mobile": "Biçimlendir",
     "fullscreen": "Tam ekran",
+    "fullscreenErrorMessage": "Özellik İlkesi yapılandırması veya diğer erişim denetimi özellikleri nedeniyle bu sayfadaki tam ekran özelliğinin kullanılmasına izin verilmez.<br/><br/> <u><a href='https://www.flexmonster.com/doc/typical-errors/#cant-enter-fullscreen' target='_blank'>Bu hata hakkında daha fazla bilgi okuyun</a></u>",
+    "fullscreenErrorTitle": "tam ekrana giremiyorum",
     "grand_totals": "Genel toplamlar",
     "grand_totals_off": "Genel toplamları gösterme",
     "grand_totals_on": "Genel toplamları göster",

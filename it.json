@@ -504,6 +504,8 @@
     "format_cells": "Formato celle",
     "format_cells_mobile": "Formato",
     "fullscreen": "Schermo intero",
+    "fullscreenErrorMessage": "Non è consentito utilizzare la funzionalità a schermo intero in questa pagina, a causa della configurazione dei criteri delle funzionalità o di altre funzionalità di controllo dell&#39;accesso.<br/><br/> <u><a href='https://www.flexmonster.com/doc/typical-errors/#cant-enter-fullscreen' target='_blank'>Leggi ulteriori informazioni su questo errore</a></u>",
+    "fullscreenErrorTitle": "Impossibile accedere a schermo intero",
     "grand_totals": "Gran totali",
     "grand_totals_off": "Non mostrare Gran totali",
     "grand_totals_on": "Mostrare Gran totali",

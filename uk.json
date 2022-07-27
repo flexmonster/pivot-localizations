@@ -504,6 +504,8 @@
     "format_cells": "Форматування значень",
     "format_cells_mobile": "Форматування",
     "fullscreen": "Розгорнути",
+    "fullscreenErrorMessage": "На цій сторінці заборонено використовувати повноекранний режим через конфігурацію політики функцій або інші функції контролю доступу.<br/><br/> <u><a href='https://www.flexmonster.com/doc/typical-errors/#cant-enter-fullscreen' target='_blank'>Докладніше про цю помилку</a></u>",
+    "fullscreenErrorTitle": "Неможливо перейти в повноекранний режим",
     "grand_totals": "Загальні підсумки",
     "grand_totals_off": "Do not show grand totals",
     "grand_totals_on": "Show grand totals",

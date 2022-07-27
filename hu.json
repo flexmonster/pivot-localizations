@@ -504,6 +504,8 @@
     "format_cells": "Cellaformázás",
     "format_cells_mobile": "Formátum",
     "fullscreen": "Teljes képernyő",
+    "fullscreenErrorMessage": "Nem engedélyezett a teljes képernyős funkció használata ezen az oldalon, sem a Funkcióházirend konfigurációja, sem más hozzáférés-vezérlési funkciók miatt.<br/><br/> <u><a href='https://www.flexmonster.com/doc/typical-errors/#cant-enter-fullscreen' target='_blank'>Olvasson többet erről a hibáról</a></u>",
+    "fullscreenErrorTitle": "Nem lehet belépni a teljes képernyőre",
     "grand_totals": "Összesen sorok",
     "grand_totals_off": "Ne mutassa az összesen sorokat",
     "grand_totals_on": "Összesen sorok mutatása",

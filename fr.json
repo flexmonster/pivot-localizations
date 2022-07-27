@@ -504,6 +504,8 @@
     "format_cells": "Formater des cellules",
     "format_cells_mobile": "Format",
     "fullscreen": "Plein écran",
+    "fullscreenErrorMessage": "Il n&#39;est pas autorisé d&#39;utiliser la fonctionnalité plein écran sur cette page, soit en raison de la configuration de la politique de fonctionnalités, soit d&#39;autres fonctionnalités de contrôle d&#39;accès.<br/><br/> <u><a href='https://www.flexmonster.com/doc/typical-errors/#cant-enter-fullscreen' target='_blank'>En savoir plus sur cette erreur</a></u>",
+    "fullscreenErrorTitle": "Impossible d'entrer en plein écran",
     "grand_totals": "Total général",
     "grand_totals_off": "Ne pas afficher les totaux généraux",
     "grand_totals_on": "Afficher les totaux généraux",
