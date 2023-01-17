@@ -176,6 +176,7 @@
     "drillThrough": "เจาะลึกข้อมูล",
     "drillUp": "ย้อนกลับขึ้นมาที่ระดับแม่",
     "editFormula": "แก้ไข <b>{0}</b>",
+    "exclude": "ไม่รวม <b>{0}</b>",
     "expand": "ขยาย",
     "filterBy": "กรองตาม <b>{0}</b>",
     "groupMembers": "จับกลุ่มสมาชิก",

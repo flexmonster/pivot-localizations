@@ -176,6 +176,7 @@
     "drillThrough": "Perfurar",
     "drillUp": "Drill up",
     "editFormula": "Editar <b>{0}</b>",
+    "exclude": "Excluir <b>{0}</b>",
     "expand": "Expandir",
     "filterBy": "Filtrar por <b>{0}</b>",
     "groupMembers": "Membros do grupo",

@@ -176,6 +176,7 @@
     "drillThrough": "In zoomen",
     "drillUp": "Boor op",
     "editFormula": "<b>{0}</b> bewerken",
+    "exclude": "Exclusief <b>{0}</b>",
     "expand": "Uitklappen",
     "filterBy": "Filteren op <b>{0}</b>",
     "groupMembers": "Groepsleden",

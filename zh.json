@@ -176,6 +176,7 @@
     "drillThrough": "钻取",
     "drillUp": "向上钻",
     "editFormula": "编辑 <b>{0}</b>",
+    "exclude": "不包括 <b>{0}</b>",
     "expand": "展开",
     "filterBy": "过滤 <b>{0}</b>",
     "groupMembers": "小组成员",

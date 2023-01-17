@@ -176,6 +176,7 @@
     "drillThrough": "Aláfúrás",
     "drillUp": "Fúrja fel",
     "editFormula": "Szerkesztés <b>{0}</b>",
+    "exclude": "Kizárva <b>{0}</b>",
     "expand": "Kinyitás",
     "filterBy": "Szűrők <b>{0}</b>",
     "groupMembers": "Csoporttagok",

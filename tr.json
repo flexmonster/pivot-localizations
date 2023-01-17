@@ -176,6 +176,7 @@
     "drillThrough": "Detay",
     "drillUp": "Detaylara git",
     "editFormula": "<b>{0} düzenleyin</b>",
+    "exclude": "Hariç tut <b>{0}</b>",
     "expand": "Genişlet",
     "filterBy": "<b>{0}</b> filtreleme",
     "groupMembers": "Grup üyeleri",
