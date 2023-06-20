@@ -39,7 +39,7 @@ You can also [create a custom localization file](https://www.flexmonster.com/doc
 
 ## Demo
 
-See our [live Localization demo](https://www.flexmonster.com/demos/localization/).
+See our [live Localization demo](https://www.flexmonster.com/demos/js/localization/).
 
 ## Contribution
 If you notice a mistake in localization or want to add a new language, you are welcome to contribute by creating a pull request with your changes. We will review them and merge the pull request into our repository.
