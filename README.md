@@ -6,11 +6,13 @@ Website: www.flexmonster.com
 
 Flexmonster Pivot is a powerful JavaScript tool for interactive web reporting. It allows you to visualize and analyze data from JSON, CSV, SQL, NoSQL, Elasticsearch, and OLAP data sources quickly and conveniently. Flexmonster is designed to integrate seamlessly with any client-side framework and can be easily embedded into your application.
 
-This repository holds the localization files for Flexmonster Pivot, which allow easily localize the component:
+This repository contains localization files for Flexmonster Pivot. Use them to translate the component into a different language.
+
+Table of contents:
 
 * [Available localizations](#available-localizations)
 * [Usage](#usage)
-* [Example](#example)
+* [Demo](#demo)
 * [Contribution](#contribution)
 
 ## Available localizations
@@ -33,11 +35,11 @@ This repository holds the localization files for Flexmonster Pivot, which allow 
 
 For details on how to set localization for the component, see the [localization guide](https://www.flexmonster.com/doc/localizing-component/#!set-localization).
 
-To learn more about localization files, refer to [our documentation](https://www.flexmonster.com/doc/localizing-component/#!create-localization-file).
+You can also [create a custom localization file](https://www.flexmonster.com/doc/localizing-component/#!create-localization-file).
 
-## Example
+## Demo
 
 See our [live Localization demo](https://www.flexmonster.com/demos/localization/).
 
 ## Contribution
-If you noticed a mistake or want to add a new language, you are free to contribute. Please create a pull request with your changes, we will review them and merge to our repository.
+If you notice a mistake in localization or want to add a new language, you are welcome to contribute by creating a pull request with your changes. We will review them and merge the pull request into our repository.
