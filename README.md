@@ -1,6 +1,6 @@
 # Localization files for Flexmonster Pivot Table & Charts
-[![Flexmonster Pivot Table & Charts](https://cdn.flexmonster.com/landing.png)](https://flexmonster.com)
-Website: [www.flexmonster.com](https://www.flexmonster.com)
+[![Flexmonster Pivot Table & Charts](https://cdn.flexmonster.com/landing.png)](https://www.flexmonster.com/?r=github)
+Website: [www.flexmonster.com](https://www.flexmonster.com/?r=github)
 
 ## Flexmonster Pivot Table & Charts
 
@@ -33,13 +33,13 @@ Table of contents:
 
 ## Usage
 
-For details on how to set localization for the component, see the [localization guide](https://www.flexmonster.com/doc/localizing-component/#!set-localization).
+For details on how to set localization for the component, see the [localization guide](https://www.flexmonster.com/doc/localizing-component?r=github/#!set-localization).
 
-You can also [create a custom localization file](https://www.flexmonster.com/doc/localizing-component/#!create-localization-file).
+You can also [create a custom localization file](https://www.flexmonster.com/doc/localizing-component?r=github/#!create-localization-file).
 
 ## Demo
 
-See our [live Localization demo](https://www.flexmonster.com/demos/js/localization/).
+See our [live Localization demo](https://www.flexmonster.com/demos/js/localization/?r=github).
 
 ## Contribution
 If you notice a mistake in localization or want to add a new language, you are welcome to contribute by creating a pull request with your changes. We will review them and merge the pull request into our repository.
