@@ -89,14 +89,14 @@
           "totalCaption": "Добуток по {0}"
       },
       "runningTotalsOfColumn": {
-          "caption": "Зростаючий підсумок у колонці",
-          "grandTotalCaption": "Загальний зростаючий підсумок у колонці по {0}",
-          "totalCaption": "Зростаючий підсумок у колонці по {0}"
+          "caption": "Наростаючий підсумок у колонці",
+          "grandTotalCaption": "Загальний Наростаючий підсумок у колонці по {0}",
+          "totalCaption": "Наростаючий підсумок у колонці по {0}"
       },
       "runningTotalsOfRow": {
-          "caption": "Зростаючий підсумок у рядку",
-          "grandTotalCaption": "Загальний зростаючий підсумок у рядку по {0}",
-          "totalCaption": "Зростаючий підсумок у рядку по {0}"
+          "caption": "Наростаючий підсумок у рядку",
+          "grandTotalCaption": "Загальний Наростаючий підсумок у рядку по {0}",
+          "totalCaption": "Наростаючий підсумок у рядку по {0}"
       },
       "stdevp": {
           "caption": "StDev популяції",
@@ -157,7 +157,7 @@
       "removeValue": "Видалити",
       "removeValueMessage": "Ви впевнені що бажаєте видалити цю міру?",
       "removeValueTitle": "Видалити {0}?",
-      "title": "Міра за формулою"
+      "title": "Обчислювана міра"
   },
   "charts": {
       "bigDataSetWarning": "Кількість даних занадто велика для відображення на графіку. Вона буде обмежена видимою областю.",
@@ -214,7 +214,7 @@
       "actions": {
           "collapse": "Згорнути",
           "deselect": "Скасувати вибір",
-          "edit_calculated_value": "Відредагуйте міру з формулою",
+          "edit_calculated_value": "Відредагуйте обчислювану міру",
           "expand": "Розгорнути",
           "move_down": "Рухатися вниз",
           "move_to_columns": "Перейти до стовпців",
@@ -254,7 +254,7 @@
       "beforeEqual": "Перед або дорівнює",
       "begin": "Починається",
       "between": "Між",
-      "bottom": "Останні",
+      "bottom": "Нижні",
       "clearDateFilter": "Видалити фільтрування дат",
       "clearLabelFilter": "Видалити фільтрування назв",
       "clearNumberFilter": "Видалити фільтрування чисел",
@@ -303,7 +303,7 @@
       "selectAllResults": "Обрати всі знайдені",
       "sort": "Сортування",
       "timeFilter": "Часу",
-      "top": "Перші",
+      "top": "Верхні",
       "valuesFilter": "Значення",
       "week": "Тиждень",
       "year": "Рік"
@@ -352,7 +352,7 @@
       "cantSaveReportForSharing": "Не вдалося зберегти звіт для поширення. <br/><br/> {0}",
       "confirmation": "Підтвердження",
       "csvHeaderParsingError": "Помилка парсингу заголовків у CSV-файлі.",
-      "dataStreamError": "Сталася помилка завантаження потоку '{0}'<br/><br/><u><a href='https://www.flexmonster.com/doc/typical-errors/#stream-error' target='_blank'>Прочитати більше про помилку.</a></u>",
+      "dataStreamError": "Під час завантаження сталася помилка потоку '{0}'<br/><br/><u><a href='https://www.flexmonster.com/doc/typical-errors/#stream-error' target='_blank'>Прочитати більше про помилку.</a></u>",
       "dataWasUpdated": "Дані були оновлені на сервері. Оновити звіт?",
       "elastic": {
           "errorConnection": "Не вдається підключитися до Elasticsearch '<u><a href='{0}'>{0}</a></u>'.<br/><br/> Перевірте наступні пункти, щоб вирішити проблему:<br/> - переконайтеся, що URL-адреса правильна<br/> - увімкніть CORS<br/> - перевірте консоль браузера на наявність помилок"
@@ -450,15 +450,15 @@
       "cancel": "Скасувати",
       "catalog": "Каталог",
       "charts": "Діаграми",
-      "charts_bar_horizontal": "Горизонтальна гістограма",
-      "charts_column": "Гістограма",
-      "charts_column_line": "Гістограма + лінійна",
-      "charts_line": "Лінійна діаграма",
+      "charts_bar_horizontal": "Гістограма",
+      "charts_column": "Стовпчаста діаграма",
+      "charts_column_line": "Стовпчаста + лінійчата діаграма",
+      "charts_line": "Лінійчата діаграма",
       "charts_multiple": "Кілька значень",
       "charts_multiple_disabled": "Кілька значень неможливо застосувати до ",
-      "charts_pie": "Кругова діаграма",
+      "charts_pie": "Секторна діаграма",
       "charts_scatter": "Точкова діаграма",
-      "charts_stacked_column": "Складена гістограма",
+      "charts_stacked_column": "Нормована стовпчаста діаграма",
       "choose_page_orientation": "Оберіть орієнтацію сторінки",
       "choose_value": "Оберіть міру",
       "classic_view": "Класична форма",
@@ -500,7 +500,7 @@
       "export_print": "Друкувати",
       "false_value": "ні",
       "fields": "Поля",
-      "flat_view": "Пласка таблиця(не агреговані дані)",
+      "flat_view": "Пласка таблиця(неагреговані дані)",
       "format": "Формат",
       "format_cells": "Форматування значень",
       "format_cells_mobile": "Форматування",
@@ -517,7 +517,7 @@
       "grid": "Таблиця",
       "host_url": "URL хоста",
       "index_name": "Індекс",
-      "is_empty": "Без умови",
+      "is_empty": "Порожні",
       "is_percent": "Форматувати як відсотки",
       "landscape": "Альбомна",
       "layout": "Вигляд таблиці",
