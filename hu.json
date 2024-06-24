@@ -363,6 +363,7 @@
     "exportError": "Váratlan hiba történt. Az exportálás sikertelen.",
     "exportFontLoadingError": "Failed to load the font. An unexpected error occurred.",
     "exportProgress": "Adatok kinyerése folyamatban...",
+    "fileLoadingIncomplete": "A fájl túl nagy, és a böngésző korlátai miatt nem tölthető be teljesen.",
     "flatTableIsNotSupported": "A lapos tábla nem támogatott {0} adatforráshoz.",
     "inappropriateFileFormat": "Nem megengedett formátumú a megadott fájl",
     "invalidDataSource": "Érvénytelen adatforrás vagy katalógus, kérem, ellenőrizze ezeket!",

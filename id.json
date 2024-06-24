@@ -363,6 +363,7 @@
     "exportError": "Gagal mengekspor. Terjadi kesalahan tak terduga.",
     "exportFontLoadingError": "Gagal memuat huruf. Terjadi kesalahan tak terduga.",
     "exportProgress": "Ekspor sedang berlangsung...",
+    "fileLoadingIncomplete": "File terlalu besar dan tidak dapat dimuat sepenuhnya karena keterbatasan browser.",
     "flatTableIsNotSupported": "Bentuk datar tidak didukung di {0} sumber data.",
     "inappropriateFileFormat": "Format file data tidak sesuai.",
     "invalidDataSource": "Sumber data atau katalog tidak valid. Harap periksa rincian koneksi.<br /><br /><u><a href='https://www.flexmonster.com/doc/typical-errors/#invalid-datasource' target='_blank'>Pelajari lebih lanjut mengenai kesalahan ini</a></u>",

@@ -363,6 +363,7 @@
     "exportError": "导出失败,发生意外错误.",
     "exportFontLoadingError": "Failed to load the font. An unexpected error occurred.",
     "exportProgress": "导出正在处理中...",
+    "fileLoadingIncomplete": "文件过大，由于浏览器限制无法完全加载。",
     "flatTableIsNotSupported": "{0}数据源不支持平面表。",
     "inappropriateFileFormat": "数据文件格式不匹配.",
     "invalidDataSource": "无效的数据源或目录.请检查. <br/><br/><u><a href='https://www.flexmonster.com/doc/typical-errors/#invalid-datasource' target='_blank'>阅读关于这个错误的更多信息</a></u>",

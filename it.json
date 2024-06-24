@@ -363,6 +363,7 @@
     "exportError": "Esportazione fallita. Si e' verificato un errore inaspettato.",
     "exportFontLoadingError": "Failed to load the font. An unexpected error occurred.",
     "exportProgress": "Esportazione in corso...",
+    "fileLoadingIncomplete": "Il file è troppo grande e non può essere caricato completamente a causa delle limitazioni del browser.",
     "flatTableIsNotSupported": "Tabella piatta non supportata per sorgente dati {0}.",
     "inappropriateFileFormat": "Il file dati non e' nel formato appropriato.",
     "invalidDataSource": ">Sorgente dati o calaogo non validi. Prego controllare. <br/><br/><u><a href='https://www.flexmonster.com/doc/typical-errors/#invalid-datasource' target='_blank'>Dettagli su questo errore</a></u>",

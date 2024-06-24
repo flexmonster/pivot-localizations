@@ -363,6 +363,7 @@
     "exportError": "ส่งออกไม่สำเร็จ เกิดข้อผิดพลาดที่ไม่คาดคิด",
     "exportFontLoadingError": "โหลดแบบอักษรไม่สำเร็จ เกิดข้อผิดพลาดที่ไม่คาดคิด",
     "exportProgress": "กำลังส่งออก...",
+    "fileLoadingIncomplete": "ไฟล์มีขนาดใหญ่เกินไปและไม่สามารถโหลดได้ทั้งหมดเนื่องจากข้อจำกัดของเบราว์เซอร์",
     "flatTableIsNotSupported": "ระบบไม่รองรับรูปแบบราบสำหรับแหล่งข้อมูล {0}",
     "inappropriateFileFormat": "ไฟล์ข้อมูลอยู่ในรูปแบบที่ไม่เหมาะสม",
     "invalidDataSource": "แหล่งข้อมูลหรือแค็ตตาล็อกไม่ถูกต้อง โปรดตรวจสอบรายละเอียดการเชื่อมต่อ <br/><br/> <u><a href='https://www.flexmonster.com/doc/typical-errors/#invalid-datasource' target='_blank'>อ่านข้อมูลเพิ่มเติมเกี่ยวกับข้อผิดพลาดนี้</a></u>",

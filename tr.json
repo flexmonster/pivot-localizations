@@ -363,6 +363,7 @@
     "exportError": "Aktarım işlemi başarısız oldu. Beklenmeyen bir hata oluştu.",
     "exportFontLoadingError": "Yazı tipi yüklenemedi. Beklenmedik bir sorun oluştu.",
     "exportProgress": "Aktarım devam ediyor...",
+    "fileLoadingIncomplete": "Dosya çok büyük ve tarayıcı sınırlamaları nedeniyle tamamen yüklenemiyor.",
     "flatTableIsNotSupported": "{0} veri kaynağı için düz tablo desteklenmiyor.",
     "inappropriateFileFormat": "Veri dosyası uygunsuz biçimdedir.",
     "invalidDataSource": "Geçersiz veri kaynağı veya katalog. Lütfen kontrol edin. <br/> <br/> <u> <a href='https://www.flexmonster.com/doc/typical-errors/#invalid-datasource' target='_blank'> Bu hata hakkında daha fazla bilgi edinin < / a> </ u>",

@@ -363,6 +363,7 @@
     "exportError": "Exporteren mislukt. Een onverwachte fout is opgetreden.",
     "exportFontLoadingError": "Kan het lettertype niet laden. Er is een onverwachte fout opgetreden.",
     "exportProgress": "Bezig met Exporteren...",
+    "fileLoadingIncomplete": "Het bestand is te groot en kan vanwege browserbeperkingen niet volledig worden geladen.",
     "flatTableIsNotSupported": "Platte tabel wordt niet ondersteund voor {0} gegevensbron.",
     "inappropriateFileFormat": "Het data bestand is in een ongeldig formaat.",
     "invalidDataSource": "Foutieve datasource of catalogus. Controleer dit. <br/><br/><u><a href='https://www.flexmonster.com/doc/typical-errors/#invalid-datasource' target='_blank'>Lees meer informatie over deze fout</a></u>",

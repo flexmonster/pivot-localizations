@@ -363,6 +363,7 @@
     "exportError": "Failed to export. An unexpected error occurred.",
     "exportFontLoadingError": "Failed to load the font. An unexpected error occurred.",
     "exportProgress": "Export in progress...",
+    "fileLoadingIncomplete": "The file is too large and cannot be loaded completely due to the browser limitations.",
     "flatTableIsNotSupported": "The flat form is not supported for the {0} data source.",
     "inappropriateFileFormat": "The data file is of inappropriate format.",
     "invalidDataSource": "The data source or catalog is invalid. Please check the connection details. <br/><br/><u><a href='https://www.flexmonster.com/doc/typical-errors/#invalid-datasource' target='_blank'>Read more info about this error</a></u>",
