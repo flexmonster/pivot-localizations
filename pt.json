@@ -362,6 +362,7 @@
     "excelCsvChartsExportError": "A exportação para Microsoft Excel ou CSV não está disponível para gráficos.",
     "exportError": "Falha ao exportar. Ocorreu um erro inesperado.",
     "exportFontLoadingError": "Falha ao carregar a fonte. Ocorreu um erro inesperado.",
+    "exportImageToPdfTooLargeError": "A imagem é demasiado grande para ser exportada para PDF. Por favor, reduza o tamanho do gráfico.",
     "exportProgress": "Exportando...",
     "fileLoadingIncomplete": "O arquivo é muito grande e não pode ser carregado completamente devido às limitações do navegador.",
     "flatTableIsNotSupported": "A forma plana não é suportada para a fonte de dados {0}.",

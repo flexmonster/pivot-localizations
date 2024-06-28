@@ -362,6 +362,7 @@
     "excelCsvChartsExportError": "Ekspor Microsoft Excel atau CSV tidak tersedia untuk grafik.",
     "exportError": "Gagal mengekspor. Terjadi kesalahan tak terduga.",
     "exportFontLoadingError": "Gagal memuat huruf. Terjadi kesalahan tak terduga.",
+    "exportImageToPdfTooLargeError": "Gambar terlalu besar untuk diekspor ke PDF. Harap perkecil ukuran grafik.",
     "exportProgress": "Ekspor sedang berlangsung...",
     "fileLoadingIncomplete": "File terlalu besar dan tidak dapat dimuat sepenuhnya karena keterbatasan browser.",
     "flatTableIsNotSupported": "Bentuk datar tidak didukung di {0} sumber data.",

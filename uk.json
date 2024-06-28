@@ -362,6 +362,7 @@
     "excelCsvChartsExportError": "Експорт у Microsoft Excel чи CSV не доступний для графіків.",
     "exportError": "Експорт не вдався. Виникла помилка.",
     "exportFontLoadingError": "Виникла помилка під час завантаження файлу з шрифтом.",
+    "exportImageToPdfTooLargeError": "Зображення занадто велике для експорту в PDF. Будь ласка, зменшіть розмір діаграми.",
     "exportProgress": "Експорт триває...",
     "fileLoadingIncomplete": "Файл завеликий і не може бути повністю завантажений через обмеження браузера.",
     "flatTableIsNotSupported": "Пласка таблиця не доступна для {0} джерела даних.",

@@ -362,6 +362,7 @@
     "excelCsvChartsExportError": "การส่งออกข้อมูล Microsoft Excel หรือ CSV ไม่พร้อมใช้งานสำหรับแผนภูมิ",
     "exportError": "ส่งออกไม่สำเร็จ เกิดข้อผิดพลาดที่ไม่คาดคิด",
     "exportFontLoadingError": "โหลดแบบอักษรไม่สำเร็จ เกิดข้อผิดพลาดที่ไม่คาดคิด",
+    "exportImageToPdfTooLargeError": "รูปภาพมีขนาดใหญ่เกินกว่าจะส่งออกเป็น PDF กรุณาลดขนาดแผนภูมิลง",
     "exportProgress": "กำลังส่งออก...",
     "fileLoadingIncomplete": "ไฟล์มีขนาดใหญ่เกินไปและไม่สามารถโหลดได้ทั้งหมดเนื่องจากข้อจำกัดของเบราว์เซอร์",
     "flatTableIsNotSupported": "ระบบไม่รองรับรูปแบบราบสำหรับแหล่งข้อมูล {0}",

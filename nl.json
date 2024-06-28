@@ -362,6 +362,7 @@
     "excelCsvChartsExportError": "Export naar Microsoft Excel of CSV is niet beschikbaar voor grafieken.",
     "exportError": "Exporteren mislukt. Een onverwachte fout is opgetreden.",
     "exportFontLoadingError": "Kan het lettertype niet laden. Er is een onverwachte fout opgetreden.",
+    "exportImageToPdfTooLargeError": "De afbeelding is te groot om naar PDF te worden geëxporteerd. Verklein de afbeelding.",
     "exportProgress": "Bezig met Exporteren...",
     "fileLoadingIncomplete": "Het bestand is te groot en kan vanwege browserbeperkingen niet volledig worden geladen.",
     "flatTableIsNotSupported": "Platte tabel wordt niet ondersteund voor {0} gegevensbron.",

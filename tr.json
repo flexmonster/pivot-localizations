@@ -362,6 +362,7 @@
     "excelCsvChartsExportError": "Microsoft Excel'e veya CSV'ye dışa aktarma grafikler için kullanılamaz.",
     "exportError": "Aktarım işlemi başarısız oldu. Beklenmeyen bir hata oluştu.",
     "exportFontLoadingError": "Yazı tipi yüklenemedi. Beklenmedik bir sorun oluştu.",
+    "exportImageToPdfTooLargeError": "Görüntü PDF'ye aktarılamayacak kadar büyük. Lütfen grafik boyutunu küçültün.",
     "exportProgress": "Aktarım devam ediyor...",
     "fileLoadingIncomplete": "Dosya çok büyük ve tarayıcı sınırlamaları nedeniyle tamamen yüklenemiyor.",
     "flatTableIsNotSupported": "{0} veri kaynağı için düz tablo desteklenmiyor.",

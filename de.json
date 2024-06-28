@@ -362,6 +362,7 @@
     "excelCsvChartsExportError": "Eine Grafik kann nicht nach Microsoft Excel oder CSV ausgegeben werden.",
     "exportError": "Fehler bei der ausgabe. Ein unerwarteter Fehler ist aufgetreten.",
     "exportFontLoadingError": "Fehler beim Laden der Schriftart. Ein unerwarteter Fehler ist aufgetreten.",
+    "exportImageToPdfTooLargeError": "Das Bild ist zu groß, um als PDF exportiert zu werden. Bitte verkleinern Sie die Grafik.",
     "exportProgress": "Ausgabe in arbeit...",
     "fileLoadingIncomplete": "Die Datei ist zu groß und kann aufgrund der Browserbeschränkungen nicht vollständig geladen werden.",
     "flatTableIsNotSupported": "Eine flache Tabelle wird für die Datenquelle {0} nicht unterstützt.",
