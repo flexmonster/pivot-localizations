@@ -169,6 +169,7 @@
   },
   "contextMenu": {
     "aggregation": "Anhäufung",
+    "clearFilter": "Filter löschen",
     "clearSorting": "Sortierung löschen",
     "collapse": "Zuklappen",
     "conditionalFormatting": "Bedingte Formatierung",

@@ -409,6 +409,7 @@
     "sortRowDesc": "Sort row descending",
     "sortRowAsc": "Sort row ascending",
     "clearSorting": "Clear sorting",
+    "clearFilter": "Clear filter",
     "sortColumnDesc": "Sort column descending",
     "sortColumnAsc": "Sort column ascending",
     "aggregation": "Aggregation",

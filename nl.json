@@ -169,6 +169,7 @@
   },
   "contextMenu": {
     "aggregation": "Aggregatie",
+    "clearFilter": "Filter wissen",
     "clearSorting": "Haal sortering weg",
     "collapse": "Inklappen",
     "conditionalFormatting": "Conditionele opmaak",

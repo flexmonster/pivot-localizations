@@ -169,6 +169,7 @@
   },
   "contextMenu": {
     "aggregation": "Összesítése",
+    "clearFilter": "Szűrő törlése",
     "clearSorting": "Rendezés törlése",
     "collapse": "Összecsukás",
     "conditionalFormatting": "Feltételes formázás",

@@ -169,6 +169,7 @@
   },
   "contextMenu": {
     "aggregation": "聚合",
+    "clearFilter": "清除过滤器",
     "clearSorting": "清除排序",
     "collapse": "折叠",
     "conditionalFormatting": "条件格式",

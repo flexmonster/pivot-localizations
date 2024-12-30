@@ -169,6 +169,7 @@
   },
   "contextMenu": {
     "aggregation": "Aggregazione",
+    "clearFilter": "Rimuovi filtro",
     "clearSorting": "Rimuovi ordinamento",
     "collapse": "Collassa",
     "conditionalFormatting": "Formato condizionale",

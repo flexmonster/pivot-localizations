@@ -169,6 +169,7 @@
   },
   "contextMenu": {
     "aggregation": "การรวม",
+    "clearFilter": "ล้างฟิลเตอร์",
     "clearSorting": "ล้างการเรียงลำดับ",
     "collapse": "ย่อ",
     "conditionalFormatting": "การจัดรูปแบบตามเงื่อนไข",

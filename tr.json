@@ -169,6 +169,7 @@
   },
   "contextMenu": {
     "aggregation": "toplanma",
+    "clearFilter": "Filtreyi temizle",
     "clearSorting": "Sıralamayı temizle",
     "collapse": "Daralt",
     "conditionalFormatting": "Koşullu biçimlendirme",

@@ -169,6 +169,7 @@
   },
   "contextMenu": {
     "aggregation": "Agregación",
+    "clearFilter": "Limpiar filtro",
     "clearSorting": "Clasificación clara",
     "collapse": "Colapso",
     "conditionalFormatting": "Conditional Formatting",
@@ -178,7 +179,7 @@
     "editFormula": "Edit <b>{0}</b>",
     "exclude": "Excluir <b>{0}</b>",
     "expand": "Expandir",
-    "filterBy": "Filter by <b>{0}</b>",
+    "filterBy": "Filtrar por <b>{0}</b>",
     "groupMembers": "Miembros del grupo",
     "hideProperty": "Esconder <b>{0}</b>",
     "hideSubtotals": "Ocultar subtotales",

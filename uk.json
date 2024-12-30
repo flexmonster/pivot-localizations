@@ -169,6 +169,7 @@
   },
   "contextMenu": {
     "aggregation": "Агрегація",
+    "clearFilter": "Очистити фільтр",
     "clearSorting": "Очистити сортування",
     "collapse": "Згорнути",
     "conditionalFormatting": "Умовне форматування",

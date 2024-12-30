@@ -169,6 +169,7 @@
   },
   "contextMenu": {
     "aggregation": "Agregasi",
+    "clearFilter": "Hapus filter",
     "clearSorting": "Hapus sortiran",
     "collapse": "Sembunyikan",
     "conditionalFormatting": "Pemformatan kondisional",
