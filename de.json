@@ -412,7 +412,7 @@
     "august": "August",
     "december": "Dezember",
     "february": "Februar",
-    "january": "Jänner",
+    "january": "Januar",
     "july": "Juli",
     "june": "Juni",
     "march": "März",
@@ -593,7 +593,7 @@
   },
   "weekdays": {
     "fifth": "Donnerstag",
-    "first": "sonntag",
+    "first": "Sonntag",
     "fourth": "Mittwoch",
     "second": "Montag",
     "seventh": "Samstag",

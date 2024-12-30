@@ -428,9 +428,9 @@
     "february": "二月",
     "january": "一月",
     "july": "七月",
-    "june": "Jun",
-    "march": "海",
-    "may": "可能",
+    "june": "六月",
+    "march": "三月",
+    "may": "五月",
     "november": "十一月",
     "october": "十月",
     "september": "九月"
@@ -472,7 +472,7 @@
     "confirm_message": "您的格式不会被应用。 </ br>无论如何，请确认您要切换值。",
     "confirm_title": "您有一些未保存的更改",
     "connect": "连接",
-    "connect_elastic": "到Elasticsearch",
+    "connect_elastic": "连接到Elasticsearch",
     "connect_elastic_mobile": "Elastic",
     "connect_elastic_title": "连接到Elasticsearch",
     "connect_local_csv": "连接本地CSV文件",
@@ -591,21 +591,21 @@
     "unsortedIcon": "点击取消排序"
   },
   "weekdays": {
-    "fifth": "周四",
-    "first": "周日",
-    "fourth": "周三",
+    "fifth": "周五",
+    "first": "周一",
+    "fourth": "周四",
     "second": "周一",
-    "seventh": "周六",
-    "sixth": "周五",
-    "third": "周二"
+    "seventh": "周日",
+    "sixth": "周六",
+    "third": "周三"
   },
   "weekdaysShort": {
-    "fifth": "周四",
-    "first": "太阳",
-    "fourth": "星期三",
-    "second": "我的",
-    "seventh": "周六",
-    "sixth": "自由",
-    "third": "你的"
+    "fifth": "周五",
+    "first": "周一",
+    "fourth": "周四",
+    "second": "周二",
+    "seventh": "周日",
+    "sixth": "周六",
+    "third": "周三"
   }
 }
