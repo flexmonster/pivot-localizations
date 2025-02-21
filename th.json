@@ -261,6 +261,7 @@
     "clearNumberFilter": "ล้างฟิลเตอร์",
     "clearTimeFilter": "ล้างตัวกรองเวลา",
     "clearValueFilter": "ล้างตัวกรองข้อมูล",
+    "closeSearch": "ปิดการค้นหา",
     "condition": "เงื่อนไข",
     "conditionMeasure": "มาตรวัด",
     "conditionTimeInterval": "ช่วงเวลา",

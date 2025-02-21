@@ -40,6 +40,7 @@
     "top": "Top",
     "bottom": "Bottom",
     "search": "Search",
+    "closeSearch": "Close search",
     "selectAll": "Select all",
     "selectAllResults": "Select all results",
     "amountSelected": "{0} of {1} selected",
