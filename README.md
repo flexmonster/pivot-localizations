@@ -36,9 +36,9 @@ Table of contents:
 
 ## Usage
 
-For details on how to set localization for the component, see the [localization guide](https://www.flexmonster.com/doc/localizing-component?r=github/#!set-localization).
+For details on how to set localization for the component, see the [localization guide](https://www.flexmonster.com/doc/localizing-component?r=github/#set-a-localization).
 
-You can also [create a custom localization file](https://www.flexmonster.com/doc/localizing-component?r=github/#!create-localization-file).
+You can also [create a custom localization file](https://www.flexmonster.com/doc/localizing-component?r=github/#create-custom-localization).
 
 ## Demo
 
