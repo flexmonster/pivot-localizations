@@ -53,12 +53,13 @@ In case of any issues, visit our [Troubleshooting](https://www.flexmonster.com/d
 
 To share your feedback or ask questions, contact our Tech team by raising a ticket on our [Help Center](https://www.flexmonster.com/help-center?r=github). You can also find a list of samples, technical specifications, and a user interface guide there.
 
-## Flexmonster licensing
+## License
 
-To learn about Flexmonster Pivot licenses, visit the [Flexmonster licensing page](https://www.flexmonster.com/pivot-table-editions-and-pricing?r=github). 
-If you want to test our product, we provide a 30-day free trial.
+Localization files for Flexmonster Pivot are distributed under the terms and conditions of the Flexmonster Software License Agreement: [https://www.flexmonster.com/software-license-agreement/](https://www.flexmonster.com/software-license-agreement/?r=github).
 
-If you need any help with your license, fill out our [Contact form](https://www.flexmonster.com/contact-our-team?r=github), and we will get in touch with you.
+Flexmonster offers a 30-day free trial so you can evaluate our product. Pricing for commercial license models can be found on the [Flexmonster pricing page](https://www.flexmonster.com/pivot-table-editions-and-pricing?/r=github).
+
+If you need any help with your license, fill out our [Contact form](https://www.flexmonster.com/contact-our-team/?r=github), and we will get in touch with you.
 
 ## Social media
 
